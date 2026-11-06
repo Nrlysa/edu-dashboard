@@ -1,0 +1,2342 @@
+state,district,area_level,stage,year,date,completion,quality_flag,iqr_outlier,is_state_total,is_missing,is_above_100,is_suspect_over_120,is_iqr_outlier
+Johor,All Districts,State total,primary,2021,01/01/2021,98,OK,No,1,0,0,0,0
+Johor,All Districts,State total,primary,2022,01/01/2022,96.9,OK,No,1,0,0,0,0
+Johor,All Districts,State total,primary,2023,01/01/2023,97.5,OK,No,1,0,0,0,0
+Johor,All Districts,State total,primary,2024,01/01/2024,97.1,OK,No,1,0,0,0,0
+Johor,All Districts,State total,primary,2025,01/01/2025,93,OK,No,1,0,0,0,0
+Johor,All Districts,State total,secondary_lower,2021,01/01/2021,98.2,OK,No,1,0,0,0,0
+Johor,All Districts,State total,secondary_lower,2022,01/01/2022,98.5,OK,No,1,0,0,0,0
+Johor,All Districts,State total,secondary_lower,2023,01/01/2023,97.4,OK,No,1,0,0,0,0
+Johor,All Districts,State total,secondary_lower,2024,01/01/2024,98.3,OK,No,1,0,0,0,0
+Johor,All Districts,State total,secondary_lower,2025,01/01/2025,98.2,OK,No,1,0,0,0,0
+Johor,All Districts,State total,secondary_upper,2021,01/01/2021,98.9,OK,No,1,0,0,0,0
+Johor,All Districts,State total,secondary_upper,2022,01/01/2022,98.5,OK,No,1,0,0,0,0
+Johor,All Districts,State total,secondary_upper,2023,01/01/2023,96.7,OK,No,1,0,0,0,0
+Johor,All Districts,State total,secondary_upper,2024,01/01/2024,98,OK,No,1,0,0,0,0
+Johor,All Districts,State total,secondary_upper,2025,01/01/2025,98.2,OK,No,1,0,0,0,0
+Johor,Batu Pahat,District,primary,2021,01/01/2021,99.8,OK,No,0,0,0,0,0
+Johor,Batu Pahat,District,primary,2022,01/01/2022,105.9,Above 100 (retained),No,0,0,1,0,0
+Johor,Batu Pahat,District,primary,2023,01/01/2023,100.2,Above 100 (retained),No,0,0,1,0,0
+Johor,Batu Pahat,District,primary,2024,01/01/2024,99.4,OK,No,0,0,0,0,0
+Johor,Batu Pahat,District,primary,2025,01/01/2025,95.1,OK,No,0,0,0,0,0
+Johor,Batu Pahat,District,secondary_lower,2021,01/01/2021,99,OK,No,0,0,0,0,0
+Johor,Batu Pahat,District,secondary_lower,2022,01/01/2022,99.3,OK,No,0,0,0,0,0
+Johor,Batu Pahat,District,secondary_lower,2023,01/01/2023,97.5,OK,No,0,0,0,0,0
+Johor,Batu Pahat,District,secondary_lower,2024,01/01/2024,97.7,OK,No,0,0,0,0,0
+Johor,Batu Pahat,District,secondary_lower,2025,01/01/2025,97.6,OK,No,0,0,0,0,0
+Johor,Batu Pahat,District,secondary_upper,2021,01/01/2021,99.4,OK,No,0,0,0,0,0
+Johor,Batu Pahat,District,secondary_upper,2022,01/01/2022,98.2,OK,No,0,0,0,0,0
+Johor,Batu Pahat,District,secondary_upper,2023,01/01/2023,96.2,OK,No,0,0,0,0,0
+Johor,Batu Pahat,District,secondary_upper,2024,01/01/2024,98.1,OK,No,0,0,0,0,0
+Johor,Batu Pahat,District,secondary_upper,2025,01/01/2025,98.1,OK,No,0,0,0,0,0
+Johor,Johor Bahru,District,primary,2021,01/01/2021,96.9,OK,No,0,0,0,0,0
+Johor,Johor Bahru,District,primary,2022,01/01/2022,91.8,OK,No,0,0,0,0,0
+Johor,Johor Bahru,District,primary,2023,01/01/2023,96.2,OK,No,0,0,0,0,0
+Johor,Johor Bahru,District,primary,2024,01/01/2024,95.9,OK,No,0,0,0,0,0
+Johor,Johor Bahru,District,primary,2025,01/01/2025,91.2,OK,No,0,0,0,0,0
+Johor,Johor Bahru,District,secondary_lower,2021,01/01/2021,98.1,OK,No,0,0,0,0,0
+Johor,Johor Bahru,District,secondary_lower,2022,01/01/2022,97.8,OK,No,0,0,0,0,0
+Johor,Johor Bahru,District,secondary_lower,2023,01/01/2023,96.9,OK,No,0,0,0,0,0
+Johor,Johor Bahru,District,secondary_lower,2024,01/01/2024,99.7,OK,No,0,0,0,0,0
+Johor,Johor Bahru,District,secondary_lower,2025,01/01/2025,98.7,OK,No,0,0,0,0,0
+Johor,Johor Bahru,District,secondary_upper,2021,01/01/2021,98.1,OK,No,0,0,0,0,0
+Johor,Johor Bahru,District,secondary_upper,2022,01/01/2022,98.2,OK,No,0,0,0,0,0
+Johor,Johor Bahru,District,secondary_upper,2023,01/01/2023,97,OK,No,0,0,0,0,0
+Johor,Johor Bahru,District,secondary_upper,2024,01/01/2024,97.4,OK,No,0,0,0,0,0
+Johor,Johor Bahru,District,secondary_upper,2025,01/01/2025,97.3,OK,No,0,0,0,0,0
+Johor,Kluang,District,primary,2021,01/01/2021,95.8,OK,No,0,0,0,0,0
+Johor,Kluang,District,primary,2022,01/01/2022,95.3,OK,No,0,0,0,0,0
+Johor,Kluang,District,primary,2023,01/01/2023,96.9,OK,No,0,0,0,0,0
+Johor,Kluang,District,primary,2024,01/01/2024,97.8,OK,No,0,0,0,0,0
+Johor,Kluang,District,primary,2025,01/01/2025,96,OK,No,0,0,0,0,0
+Johor,Kluang,District,secondary_lower,2021,01/01/2021,98.7,OK,No,0,0,0,0,0
+Johor,Kluang,District,secondary_lower,2022,01/01/2022,97.5,OK,No,0,0,0,0,0
+Johor,Kluang,District,secondary_lower,2023,01/01/2023,97.3,OK,No,0,0,0,0,0
+Johor,Kluang,District,secondary_lower,2024,01/01/2024,96.7,OK,No,0,0,0,0,0
+Johor,Kluang,District,secondary_lower,2025,01/01/2025,97.6,OK,No,0,0,0,0,0
+Johor,Kluang,District,secondary_upper,2021,01/01/2021,98.4,OK,No,0,0,0,0,0
+Johor,Kluang,District,secondary_upper,2022,01/01/2022,98.2,OK,No,0,0,0,0,0
+Johor,Kluang,District,secondary_upper,2023,01/01/2023,96.3,OK,No,0,0,0,0,0
+Johor,Kluang,District,secondary_upper,2024,01/01/2024,97.3,OK,No,0,0,0,0,0
+Johor,Kluang,District,secondary_upper,2025,01/01/2025,98.7,OK,No,0,0,0,0,0
+Johor,Kota Tinggi,District,primary,2021,01/01/2021,101,Above 100 (retained),No,0,0,1,0,0
+Johor,Kota Tinggi,District,primary,2022,01/01/2022,98.2,OK,No,0,0,0,0,0
+Johor,Kota Tinggi,District,primary,2023,01/01/2023,98.2,OK,No,0,0,0,0,0
+Johor,Kota Tinggi,District,primary,2024,01/01/2024,97.7,OK,No,0,0,0,0,0
+Johor,Kota Tinggi,District,primary,2025,01/01/2025,96.3,OK,No,0,0,0,0,0
+Johor,Kota Tinggi,District,secondary_lower,2021,01/01/2021,96.8,OK,No,0,0,0,0,0
+Johor,Kota Tinggi,District,secondary_lower,2022,01/01/2022,99.3,OK,No,0,0,0,0,0
+Johor,Kota Tinggi,District,secondary_lower,2023,01/01/2023,98,OK,No,0,0,0,0,0
+Johor,Kota Tinggi,District,secondary_lower,2024,01/01/2024,97.7,OK,No,0,0,0,0,0
+Johor,Kota Tinggi,District,secondary_lower,2025,01/01/2025,99.1,OK,No,0,0,0,0,0
+Johor,Kota Tinggi,District,secondary_upper,2021,01/01/2021,100.1,Above 100 (retained),No,0,0,1,0,0
+Johor,Kota Tinggi,District,secondary_upper,2022,01/01/2022,97.7,OK,No,0,0,0,0,0
+Johor,Kota Tinggi,District,secondary_upper,2023,01/01/2023,96.4,OK,No,0,0,0,0,0
+Johor,Kota Tinggi,District,secondary_upper,2024,01/01/2024,97.6,OK,No,0,0,0,0,0
+Johor,Kota Tinggi,District,secondary_upper,2025,01/01/2025,98.1,OK,No,0,0,0,0,0
+Johor,Kulai,District,primary,2021,01/01/2021,98.7,OK,No,0,0,0,0,0
+Johor,Kulai,District,primary,2022,01/01/2022,96.1,OK,No,0,0,0,0,0
+Johor,Kulai,District,primary,2023,01/01/2023,98.8,OK,No,0,0,0,0,0
+Johor,Kulai,District,primary,2024,01/01/2024,98.7,OK,No,0,0,0,0,0
+Johor,Kulai,District,primary,2025,01/01/2025,94.1,OK,No,0,0,0,0,0
+Johor,Kulai,District,secondary_lower,2021,01/01/2021,98.7,OK,No,0,0,0,0,0
+Johor,Kulai,District,secondary_lower,2022,01/01/2022,99.8,OK,No,0,0,0,0,0
+Johor,Kulai,District,secondary_lower,2023,01/01/2023,98.5,OK,No,0,0,0,0,0
+Johor,Kulai,District,secondary_lower,2024,01/01/2024,98.9,OK,No,0,0,0,0,0
+Johor,Kulai,District,secondary_lower,2025,01/01/2025,100.1,Above 100 (retained),No,0,0,1,0,0
+Johor,Kulai,District,secondary_upper,2021,01/01/2021,99.2,OK,No,0,0,0,0,0
+Johor,Kulai,District,secondary_upper,2022,01/01/2022,98.6,OK,No,0,0,0,0,0
+Johor,Kulai,District,secondary_upper,2023,01/01/2023,97.1,OK,No,0,0,0,0,0
+Johor,Kulai,District,secondary_upper,2024,01/01/2024,99.5,OK,No,0,0,0,0,0
+Johor,Kulai,District,secondary_upper,2025,01/01/2025,99.4,OK,No,0,0,0,0,0
+Johor,Mersing,District,primary,2021,01/01/2021,94.8,OK,No,0,0,0,0,0
+Johor,Mersing,District,primary,2022,01/01/2022,93,OK,No,0,0,0,0,0
+Johor,Mersing,District,primary,2023,01/01/2023,99.2,OK,No,0,0,0,0,0
+Johor,Mersing,District,primary,2024,01/01/2024,93.7,OK,No,0,0,0,0,0
+Johor,Mersing,District,primary,2025,01/01/2025,88.2,OK,No,0,0,0,0,0
+Johor,Mersing,District,secondary_lower,2021,01/01/2021,96.2,OK,No,0,0,0,0,0
+Johor,Mersing,District,secondary_lower,2022,01/01/2022,98,OK,No,0,0,0,0,0
+Johor,Mersing,District,secondary_lower,2023,01/01/2023,92.9,OK,No,0,0,0,0,0
+Johor,Mersing,District,secondary_lower,2024,01/01/2024,95.7,OK,No,0,0,0,0,0
+Johor,Mersing,District,secondary_lower,2025,01/01/2025,94.5,OK,No,0,0,0,0,0
+Johor,Mersing,District,secondary_upper,2021,01/01/2021,98.1,OK,No,0,0,0,0,0
+Johor,Mersing,District,secondary_upper,2022,01/01/2022,98.7,OK,No,0,0,0,0,0
+Johor,Mersing,District,secondary_upper,2023,01/01/2023,96.7,OK,No,0,0,0,0,0
+Johor,Mersing,District,secondary_upper,2024,01/01/2024,97.1,OK,No,0,0,0,0,0
+Johor,Mersing,District,secondary_upper,2025,01/01/2025,97.1,OK,No,0,0,0,0,0
+Johor,Muar,District,primary,2021,01/01/2021,99.2,OK,No,0,0,0,0,0
+Johor,Muar,District,primary,2022,01/01/2022,99.6,OK,No,0,0,0,0,0
+Johor,Muar,District,primary,2023,01/01/2023,93.6,OK,No,0,0,0,0,0
+Johor,Muar,District,primary,2024,01/01/2024,98.6,OK,No,0,0,0,0,0
+Johor,Muar,District,primary,2025,01/01/2025,89.5,OK,No,0,0,0,0,0
+Johor,Muar,District,secondary_lower,2021,01/01/2021,98.7,OK,No,0,0,0,0,0
+Johor,Muar,District,secondary_lower,2022,01/01/2022,99.1,OK,No,0,0,0,0,0
+Johor,Muar,District,secondary_lower,2023,01/01/2023,97.8,OK,No,0,0,0,0,0
+Johor,Muar,District,secondary_lower,2024,01/01/2024,97.9,OK,No,0,0,0,0,0
+Johor,Muar,District,secondary_lower,2025,01/01/2025,97.5,OK,No,0,0,0,0,0
+Johor,Muar,District,secondary_upper,2021,01/01/2021,99,OK,No,0,0,0,0,0
+Johor,Muar,District,secondary_upper,2022,01/01/2022,98.9,OK,No,0,0,0,0,0
+Johor,Muar,District,secondary_upper,2023,01/01/2023,94.4,OK,No,0,0,0,0,0
+Johor,Muar,District,secondary_upper,2024,01/01/2024,97.2,OK,No,0,0,0,0,0
+Johor,Muar,District,secondary_upper,2025,01/01/2025,97.7,OK,No,0,0,0,0,0
+Johor,Pasir Gudang,District,primary,2021,01/01/2021,97.4,OK,No,0,0,0,0,0
+Johor,Pasir Gudang,District,primary,2022,01/01/2022,97.6,OK,No,0,0,0,0,0
+Johor,Pasir Gudang,District,primary,2023,01/01/2023,96.1,OK,No,0,0,0,0,0
+Johor,Pasir Gudang,District,primary,2024,01/01/2024,95.8,OK,No,0,0,0,0,0
+Johor,Pasir Gudang,District,primary,2025,01/01/2025,94.4,OK,No,0,0,0,0,0
+Johor,Pasir Gudang,District,secondary_lower,2021,01/01/2021,97.6,OK,No,0,0,0,0,0
+Johor,Pasir Gudang,District,secondary_lower,2022,01/01/2022,97.5,OK,No,0,0,0,0,0
+Johor,Pasir Gudang,District,secondary_lower,2023,01/01/2023,97.6,OK,No,0,0,0,0,0
+Johor,Pasir Gudang,District,secondary_lower,2024,01/01/2024,98.5,OK,No,0,0,0,0,0
+Johor,Pasir Gudang,District,secondary_lower,2025,01/01/2025,97.8,OK,No,0,0,0,0,0
+Johor,Pasir Gudang,District,secondary_upper,2021,01/01/2021,99,OK,No,0,0,0,0,0
+Johor,Pasir Gudang,District,secondary_upper,2022,01/01/2022,98.3,OK,No,0,0,0,0,0
+Johor,Pasir Gudang,District,secondary_upper,2023,01/01/2023,96.2,OK,No,0,0,0,0,0
+Johor,Pasir Gudang,District,secondary_upper,2024,01/01/2024,98.4,OK,No,0,0,0,0,0
+Johor,Pasir Gudang,District,secondary_upper,2025,01/01/2025,97.4,OK,No,0,0,0,0,0
+Johor,Pontian,District,primary,2021,01/01/2021,100.3,Above 100 (retained),No,0,0,1,0,0
+Johor,Pontian,District,primary,2022,01/01/2022,99.4,OK,No,0,0,0,0,0
+Johor,Pontian,District,primary,2023,01/01/2023,98.9,OK,No,0,0,0,0,0
+Johor,Pontian,District,primary,2024,01/01/2024,97.1,OK,No,0,0,0,0,0
+Johor,Pontian,District,primary,2025,01/01/2025,85.8,Low outlier (IQR),Yes,0,0,0,0,1
+Johor,Pontian,District,secondary_lower,2021,01/01/2021,98.8,OK,No,0,0,0,0,0
+Johor,Pontian,District,secondary_lower,2022,01/01/2022,99.5,OK,No,0,0,0,0,0
+Johor,Pontian,District,secondary_lower,2023,01/01/2023,97.1,OK,No,0,0,0,0,0
+Johor,Pontian,District,secondary_lower,2024,01/01/2024,98.2,OK,No,0,0,0,0,0
+Johor,Pontian,District,secondary_lower,2025,01/01/2025,98,OK,No,0,0,0,0,0
+Johor,Pontian,District,secondary_upper,2021,01/01/2021,99.7,OK,No,0,0,0,0,0
+Johor,Pontian,District,secondary_upper,2022,01/01/2022,99.2,OK,No,0,0,0,0,0
+Johor,Pontian,District,secondary_upper,2023,01/01/2023,95.2,OK,No,0,0,0,0,0
+Johor,Pontian,District,secondary_upper,2024,01/01/2024,98.8,OK,No,0,0,0,0,0
+Johor,Pontian,District,secondary_upper,2025,01/01/2025,99.8,OK,No,0,0,0,0,0
+Johor,Segamat,District,primary,2021,01/01/2021,96.2,OK,No,0,0,0,0,0
+Johor,Segamat,District,primary,2022,01/01/2022,96.6,OK,No,0,0,0,0,0
+Johor,Segamat,District,primary,2023,01/01/2023,96.2,OK,No,0,0,0,0,0
+Johor,Segamat,District,primary,2024,01/01/2024,95.7,OK,No,0,0,0,0,0
+Johor,Segamat,District,primary,2025,01/01/2025,93.2,OK,No,0,0,0,0,0
+Johor,Segamat,District,secondary_lower,2021,01/01/2021,98.4,OK,No,0,0,0,0,0
+Johor,Segamat,District,secondary_lower,2022,01/01/2022,99.1,OK,No,0,0,0,0,0
+Johor,Segamat,District,secondary_lower,2023,01/01/2023,96.9,OK,No,0,0,0,0,0
+Johor,Segamat,District,secondary_lower,2024,01/01/2024,97.7,OK,No,0,0,0,0,0
+Johor,Segamat,District,secondary_lower,2025,01/01/2025,98.4,OK,No,0,0,0,0,0
+Johor,Segamat,District,secondary_upper,2021,01/01/2021,99,OK,No,0,0,0,0,0
+Johor,Segamat,District,secondary_upper,2022,01/01/2022,99.4,OK,No,0,0,0,0,0
+Johor,Segamat,District,secondary_upper,2023,01/01/2023,98,OK,No,0,0,0,0,0
+Johor,Segamat,District,secondary_upper,2024,01/01/2024,99,OK,No,0,0,0,0,0
+Johor,Segamat,District,secondary_upper,2025,01/01/2025,102.2,Above 100 (retained),No,0,0,1,0,0
+Johor,Tangkak,District,primary,2021,01/01/2021,101,Above 100 (retained),No,0,0,1,0,0
+Johor,Tangkak,District,primary,2022,01/01/2022,99.4,OK,No,0,0,0,0,0
+Johor,Tangkak,District,primary,2023,01/01/2023,99.9,OK,No,0,0,0,0,0
+Johor,Tangkak,District,primary,2024,01/01/2024,100.1,Above 100 (retained),No,0,0,1,0,0
+Johor,Tangkak,District,primary,2025,01/01/2025,95.8,OK,No,0,0,0,0,0
+Johor,Tangkak,District,secondary_lower,2021,01/01/2021,99.5,OK,No,0,0,0,0,0
+Johor,Tangkak,District,secondary_lower,2022,01/01/2022,100.3,Above 100 (retained),No,0,0,1,0,0
+Johor,Tangkak,District,secondary_lower,2023,01/01/2023,98.4,OK,No,0,0,0,0,0
+Johor,Tangkak,District,secondary_lower,2024,01/01/2024,98.1,OK,No,0,0,0,0,0
+Johor,Tangkak,District,secondary_lower,2025,01/01/2025,99.1,OK,No,0,0,0,0,0
+Johor,Tangkak,District,secondary_upper,2021,01/01/2021,98.5,OK,No,0,0,0,0,0
+Johor,Tangkak,District,secondary_upper,2022,01/01/2022,99.4,OK,No,0,0,0,0,0
+Johor,Tangkak,District,secondary_upper,2023,01/01/2023,96.9,OK,No,0,0,0,0,0
+Johor,Tangkak,District,secondary_upper,2024,01/01/2024,97,OK,No,0,0,0,0,0
+Johor,Tangkak,District,secondary_upper,2025,01/01/2025,97.6,OK,No,0,0,0,0,0
+Kedah,All Districts,State total,primary,2021,01/01/2021,101.1,Above 100 (retained),No,1,0,1,0,0
+Kedah,All Districts,State total,primary,2022,01/01/2022,104,Above 100 (retained),No,1,0,1,0,0
+Kedah,All Districts,State total,primary,2023,01/01/2023,100.7,Above 100 (retained),No,1,0,1,0,0
+Kedah,All Districts,State total,primary,2024,01/01/2024,101,Above 100 (retained),No,1,0,1,0,0
+Kedah,All Districts,State total,primary,2025,01/01/2025,98.2,OK,No,1,0,0,0,0
+Kedah,All Districts,State total,secondary_lower,2021,01/01/2021,99.8,OK,No,1,0,0,0,0
+Kedah,All Districts,State total,secondary_lower,2022,01/01/2022,101,Above 100 (retained),No,1,0,1,0,0
+Kedah,All Districts,State total,secondary_lower,2023,01/01/2023,98.8,OK,No,1,0,0,0,0
+Kedah,All Districts,State total,secondary_lower,2024,01/01/2024,98.3,OK,No,1,0,0,0,0
+Kedah,All Districts,State total,secondary_lower,2025,01/01/2025,98.2,OK,No,1,0,0,0,0
+Kedah,All Districts,State total,secondary_upper,2021,01/01/2021,99.8,OK,No,1,0,0,0,0
+Kedah,All Districts,State total,secondary_upper,2022,01/01/2022,98.3,OK,No,1,0,0,0,0
+Kedah,All Districts,State total,secondary_upper,2023,01/01/2023,95.4,OK,No,1,0,0,0,0
+Kedah,All Districts,State total,secondary_upper,2024,01/01/2024,96.5,OK,No,1,0,0,0,0
+Kedah,All Districts,State total,secondary_upper,2025,01/01/2025,97.2,OK,No,1,0,0,0,0
+Kedah,Baling,District,primary,2021,01/01/2021,102.8,Above 100 (retained),No,0,0,1,0,0
+Kedah,Baling,District,primary,2022,01/01/2022,112.9,Above 100 (retained),Yes,0,0,1,0,1
+Kedah,Baling,District,primary,2023,01/01/2023,104.2,Above 100 (retained),No,0,0,1,0,0
+Kedah,Baling,District,primary,2024,01/01/2024,106.6,Above 100 (retained),No,0,0,1,0,0
+Kedah,Baling,District,primary,2025,01/01/2025,104.7,Above 100 (retained),No,0,0,1,0,0
+Kedah,Baling,District,secondary_lower,2021,01/01/2021,100.6,Above 100 (retained),No,0,0,1,0,0
+Kedah,Baling,District,secondary_lower,2022,01/01/2022,103.6,Above 100 (retained),No,0,0,1,0,0
+Kedah,Baling,District,secondary_lower,2023,01/01/2023,100.5,Above 100 (retained),No,0,0,1,0,0
+Kedah,Baling,District,secondary_lower,2024,01/01/2024,99.7,OK,No,0,0,0,0,0
+Kedah,Baling,District,secondary_lower,2025,01/01/2025,99.5,OK,No,0,0,0,0,0
+Kedah,Baling,District,secondary_upper,2021,01/01/2021,100.7,Above 100 (retained),No,0,0,1,0,0
+Kedah,Baling,District,secondary_upper,2022,01/01/2022,98.1,OK,No,0,0,0,0,0
+Kedah,Baling,District,secondary_upper,2023,01/01/2023,96,OK,No,0,0,0,0,0
+Kedah,Baling,District,secondary_upper,2024,01/01/2024,96.3,OK,No,0,0,0,0,0
+Kedah,Baling,District,secondary_upper,2025,01/01/2025,98.3,OK,No,0,0,0,0,0
+Kedah,Kota Setar,District,primary,2021,01/01/2021,101.1,Above 100 (retained),No,0,0,1,0,0
+Kedah,Kota Setar,District,primary,2022,01/01/2022,101.1,Above 100 (retained),No,0,0,1,0,0
+Kedah,Kota Setar,District,primary,2023,01/01/2023,100.3,Above 100 (retained),No,0,0,1,0,0
+Kedah,Kota Setar,District,primary,2024,01/01/2024,101.4,Above 100 (retained),No,0,0,1,0,0
+Kedah,Kota Setar,District,primary,2025,01/01/2025,98.3,OK,No,0,0,0,0,0
+Kedah,Kota Setar,District,secondary_lower,2021,01/01/2021,99.3,OK,No,0,0,0,0,0
+Kedah,Kota Setar,District,secondary_lower,2022,01/01/2022,100.1,Above 100 (retained),No,0,0,1,0,0
+Kedah,Kota Setar,District,secondary_lower,2023,01/01/2023,98.1,OK,No,0,0,0,0,0
+Kedah,Kota Setar,District,secondary_lower,2024,01/01/2024,97.5,OK,No,0,0,0,0,0
+Kedah,Kota Setar,District,secondary_lower,2025,01/01/2025,97.7,OK,No,0,0,0,0,0
+Kedah,Kota Setar,District,secondary_upper,2021,01/01/2021,99.9,OK,No,0,0,0,0,0
+Kedah,Kota Setar,District,secondary_upper,2022,01/01/2022,98,OK,No,0,0,0,0,0
+Kedah,Kota Setar,District,secondary_upper,2023,01/01/2023,95.3,OK,No,0,0,0,0,0
+Kedah,Kota Setar,District,secondary_upper,2024,01/01/2024,96.5,OK,No,0,0,0,0,0
+Kedah,Kota Setar,District,secondary_upper,2025,01/01/2025,97.4,OK,No,0,0,0,0,0
+Kedah,Kuala Muda/Yan,District,primary,2021,01/01/2021,102,Above 100 (retained),No,0,0,1,0,0
+Kedah,Kuala Muda/Yan,District,primary,2022,01/01/2022,105.8,Above 100 (retained),No,0,0,1,0,0
+Kedah,Kuala Muda/Yan,District,primary,2023,01/01/2023,102.1,Above 100 (retained),No,0,0,1,0,0
+Kedah,Kuala Muda/Yan,District,primary,2024,01/01/2024,101.8,Above 100 (retained),No,0,0,1,0,0
+Kedah,Kuala Muda/Yan,District,primary,2025,01/01/2025,98.4,OK,No,0,0,0,0,0
+Kedah,Kuala Muda/Yan,District,secondary_lower,2021,01/01/2021,100.8,Above 100 (retained),No,0,0,1,0,0
+Kedah,Kuala Muda/Yan,District,secondary_lower,2022,01/01/2022,101,Above 100 (retained),No,0,0,1,0,0
+Kedah,Kuala Muda/Yan,District,secondary_lower,2023,01/01/2023,98.7,OK,No,0,0,0,0,0
+Kedah,Kuala Muda/Yan,District,secondary_lower,2024,01/01/2024,98.6,OK,No,0,0,0,0,0
+Kedah,Kuala Muda/Yan,District,secondary_lower,2025,01/01/2025,99.5,OK,No,0,0,0,0,0
+Kedah,Kuala Muda/Yan,District,secondary_upper,2021,01/01/2021,100.3,Above 100 (retained),No,0,0,1,0,0
+Kedah,Kuala Muda/Yan,District,secondary_upper,2022,01/01/2022,98.8,OK,No,0,0,0,0,0
+Kedah,Kuala Muda/Yan,District,secondary_upper,2023,01/01/2023,95.4,OK,No,0,0,0,0,0
+Kedah,Kuala Muda/Yan,District,secondary_upper,2024,01/01/2024,97.2,OK,No,0,0,0,0,0
+Kedah,Kuala Muda/Yan,District,secondary_upper,2025,01/01/2025,96.9,OK,No,0,0,0,0,0
+Kedah,Kubang Pasu,District,primary,2021,01/01/2021,101.4,Above 100 (retained),No,0,0,1,0,0
+Kedah,Kubang Pasu,District,primary,2022,01/01/2022,98.7,OK,No,0,0,0,0,0
+Kedah,Kubang Pasu,District,primary,2023,01/01/2023,99.9,OK,No,0,0,0,0,0
+Kedah,Kubang Pasu,District,primary,2024,01/01/2024,100.6,Above 100 (retained),No,0,0,1,0,0
+Kedah,Kubang Pasu,District,primary,2025,01/01/2025,98.7,OK,No,0,0,0,0,0
+Kedah,Kubang Pasu,District,secondary_lower,2021,01/01/2021,100.2,Above 100 (retained),No,0,0,1,0,0
+Kedah,Kubang Pasu,District,secondary_lower,2022,01/01/2022,100.9,Above 100 (retained),No,0,0,1,0,0
+Kedah,Kubang Pasu,District,secondary_lower,2023,01/01/2023,99.8,OK,No,0,0,0,0,0
+Kedah,Kubang Pasu,District,secondary_lower,2024,01/01/2024,97.7,OK,No,0,0,0,0,0
+Kedah,Kubang Pasu,District,secondary_lower,2025,01/01/2025,97.4,OK,No,0,0,0,0,0
+Kedah,Kubang Pasu,District,secondary_upper,2021,01/01/2021,99.2,OK,No,0,0,0,0,0
+Kedah,Kubang Pasu,District,secondary_upper,2022,01/01/2022,98,OK,No,0,0,0,0,0
+Kedah,Kubang Pasu,District,secondary_upper,2023,01/01/2023,96.3,OK,No,0,0,0,0,0
+Kedah,Kubang Pasu,District,secondary_upper,2024,01/01/2024,97.1,OK,No,0,0,0,0,0
+Kedah,Kubang Pasu,District,secondary_upper,2025,01/01/2025,96.3,OK,No,0,0,0,0,0
+Kedah,Kulim/Bandar Baharu,District,primary,2021,01/01/2021,98.7,OK,No,0,0,0,0,0
+Kedah,Kulim/Bandar Baharu,District,primary,2022,01/01/2022,100.6,Above 100 (retained),No,0,0,1,0,0
+Kedah,Kulim/Bandar Baharu,District,primary,2023,01/01/2023,99.1,OK,No,0,0,0,0,0
+Kedah,Kulim/Bandar Baharu,District,primary,2024,01/01/2024,98.6,OK,No,0,0,0,0,0
+Kedah,Kulim/Bandar Baharu,District,primary,2025,01/01/2025,95.8,OK,No,0,0,0,0,0
+Kedah,Kulim/Bandar Baharu,District,secondary_lower,2021,01/01/2021,99.9,OK,No,0,0,0,0,0
+Kedah,Kulim/Bandar Baharu,District,secondary_lower,2022,01/01/2022,100.8,Above 100 (retained),No,0,0,1,0,0
+Kedah,Kulim/Bandar Baharu,District,secondary_lower,2023,01/01/2023,98.3,OK,No,0,0,0,0,0
+Kedah,Kulim/Bandar Baharu,District,secondary_lower,2024,01/01/2024,97.9,OK,No,0,0,0,0,0
+Kedah,Kulim/Bandar Baharu,District,secondary_lower,2025,01/01/2025,98.5,OK,No,0,0,0,0,0
+Kedah,Kulim/Bandar Baharu,District,secondary_upper,2021,01/01/2021,99.6,OK,No,0,0,0,0,0
+Kedah,Kulim/Bandar Baharu,District,secondary_upper,2022,01/01/2022,98.6,OK,No,0,0,0,0,0
+Kedah,Kulim/Bandar Baharu,District,secondary_upper,2023,01/01/2023,95.8,OK,No,0,0,0,0,0
+Kedah,Kulim/Bandar Baharu,District,secondary_upper,2024,01/01/2024,96.2,OK,No,0,0,0,0,0
+Kedah,Kulim/Bandar Baharu,District,secondary_upper,2025,01/01/2025,98.2,OK,No,0,0,0,0,0
+Kedah,Langkawi,District,primary,2021,01/01/2021,96,OK,No,0,0,0,0,0
+Kedah,Langkawi,District,primary,2022,01/01/2022,95.4,OK,No,0,0,0,0,0
+Kedah,Langkawi,District,primary,2023,01/01/2023,94.2,OK,No,0,0,0,0,0
+Kedah,Langkawi,District,primary,2024,01/01/2024,90.9,OK,No,0,0,0,0,0
+Kedah,Langkawi,District,primary,2025,01/01/2025,87.6,Low outlier (IQR),Yes,0,0,0,0,1
+Kedah,Langkawi,District,secondary_lower,2021,01/01/2021,95.8,OK,No,0,0,0,0,0
+Kedah,Langkawi,District,secondary_lower,2022,01/01/2022,97.7,OK,No,0,0,0,0,0
+Kedah,Langkawi,District,secondary_lower,2023,01/01/2023,96.6,OK,No,0,0,0,0,0
+Kedah,Langkawi,District,secondary_lower,2024,01/01/2024,96.1,OK,No,0,0,0,0,0
+Kedah,Langkawi,District,secondary_lower,2025,01/01/2025,95.5,OK,No,0,0,0,0,0
+Kedah,Langkawi,District,secondary_upper,2021,01/01/2021,98.3,OK,No,0,0,0,0,0
+Kedah,Langkawi,District,secondary_upper,2022,01/01/2022,96.8,OK,No,0,0,0,0,0
+Kedah,Langkawi,District,secondary_upper,2023,01/01/2023,92.3,Low outlier (IQR),Yes,0,0,0,0,1
+Kedah,Langkawi,District,secondary_upper,2024,01/01/2024,92.4,Low outlier (IQR),Yes,0,0,0,0,1
+Kedah,Langkawi,District,secondary_upper,2025,01/01/2025,96.2,OK,No,0,0,0,0,0
+Kedah,Padang Terap,District,primary,2021,01/01/2021,102.5,Above 100 (retained),No,0,0,1,0,0
+Kedah,Padang Terap,District,primary,2022,01/01/2022,112.4,Above 100 (retained),Yes,0,0,1,0,1
+Kedah,Padang Terap,District,primary,2023,01/01/2023,100.6,Above 100 (retained),No,0,0,1,0,0
+Kedah,Padang Terap,District,primary,2024,01/01/2024,102.4,Above 100 (retained),No,0,0,1,0,0
+Kedah,Padang Terap,District,primary,2025,01/01/2025,103,Above 100 (retained),No,0,0,1,0,0
+Kedah,Padang Terap,District,secondary_lower,2021,01/01/2021,98.9,OK,No,0,0,0,0,0
+Kedah,Padang Terap,District,secondary_lower,2022,01/01/2022,101.4,Above 100 (retained),No,0,0,1,0,0
+Kedah,Padang Terap,District,secondary_lower,2023,01/01/2023,95.2,OK,No,0,0,0,0,0
+Kedah,Padang Terap,District,secondary_lower,2024,01/01/2024,96.6,OK,No,0,0,0,0,0
+Kedah,Padang Terap,District,secondary_lower,2025,01/01/2025,98.6,OK,No,0,0,0,0,0
+Kedah,Padang Terap,District,secondary_upper,2021,01/01/2021,99.5,OK,No,0,0,0,0,0
+Kedah,Padang Terap,District,secondary_upper,2022,01/01/2022,98.3,OK,No,0,0,0,0,0
+Kedah,Padang Terap,District,secondary_upper,2023,01/01/2023,92.3,Low outlier (IQR),Yes,0,0,0,0,1
+Kedah,Padang Terap,District,secondary_upper,2024,01/01/2024,95.8,OK,No,0,0,0,0,0
+Kedah,Padang Terap,District,secondary_upper,2025,01/01/2025,100.2,Above 100 (retained),No,0,0,1,0,0
+Kedah,Pendang,District,primary,2021,01/01/2021,105.4,Above 100 (retained),No,0,0,1,0,0
+Kedah,Pendang,District,primary,2022,01/01/2022,112.9,Above 100 (retained),Yes,0,0,1,0,1
+Kedah,Pendang,District,primary,2023,01/01/2023,104.4,Above 100 (retained),No,0,0,1,0,0
+Kedah,Pendang,District,primary,2024,01/01/2024,106.8,Above 100 (retained),No,0,0,1,0,0
+Kedah,Pendang,District,primary,2025,01/01/2025,104.4,Above 100 (retained),No,0,0,1,0,0
+Kedah,Pendang,District,secondary_lower,2021,01/01/2021,100.3,Above 100 (retained),No,0,0,1,0,0
+Kedah,Pendang,District,secondary_lower,2022,01/01/2022,100.3,Above 100 (retained),No,0,0,1,0,0
+Kedah,Pendang,District,secondary_lower,2023,01/01/2023,101.9,Above 100 (retained),No,0,0,1,0,0
+Kedah,Pendang,District,secondary_lower,2024,01/01/2024,106.5,Above 100 (retained),Yes,0,0,1,0,1
+Kedah,Pendang,District,secondary_lower,2025,01/01/2025,99.3,OK,No,0,0,0,0,0
+Kedah,Pendang,District,secondary_upper,2021,01/01/2021,97.1,OK,No,0,0,0,0,0
+Kedah,Pendang,District,secondary_upper,2022,01/01/2022,98.5,OK,No,0,0,0,0,0
+Kedah,Pendang,District,secondary_upper,2023,01/01/2023,94.5,OK,No,0,0,0,0,0
+Kedah,Pendang,District,secondary_upper,2024,01/01/2024,96.2,OK,No,0,0,0,0,0
+Kedah,Pendang,District,secondary_upper,2025,01/01/2025,92.1,Low outlier (IQR),Yes,0,0,0,0,1
+Kedah,Sik,District,primary,2023,01/01/2023,98.7,OK,No,0,0,0,0,0
+Kedah,Sik,District,primary,2024,01/01/2024,100.1,Above 100 (retained),No,0,0,1,0,0
+Kedah,Sik,District,primary,2025,01/01/2025,94.6,OK,No,0,0,0,0,0
+Kedah,Sik,District,secondary_lower,2021,01/01/2021,97.1,OK,No,0,0,0,0,0
+Kedah,Sik,District,secondary_lower,2022,01/01/2022,106.4,Above 100 (retained),Yes,0,0,1,0,1
+Kedah,Sik,District,secondary_lower,2023,01/01/2023,100.4,Above 100 (retained),No,0,0,1,0,0
+Kedah,Sik,District,secondary_lower,2024,01/01/2024,96.3,OK,No,0,0,0,0,0
+Kedah,Sik,District,secondary_lower,2025,01/01/2025,99,OK,No,0,0,0,0,0
+Kedah,Sik,District,secondary_upper,2021,01/01/2021,101.2,Above 100 (retained),No,0,0,1,0,0
+Kedah,Sik,District,secondary_upper,2022,01/01/2022,96.5,OK,No,0,0,0,0,0
+Kedah,Sik,District,secondary_upper,2023,01/01/2023,97.9,OK,No,0,0,0,0,0
+Kedah,Sik,District,secondary_upper,2024,01/01/2024,96.9,OK,No,0,0,0,0,0
+Kedah,Sik,District,secondary_upper,2025,01/01/2025,99.7,OK,No,0,0,0,0,0
+Kelantan,All Districts,State total,primary,2021,01/01/2021,100.3,Above 100 (retained),No,1,0,1,0,0
+Kelantan,All Districts,State total,primary,2022,01/01/2022,104.3,Above 100 (retained),No,1,0,1,0,0
+Kelantan,All Districts,State total,primary,2023,01/01/2023,101.2,Above 100 (retained),No,1,0,1,0,0
+Kelantan,All Districts,State total,primary,2024,01/01/2024,100.9,Above 100 (retained),No,1,0,1,0,0
+Kelantan,All Districts,State total,primary,2025,01/01/2025,97.9,OK,No,1,0,0,0,0
+Kelantan,All Districts,State total,secondary_lower,2021,01/01/2021,100.3,Above 100 (retained),No,1,0,1,0,0
+Kelantan,All Districts,State total,secondary_lower,2022,01/01/2022,102.2,Above 100 (retained),No,1,0,1,0,0
+Kelantan,All Districts,State total,secondary_lower,2023,01/01/2023,99.5,OK,No,1,0,0,0,0
+Kelantan,All Districts,State total,secondary_lower,2024,01/01/2024,99.7,OK,No,1,0,0,0,0
+Kelantan,All Districts,State total,secondary_lower,2025,01/01/2025,99.3,OK,No,1,0,0,0,0
+Kelantan,All Districts,State total,secondary_upper,2021,01/01/2021,100.1,Above 100 (retained),No,1,0,1,0,0
+Kelantan,All Districts,State total,secondary_upper,2022,01/01/2022,99.5,OK,No,1,0,0,0,0
+Kelantan,All Districts,State total,secondary_upper,2023,01/01/2023,97.8,OK,No,1,0,0,0,0
+Kelantan,All Districts,State total,secondary_upper,2024,01/01/2024,98.8,OK,No,1,0,0,0,0
+Kelantan,All Districts,State total,secondary_upper,2025,01/01/2025,98.2,OK,No,1,0,0,0,0
+Kelantan,Bachok,District,primary,2021,01/01/2021,104.3,Above 100 (retained),No,0,0,1,0,0
+Kelantan,Bachok,District,primary,2022,01/01/2022,109.4,Above 100 (retained),No,0,0,1,0,0
+Kelantan,Bachok,District,primary,2023,01/01/2023,101.9,Above 100 (retained),No,0,0,1,0,0
+Kelantan,Bachok,District,primary,2024,01/01/2024,104.2,Above 100 (retained),No,0,0,1,0,0
+Kelantan,Bachok,District,primary,2025,01/01/2025,97.8,OK,No,0,0,0,0,0
+Kelantan,Bachok,District,secondary_lower,2021,01/01/2021,100.7,Above 100 (retained),No,0,0,1,0,0
+Kelantan,Bachok,District,secondary_lower,2022,01/01/2022,102.8,Above 100 (retained),No,0,0,1,0,0
+Kelantan,Bachok,District,secondary_lower,2023,01/01/2023,101.9,Above 100 (retained),No,0,0,1,0,0
+Kelantan,Bachok,District,secondary_lower,2024,01/01/2024,102.3,Above 100 (retained),No,0,0,1,0,0
+Kelantan,Bachok,District,secondary_lower,2025,01/01/2025,102.6,Above 100 (retained),No,0,0,1,0,0
+Kelantan,Bachok,District,secondary_upper,2021,01/01/2021,100.9,Above 100 (retained),No,0,0,1,0,0
+Kelantan,Bachok,District,secondary_upper,2022,01/01/2022,99.6,OK,No,0,0,0,0,0
+Kelantan,Bachok,District,secondary_upper,2023,01/01/2023,97.7,OK,No,0,0,0,0,0
+Kelantan,Bachok,District,secondary_upper,2024,01/01/2024,98.5,OK,No,0,0,0,0,0
+Kelantan,Bachok,District,secondary_upper,2025,01/01/2025,100,OK,No,0,0,0,0,0
+Kelantan,Gua Musang,District,primary,2021,01/01/2021,97.6,OK,No,0,0,0,0,0
+Kelantan,Gua Musang,District,primary,2022,01/01/2022,107.2,Above 100 (retained),No,0,0,1,0,0
+Kelantan,Gua Musang,District,primary,2023,01/01/2023,101,Above 100 (retained),No,0,0,1,0,0
+Kelantan,Gua Musang,District,primary,2024,01/01/2024,102.5,Above 100 (retained),No,0,0,1,0,0
+Kelantan,Gua Musang,District,primary,2025,01/01/2025,97.4,OK,No,0,0,0,0,0
+Kelantan,Gua Musang,District,secondary_lower,2021,01/01/2021,98.6,OK,No,0,0,0,0,0
+Kelantan,Gua Musang,District,secondary_lower,2022,01/01/2022,103.3,Above 100 (retained),No,0,0,1,0,0
+Kelantan,Gua Musang,District,secondary_lower,2023,01/01/2023,98.6,OK,No,0,0,0,0,0
+Kelantan,Gua Musang,District,secondary_lower,2024,01/01/2024,96.8,OK,No,0,0,0,0,0
+Kelantan,Gua Musang,District,secondary_lower,2025,01/01/2025,95.9,OK,No,0,0,0,0,0
+Kelantan,Gua Musang,District,secondary_upper,2021,01/01/2021,100.7,Above 100 (retained),No,0,0,1,0,0
+Kelantan,Gua Musang,District,secondary_upper,2022,01/01/2022,99,OK,No,0,0,0,0,0
+Kelantan,Gua Musang,District,secondary_upper,2023,01/01/2023,98.6,OK,No,0,0,0,0,0
+Kelantan,Gua Musang,District,secondary_upper,2024,01/01/2024,93.7,OK,No,0,0,0,0,0
+Kelantan,Gua Musang,District,secondary_upper,2025,01/01/2025,87.1,Low outlier (IQR),Yes,0,0,0,0,1
+Kelantan,Jeli,District,primary,2021,01/01/2021,101.8,Above 100 (retained),No,0,0,1,0,0
+Kelantan,Jeli,District,primary,2022,01/01/2022,109.1,Above 100 (retained),No,0,0,1,0,0
+Kelantan,Jeli,District,primary,2023,01/01/2023,100.1,Above 100 (retained),No,0,0,1,0,0
+Kelantan,Jeli,District,primary,2024,01/01/2024,95.1,OK,No,0,0,0,0,0
+Kelantan,Jeli,District,primary,2025,01/01/2025,89.6,OK,No,0,0,0,0,0
+Kelantan,Jeli,District,secondary_lower,2021,01/01/2021,102.6,Above 100 (retained),No,0,0,1,0,0
+Kelantan,Jeli,District,secondary_lower,2022,01/01/2022,103.7,Above 100 (retained),No,0,0,1,0,0
+Kelantan,Jeli,District,secondary_lower,2023,01/01/2023,101.5,Above 100 (retained),No,0,0,1,0,0
+Kelantan,Jeli,District,secondary_lower,2024,01/01/2024,99.1,OK,No,0,0,0,0,0
+Kelantan,Jeli,District,secondary_lower,2025,01/01/2025,97.4,OK,No,0,0,0,0,0
+Kelantan,Jeli,District,secondary_upper,2021,01/01/2021,101.6,Above 100 (retained),No,0,0,1,0,0
+Kelantan,Jeli,District,secondary_upper,2022,01/01/2022,100.9,Above 100 (retained),No,0,0,1,0,0
+Kelantan,Jeli,District,secondary_upper,2023,01/01/2023,98.6,OK,No,0,0,0,0,0
+Kelantan,Jeli,District,secondary_upper,2024,01/01/2024,97.9,OK,No,0,0,0,0,0
+Kelantan,Jeli,District,secondary_upper,2025,01/01/2025,99,OK,No,0,0,0,0,0
+Kelantan,Kota Bharu,District,primary,2021,01/01/2021,100.1,Above 100 (retained),No,0,0,1,0,0
+Kelantan,Kota Bharu,District,primary,2022,01/01/2022,101.7,Above 100 (retained),No,0,0,1,0,0
+Kelantan,Kota Bharu,District,primary,2023,01/01/2023,104,Above 100 (retained),No,0,0,1,0,0
+Kelantan,Kota Bharu,District,primary,2024,01/01/2024,100.6,Above 100 (retained),No,0,0,1,0,0
+Kelantan,Kota Bharu,District,primary,2025,01/01/2025,97.5,OK,No,0,0,0,0,0
+Kelantan,Kota Bharu,District,secondary_lower,2021,01/01/2021,100.3,Above 100 (retained),No,0,0,1,0,0
+Kelantan,Kota Bharu,District,secondary_lower,2022,01/01/2022,101.6,Above 100 (retained),No,0,0,1,0,0
+Kelantan,Kota Bharu,District,secondary_lower,2023,01/01/2023,98.8,OK,No,0,0,0,0,0
+Kelantan,Kota Bharu,District,secondary_lower,2024,01/01/2024,96.8,OK,No,0,0,0,0,0
+Kelantan,Kota Bharu,District,secondary_lower,2025,01/01/2025,98.3,OK,No,0,0,0,0,0
+Kelantan,Kota Bharu,District,secondary_upper,2021,01/01/2021,100.2,Above 100 (retained),No,0,0,1,0,0
+Kelantan,Kota Bharu,District,secondary_upper,2022,01/01/2022,99.5,OK,No,0,0,0,0,0
+Kelantan,Kota Bharu,District,secondary_upper,2023,01/01/2023,98.5,OK,No,0,0,0,0,0
+Kelantan,Kota Bharu,District,secondary_upper,2024,01/01/2024,99.4,OK,No,0,0,0,0,0
+Kelantan,Kota Bharu,District,secondary_upper,2025,01/01/2025,99.4,OK,No,0,0,0,0,0
+Kelantan,Kuala Krai,District,primary,2021,01/01/2021,99.6,OK,No,0,0,0,0,0
+Kelantan,Kuala Krai,District,primary,2022,01/01/2022,98.6,OK,No,0,0,0,0,0
+Kelantan,Kuala Krai,District,primary,2023,01/01/2023,97.2,OK,No,0,0,0,0,0
+Kelantan,Kuala Krai,District,primary,2024,01/01/2024,96.1,OK,No,0,0,0,0,0
+Kelantan,Kuala Krai,District,primary,2025,01/01/2025,92.1,OK,No,0,0,0,0,0
+Kelantan,Kuala Krai,District,secondary_lower,2021,01/01/2021,98.8,OK,No,0,0,0,0,0
+Kelantan,Kuala Krai,District,secondary_lower,2022,01/01/2022,100.3,Above 100 (retained),No,0,0,1,0,0
+Kelantan,Kuala Krai,District,secondary_lower,2023,01/01/2023,96.3,OK,No,0,0,0,0,0
+Kelantan,Kuala Krai,District,secondary_lower,2024,01/01/2024,96.8,OK,No,0,0,0,0,0
+Kelantan,Kuala Krai,District,secondary_lower,2025,01/01/2025,96.7,OK,No,0,0,0,0,0
+Kelantan,Kuala Krai,District,secondary_upper,2021,01/01/2021,100.1,Above 100 (retained),No,0,0,1,0,0
+Kelantan,Kuala Krai,District,secondary_upper,2022,01/01/2022,98.9,OK,No,0,0,0,0,0
+Kelantan,Kuala Krai,District,secondary_upper,2023,01/01/2023,95.7,OK,No,0,0,0,0,0
+Kelantan,Kuala Krai,District,secondary_upper,2024,01/01/2024,97.8,OK,No,0,0,0,0,0
+Kelantan,Kuala Krai,District,secondary_upper,2025,01/01/2025,97.6,OK,No,0,0,0,0,0
+Kelantan,Machang,District,primary,2021,01/01/2021,101,Above 100 (retained),No,0,0,1,0,0
+Kelantan,Machang,District,primary,2022,01/01/2022,103.1,Above 100 (retained),No,0,0,1,0,0
+Kelantan,Machang,District,primary,2023,01/01/2023,100,OK,No,0,0,0,0,0
+Kelantan,Machang,District,primary,2024,01/01/2024,101.4,Above 100 (retained),No,0,0,1,0,0
+Kelantan,Machang,District,primary,2025,01/01/2025,104,Above 100 (retained),No,0,0,1,0,0
+Kelantan,Machang,District,secondary_lower,2021,01/01/2021,102.6,Above 100 (retained),No,0,0,1,0,0
+Kelantan,Machang,District,secondary_lower,2022,01/01/2022,104.3,Above 100 (retained),Yes,0,0,1,0,1
+Kelantan,Machang,District,secondary_lower,2023,01/01/2023,100.4,Above 100 (retained),No,0,0,1,0,0
+Kelantan,Machang,District,secondary_lower,2024,01/01/2024,100.8,Above 100 (retained),No,0,0,1,0,0
+Kelantan,Machang,District,secondary_lower,2025,01/01/2025,100.3,Above 100 (retained),No,0,0,1,0,0
+Kelantan,Machang,District,secondary_upper,2021,01/01/2021,100,OK,No,0,0,0,0,0
+Kelantan,Machang,District,secondary_upper,2022,01/01/2022,99.6,OK,No,0,0,0,0,0
+Kelantan,Machang,District,secondary_upper,2023,01/01/2023,99.1,OK,No,0,0,0,0,0
+Kelantan,Machang,District,secondary_upper,2024,01/01/2024,99.2,OK,No,0,0,0,0,0
+Kelantan,Machang,District,secondary_upper,2025,01/01/2025,97.1,OK,No,0,0,0,0,0
+Kelantan,Pasir Mas,District,primary,2021,01/01/2021,101.4,Above 100 (retained),No,0,0,1,0,0
+Kelantan,Pasir Mas,District,primary,2022,01/01/2022,104.9,Above 100 (retained),No,0,0,1,0,0
+Kelantan,Pasir Mas,District,primary,2023,01/01/2023,101.5,Above 100 (retained),No,0,0,1,0,0
+Kelantan,Pasir Mas,District,primary,2024,01/01/2024,101.9,Above 100 (retained),No,0,0,1,0,0
+Kelantan,Pasir Mas,District,primary,2025,01/01/2025,100.2,Above 100 (retained),No,0,0,1,0,0
+Kelantan,Pasir Mas,District,secondary_lower,2021,01/01/2021,100.2,Above 100 (retained),No,0,0,1,0,0
+Kelantan,Pasir Mas,District,secondary_lower,2022,01/01/2022,103.6,Above 100 (retained),No,0,0,1,0,0
+Kelantan,Pasir Mas,District,secondary_lower,2023,01/01/2023,99,OK,No,0,0,0,0,0
+Kelantan,Pasir Mas,District,secondary_lower,2024,01/01/2024,100.2,Above 100 (retained),No,0,0,1,0,0
+Kelantan,Pasir Mas,District,secondary_lower,2025,01/01/2025,100.7,Above 100 (retained),No,0,0,1,0,0
+Kelantan,Pasir Mas,District,secondary_upper,2021,01/01/2021,99,OK,No,0,0,0,0,0
+Kelantan,Pasir Mas,District,secondary_upper,2022,01/01/2022,99.6,OK,No,0,0,0,0,0
+Kelantan,Pasir Mas,District,secondary_upper,2023,01/01/2023,95.6,OK,No,0,0,0,0,0
+Kelantan,Pasir Mas,District,secondary_upper,2024,01/01/2024,100.3,Above 100 (retained),No,0,0,1,0,0
+Kelantan,Pasir Mas,District,secondary_upper,2025,01/01/2025,99.8,OK,No,0,0,0,0,0
+Kelantan,Pasir Puteh,District,primary,2021,01/01/2021,101.6,Above 100 (retained),No,0,0,1,0,0
+Kelantan,Pasir Puteh,District,primary,2022,01/01/2022,105.4,Above 100 (retained),No,0,0,1,0,0
+Kelantan,Pasir Puteh,District,primary,2023,01/01/2023,96.2,OK,No,0,0,0,0,0
+Kelantan,Pasir Puteh,District,primary,2024,01/01/2024,105.6,Above 100 (retained),No,0,0,1,0,0
+Kelantan,Pasir Puteh,District,primary,2025,01/01/2025,99.6,OK,No,0,0,0,0,0
+Kelantan,Pasir Puteh,District,secondary_lower,2021,01/01/2021,99.9,OK,No,0,0,0,0,0
+Kelantan,Pasir Puteh,District,secondary_lower,2022,01/01/2022,101.1,Above 100 (retained),No,0,0,1,0,0
+Kelantan,Pasir Puteh,District,secondary_lower,2023,01/01/2023,100.9,Above 100 (retained),No,0,0,1,0,0
+Kelantan,Pasir Puteh,District,secondary_lower,2024,01/01/2024,101.1,Above 100 (retained),No,0,0,1,0,0
+Kelantan,Pasir Puteh,District,secondary_lower,2025,01/01/2025,99.2,OK,No,0,0,0,0,0
+Kelantan,Pasir Puteh,District,secondary_upper,2021,01/01/2021,99.2,OK,No,0,0,0,0,0
+Kelantan,Pasir Puteh,District,secondary_upper,2022,01/01/2022,99.5,OK,No,0,0,0,0,0
+Kelantan,Pasir Puteh,District,secondary_upper,2023,01/01/2023,97.2,OK,No,0,0,0,0,0
+Kelantan,Pasir Puteh,District,secondary_upper,2024,01/01/2024,97.4,OK,No,0,0,0,0,0
+Kelantan,Pasir Puteh,District,secondary_upper,2025,01/01/2025,97.7,OK,No,0,0,0,0,0
+Kelantan,Tanah Merah,District,primary,2021,01/01/2021,96.8,OK,No,0,0,0,0,0
+Kelantan,Tanah Merah,District,primary,2022,01/01/2022,107.4,Above 100 (retained),No,0,0,1,0,0
+Kelantan,Tanah Merah,District,primary,2023,01/01/2023,101.6,Above 100 (retained),No,0,0,1,0,0
+Kelantan,Tanah Merah,District,primary,2024,01/01/2024,97.5,OK,No,0,0,0,0,0
+Kelantan,Tanah Merah,District,primary,2025,01/01/2025,101,Above 100 (retained),No,0,0,1,0,0
+Kelantan,Tanah Merah,District,secondary_lower,2021,01/01/2021,100.2,Above 100 (retained),No,0,0,1,0,0
+Kelantan,Tanah Merah,District,secondary_lower,2022,01/01/2022,102,Above 100 (retained),No,0,0,1,0,0
+Kelantan,Tanah Merah,District,secondary_lower,2023,01/01/2023,100.2,Above 100 (retained),No,0,0,1,0,0
+Kelantan,Tanah Merah,District,secondary_lower,2024,01/01/2024,99.8,OK,No,0,0,0,0,0
+Kelantan,Tanah Merah,District,secondary_lower,2025,01/01/2025,101.1,Above 100 (retained),No,0,0,1,0,0
+Kelantan,Tanah Merah,District,secondary_upper,2021,01/01/2021,101.2,Above 100 (retained),No,0,0,1,0,0
+Kelantan,Tanah Merah,District,secondary_upper,2022,01/01/2022,99.5,OK,No,0,0,0,0,0
+Kelantan,Tanah Merah,District,secondary_upper,2023,01/01/2023,98.2,OK,No,0,0,0,0,0
+Kelantan,Tanah Merah,District,secondary_upper,2024,01/01/2024,100.7,Above 100 (retained),No,0,0,1,0,0
+Kelantan,Tanah Merah,District,secondary_upper,2025,01/01/2025,100.8,Above 100 (retained),No,0,0,1,0,0
+Kelantan,Tumpat,District,primary,2021,01/01/2021,99.8,OK,No,0,0,0,0,0
+Kelantan,Tumpat,District,primary,2022,01/01/2022,105.1,Above 100 (retained),No,0,0,1,0,0
+Kelantan,Tumpat,District,primary,2023,01/01/2023,103.3,Above 100 (retained),No,0,0,1,0,0
+Kelantan,Tumpat,District,primary,2024,01/01/2024,100.6,Above 100 (retained),No,0,0,1,0,0
+Kelantan,Tumpat,District,primary,2025,01/01/2025,97.1,OK,No,0,0,0,0,0
+Kelantan,Tumpat,District,secondary_lower,2021,01/01/2021,100.4,Above 100 (retained),No,0,0,1,0,0
+Kelantan,Tumpat,District,secondary_lower,2022,01/01/2022,102.1,Above 100 (retained),No,0,0,1,0,0
+Kelantan,Tumpat,District,secondary_lower,2023,01/01/2023,99.8,OK,No,0,0,0,0,0
+Kelantan,Tumpat,District,secondary_lower,2024,01/01/2024,100.2,Above 100 (retained),No,0,0,1,0,0
+Kelantan,Tumpat,District,secondary_lower,2025,01/01/2025,99.8,OK,No,0,0,0,0,0
+Kelantan,Tumpat,District,secondary_upper,2021,01/01/2021,99,OK,No,0,0,0,0,0
+Kelantan,Tumpat,District,secondary_upper,2022,01/01/2022,99.3,OK,No,0,0,0,0,0
+Kelantan,Tumpat,District,secondary_upper,2023,01/01/2023,96.3,OK,No,0,0,0,0,0
+Kelantan,Tumpat,District,secondary_upper,2024,01/01/2024,99,OK,No,0,0,0,0,0
+Kelantan,Tumpat,District,secondary_upper,2025,01/01/2025,98.2,OK,No,0,0,0,0,0
+Melaka,All Districts,State total,primary,2021,01/01/2021,98.1,OK,No,1,0,0,0,0
+Melaka,All Districts,State total,primary,2022,01/01/2022,96.3,OK,No,1,0,0,0,0
+Melaka,All Districts,State total,primary,2023,01/01/2023,97.1,OK,No,1,0,0,0,0
+Melaka,All Districts,State total,primary,2024,01/01/2024,97.8,OK,No,1,0,0,0,0
+Melaka,All Districts,State total,primary,2025,01/01/2025,93.7,OK,No,1,0,0,0,0
+Melaka,All Districts,State total,secondary_lower,2021,01/01/2021,99.4,OK,No,1,0,0,0,0
+Melaka,All Districts,State total,secondary_lower,2022,01/01/2022,99.5,OK,No,1,0,0,0,0
+Melaka,All Districts,State total,secondary_lower,2023,01/01/2023,98.2,OK,No,1,0,0,0,0
+Melaka,All Districts,State total,secondary_lower,2024,01/01/2024,99.3,OK,No,1,0,0,0,0
+Melaka,All Districts,State total,secondary_lower,2025,01/01/2025,98.4,OK,No,1,0,0,0,0
+Melaka,All Districts,State total,secondary_upper,2021,01/01/2021,99.6,OK,No,1,0,0,0,0
+Melaka,All Districts,State total,secondary_upper,2022,01/01/2022,97.7,OK,No,1,0,0,0,0
+Melaka,All Districts,State total,secondary_upper,2023,01/01/2023,97.5,OK,No,1,0,0,0,0
+Melaka,All Districts,State total,secondary_upper,2024,01/01/2024,98.4,OK,No,1,0,0,0,0
+Melaka,All Districts,State total,secondary_upper,2025,01/01/2025,97.2,OK,No,1,0,0,0,0
+Melaka,Alor Gajah,District,primary,2021,01/01/2021,97.7,OK,No,0,0,0,0,0
+Melaka,Alor Gajah,District,primary,2022,01/01/2022,93.9,OK,No,0,0,0,0,0
+Melaka,Alor Gajah,District,primary,2023,01/01/2023,96.9,OK,No,0,0,0,0,0
+Melaka,Alor Gajah,District,primary,2024,01/01/2024,97.7,OK,No,0,0,0,0,0
+Melaka,Alor Gajah,District,primary,2025,01/01/2025,90.8,OK,No,0,0,0,0,0
+Melaka,Alor Gajah,District,secondary_lower,2021,01/01/2021,99.1,OK,No,0,0,0,0,0
+Melaka,Alor Gajah,District,secondary_lower,2022,01/01/2022,99.3,OK,No,0,0,0,0,0
+Melaka,Alor Gajah,District,secondary_lower,2023,01/01/2023,97.3,OK,No,0,0,0,0,0
+Melaka,Alor Gajah,District,secondary_lower,2024,01/01/2024,97,OK,No,0,0,0,0,0
+Melaka,Alor Gajah,District,secondary_lower,2025,01/01/2025,97.1,OK,No,0,0,0,0,0
+Melaka,Alor Gajah,District,secondary_upper,2021,01/01/2021,100.1,Above 100 (retained),No,0,0,1,0,0
+Melaka,Alor Gajah,District,secondary_upper,2022,01/01/2022,96.6,OK,No,0,0,0,0,0
+Melaka,Alor Gajah,District,secondary_upper,2023,01/01/2023,97.7,OK,No,0,0,0,0,0
+Melaka,Alor Gajah,District,secondary_upper,2024,01/01/2024,98,OK,No,0,0,0,0,0
+Melaka,Alor Gajah,District,secondary_upper,2025,01/01/2025,97.2,OK,No,0,0,0,0,0
+Melaka,Jasin,District,primary,2021,01/01/2021,100.7,Above 100 (retained),No,0,0,1,0,0
+Melaka,Jasin,District,primary,2022,01/01/2022,95.9,OK,No,0,0,0,0,0
+Melaka,Jasin,District,primary,2023,01/01/2023,96.3,OK,No,0,0,0,0,0
+Melaka,Jasin,District,primary,2024,01/01/2024,101.2,Above 100 (retained),No,0,0,1,0,0
+Melaka,Jasin,District,primary,2025,01/01/2025,97,OK,No,0,0,0,0,0
+Melaka,Jasin,District,secondary_lower,2021,01/01/2021,99.8,OK,No,0,0,0,0,0
+Melaka,Jasin,District,secondary_lower,2022,01/01/2022,100,OK,No,0,0,0,0,0
+Melaka,Jasin,District,secondary_lower,2023,01/01/2023,98.9,OK,No,0,0,0,0,0
+Melaka,Jasin,District,secondary_lower,2024,01/01/2024,100,OK,No,0,0,0,0,0
+Melaka,Jasin,District,secondary_lower,2025,01/01/2025,98.6,OK,No,0,0,0,0,0
+Melaka,Jasin,District,secondary_upper,2021,01/01/2021,98.7,OK,No,0,0,0,0,0
+Melaka,Jasin,District,secondary_upper,2022,01/01/2022,97.9,OK,No,0,0,0,0,0
+Melaka,Jasin,District,secondary_upper,2023,01/01/2023,96.7,OK,No,0,0,0,0,0
+Melaka,Jasin,District,secondary_upper,2024,01/01/2024,98.5,OK,No,0,0,0,0,0
+Melaka,Jasin,District,secondary_upper,2025,01/01/2025,97.8,OK,No,0,0,0,0,0
+Melaka,Melaka Tengah,District,primary,2021,01/01/2021,97.7,OK,No,0,0,0,0,0
+Melaka,Melaka Tengah,District,primary,2022,01/01/2022,97.4,OK,No,0,0,0,0,0
+Melaka,Melaka Tengah,District,primary,2023,01/01/2023,99.6,OK,No,0,0,0,0,0
+Melaka,Melaka Tengah,District,primary,2024,01/01/2024,96.9,OK,No,0,0,0,0,0
+Melaka,Melaka Tengah,District,primary,2025,01/01/2025,94.1,OK,No,0,0,0,0,0
+Melaka,Melaka Tengah,District,secondary_lower,2021,01/01/2021,99.3,OK,No,0,0,0,0,0
+Melaka,Melaka Tengah,District,secondary_lower,2022,01/01/2022,99.5,OK,No,0,0,0,0,0
+Melaka,Melaka Tengah,District,secondary_lower,2023,01/01/2023,98.4,OK,No,0,0,0,0,0
+Melaka,Melaka Tengah,District,secondary_lower,2024,01/01/2024,100.1,Above 100 (retained),No,0,0,1,0,0
+Melaka,Melaka Tengah,District,secondary_lower,2025,01/01/2025,98.8,OK,No,0,0,0,0,0
+Melaka,Melaka Tengah,District,secondary_upper,2021,01/01/2021,99.8,OK,No,0,0,0,0,0
+Melaka,Melaka Tengah,District,secondary_upper,2022,01/01/2022,98.1,OK,No,0,0,0,0,0
+Melaka,Melaka Tengah,District,secondary_upper,2023,01/01/2023,98.1,OK,No,0,0,0,0,0
+Melaka,Melaka Tengah,District,secondary_upper,2024,01/01/2024,98.5,OK,No,0,0,0,0,0
+Melaka,Melaka Tengah,District,secondary_upper,2025,01/01/2025,97.1,OK,No,0,0,0,0,0
+Negeri Sembilan,All Districts,State total,primary,2021,01/01/2021,100.9,Above 100 (retained),No,1,0,1,0,0
+Negeri Sembilan,All Districts,State total,primary,2022,01/01/2022,97.1,OK,No,1,0,0,0,0
+Negeri Sembilan,All Districts,State total,primary,2023,01/01/2023,101.1,Above 100 (retained),No,1,0,1,0,0
+Negeri Sembilan,All Districts,State total,primary,2024,01/01/2024,100.3,Above 100 (retained),No,1,0,1,0,0
+Negeri Sembilan,All Districts,State total,primary,2025,01/01/2025,98.3,OK,No,1,0,0,0,0
+Negeri Sembilan,All Districts,State total,secondary_lower,2021,01/01/2021,99.1,OK,No,1,0,0,0,0
+Negeri Sembilan,All Districts,State total,secondary_lower,2022,01/01/2022,99.6,OK,No,1,0,0,0,0
+Negeri Sembilan,All Districts,State total,secondary_lower,2023,01/01/2023,97.7,OK,No,1,0,0,0,0
+Negeri Sembilan,All Districts,State total,secondary_lower,2024,01/01/2024,98.1,OK,No,1,0,0,0,0
+Negeri Sembilan,All Districts,State total,secondary_lower,2025,01/01/2025,97.7,OK,No,1,0,0,0,0
+Negeri Sembilan,All Districts,State total,secondary_upper,2021,01/01/2021,99.1,OK,No,1,0,0,0,0
+Negeri Sembilan,All Districts,State total,secondary_upper,2022,01/01/2022,98.5,OK,No,1,0,0,0,0
+Negeri Sembilan,All Districts,State total,secondary_upper,2023,01/01/2023,95.8,OK,No,1,0,0,0,0
+Negeri Sembilan,All Districts,State total,secondary_upper,2024,01/01/2024,97.6,OK,No,1,0,0,0,0
+Negeri Sembilan,All Districts,State total,secondary_upper,2025,01/01/2025,97.3,OK,No,1,0,0,0,0
+Negeri Sembilan,Jempol/Jelebu,District,primary,2021,01/01/2021,99.5,OK,No,0,0,0,0,0
+Negeri Sembilan,Jempol/Jelebu,District,primary,2022,01/01/2022,93.9,OK,No,0,0,0,0,0
+Negeri Sembilan,Jempol/Jelebu,District,primary,2023,01/01/2023,93.8,OK,No,0,0,0,0,0
+Negeri Sembilan,Jempol/Jelebu,District,primary,2024,01/01/2024,99.3,OK,No,0,0,0,0,0
+Negeri Sembilan,Jempol/Jelebu,District,primary,2025,01/01/2025,99.5,OK,No,0,0,0,0,0
+Negeri Sembilan,Jempol/Jelebu,District,secondary_lower,2021,01/01/2021,97.4,OK,No,0,0,0,0,0
+Negeri Sembilan,Jempol/Jelebu,District,secondary_lower,2022,01/01/2022,98.8,OK,No,0,0,0,0,0
+Negeri Sembilan,Jempol/Jelebu,District,secondary_lower,2023,01/01/2023,95.8,OK,No,0,0,0,0,0
+Negeri Sembilan,Jempol/Jelebu,District,secondary_lower,2024,01/01/2024,97.5,OK,No,0,0,0,0,0
+Negeri Sembilan,Jempol/Jelebu,District,secondary_lower,2025,01/01/2025,97,OK,No,0,0,0,0,0
+Negeri Sembilan,Jempol/Jelebu,District,secondary_upper,2021,01/01/2021,98.4,OK,No,0,0,0,0,0
+Negeri Sembilan,Jempol/Jelebu,District,secondary_upper,2022,01/01/2022,97.8,OK,No,0,0,0,0,0
+Negeri Sembilan,Jempol/Jelebu,District,secondary_upper,2023,01/01/2023,95.1,OK,No,0,0,0,0,0
+Negeri Sembilan,Jempol/Jelebu,District,secondary_upper,2024,01/01/2024,97.3,OK,No,0,0,0,0,0
+Negeri Sembilan,Jempol/Jelebu,District,secondary_upper,2025,01/01/2025,95.3,OK,No,0,0,0,0,0
+Negeri Sembilan,Kuala Pilah,District,primary,2021,01/01/2021,101.9,Above 100 (retained),No,0,0,1,0,0
+Negeri Sembilan,Kuala Pilah,District,primary,2022,01/01/2022,97.9,OK,No,0,0,0,0,0
+Negeri Sembilan,Kuala Pilah,District,primary,2023,01/01/2023,99.4,OK,No,0,0,0,0,0
+Negeri Sembilan,Kuala Pilah,District,primary,2024,01/01/2024,100.9,Above 100 (retained),No,0,0,1,0,0
+Negeri Sembilan,Kuala Pilah,District,primary,2025,01/01/2025,100.5,Above 100 (retained),No,0,0,1,0,0
+Negeri Sembilan,Kuala Pilah,District,secondary_lower,2021,01/01/2021,95.1,OK,No,0,0,0,0,0
+Negeri Sembilan,Kuala Pilah,District,secondary_lower,2022,01/01/2022,100.3,Above 100 (retained),No,0,0,1,0,0
+Negeri Sembilan,Kuala Pilah,District,secondary_lower,2023,01/01/2023,95.1,OK,No,0,0,0,0,0
+Negeri Sembilan,Kuala Pilah,District,secondary_lower,2024,01/01/2024,95.7,OK,No,0,0,0,0,0
+Negeri Sembilan,Kuala Pilah,District,secondary_lower,2025,01/01/2025,94.5,OK,No,0,0,0,0,0
+Negeri Sembilan,Kuala Pilah,District,secondary_upper,2021,01/01/2021,96,OK,No,0,0,0,0,0
+Negeri Sembilan,Kuala Pilah,District,secondary_upper,2022,01/01/2022,97.7,OK,No,0,0,0,0,0
+Negeri Sembilan,Kuala Pilah,District,secondary_upper,2023,01/01/2023,94.1,OK,No,0,0,0,0,0
+Negeri Sembilan,Kuala Pilah,District,secondary_upper,2024,01/01/2024,96.3,OK,No,0,0,0,0,0
+Negeri Sembilan,Kuala Pilah,District,secondary_upper,2025,01/01/2025,96,OK,No,0,0,0,0,0
+Negeri Sembilan,Port Dickson,District,primary,2021,01/01/2021,98,OK,No,0,0,0,0,0
+Negeri Sembilan,Port Dickson,District,primary,2022,01/01/2022,99.6,OK,No,0,0,0,0,0
+Negeri Sembilan,Port Dickson,District,primary,2023,01/01/2023,102.2,Above 100 (retained),No,0,0,1,0,0
+Negeri Sembilan,Port Dickson,District,primary,2024,01/01/2024,98.8,OK,No,0,0,0,0,0
+Negeri Sembilan,Port Dickson,District,primary,2025,01/01/2025,92.5,OK,No,0,0,0,0,0
+Negeri Sembilan,Port Dickson,District,secondary_lower,2021,01/01/2021,99.6,OK,No,0,0,0,0,0
+Negeri Sembilan,Port Dickson,District,secondary_lower,2022,01/01/2022,98,OK,No,0,0,0,0,0
+Negeri Sembilan,Port Dickson,District,secondary_lower,2023,01/01/2023,95.1,OK,No,0,0,0,0,0
+Negeri Sembilan,Port Dickson,District,secondary_lower,2024,01/01/2024,96.7,OK,No,0,0,0,0,0
+Negeri Sembilan,Port Dickson,District,secondary_lower,2025,01/01/2025,97.9,OK,No,0,0,0,0,0
+Negeri Sembilan,Port Dickson,District,secondary_upper,2021,01/01/2021,97,OK,No,0,0,0,0,0
+Negeri Sembilan,Port Dickson,District,secondary_upper,2022,01/01/2022,97.8,OK,No,0,0,0,0,0
+Negeri Sembilan,Port Dickson,District,secondary_upper,2023,01/01/2023,96.6,OK,No,0,0,0,0,0
+Negeri Sembilan,Port Dickson,District,secondary_upper,2024,01/01/2024,96.4,OK,No,0,0,0,0,0
+Negeri Sembilan,Port Dickson,District,secondary_upper,2025,01/01/2025,97.1,OK,No,0,0,0,0,0
+Negeri Sembilan,Rembau,District,primary,2021,01/01/2021,100.1,Above 100 (retained),No,0,0,1,0,0
+Negeri Sembilan,Rembau,District,primary,2022,01/01/2022,103.1,Above 100 (retained),No,0,0,1,0,0
+Negeri Sembilan,Rembau,District,primary,2023,01/01/2023,103.9,Above 100 (retained),No,0,0,1,0,0
+Negeri Sembilan,Rembau,District,primary,2024,01/01/2024,99.3,OK,No,0,0,0,0,0
+Negeri Sembilan,Rembau,District,primary,2025,01/01/2025,105.7,Above 100 (retained),No,0,0,1,0,0
+Negeri Sembilan,Rembau,District,secondary_lower,2021,01/01/2021,96.1,OK,No,0,0,0,0,0
+Negeri Sembilan,Rembau,District,secondary_lower,2022,01/01/2022,97.2,OK,No,0,0,0,0,0
+Negeri Sembilan,Rembau,District,secondary_lower,2023,01/01/2023,97.1,OK,No,0,0,0,0,0
+Negeri Sembilan,Rembau,District,secondary_lower,2024,01/01/2024,97.9,OK,No,0,0,0,0,0
+Negeri Sembilan,Rembau,District,secondary_lower,2025,01/01/2025,98.1,OK,No,0,0,0,0,0
+Negeri Sembilan,Rembau,District,secondary_upper,2021,01/01/2021,100.4,Above 100 (retained),No,0,0,1,0,0
+Negeri Sembilan,Rembau,District,secondary_upper,2022,01/01/2022,98,OK,No,0,0,0,0,0
+Negeri Sembilan,Rembau,District,secondary_upper,2023,01/01/2023,96.5,OK,No,0,0,0,0,0
+Negeri Sembilan,Rembau,District,secondary_upper,2024,01/01/2024,99.9,OK,No,0,0,0,0,0
+Negeri Sembilan,Rembau,District,secondary_upper,2025,01/01/2025,96.5,OK,No,0,0,0,0,0
+Negeri Sembilan,Seremban,District,primary,2021,01/01/2021,103.2,Above 100 (retained),No,0,0,1,0,0
+Negeri Sembilan,Seremban,District,primary,2022,01/01/2022,97.7,OK,No,0,0,0,0,0
+Negeri Sembilan,Seremban,District,primary,2023,01/01/2023,99.5,OK,No,0,0,0,0,0
+Negeri Sembilan,Seremban,District,primary,2024,01/01/2024,101.9,Above 100 (retained),No,0,0,1,0,0
+Negeri Sembilan,Seremban,District,primary,2025,01/01/2025,100.4,Above 100 (retained),No,0,0,1,0,0
+Negeri Sembilan,Seremban,District,secondary_lower,2021,01/01/2021,100.4,Above 100 (retained),No,0,0,1,0,0
+Negeri Sembilan,Seremban,District,secondary_lower,2022,01/01/2022,100.7,Above 100 (retained),No,0,0,1,0,0
+Negeri Sembilan,Seremban,District,secondary_lower,2023,01/01/2023,99.5,OK,No,0,0,0,0,0
+Negeri Sembilan,Seremban,District,secondary_lower,2024,01/01/2024,99.1,OK,No,0,0,0,0,0
+Negeri Sembilan,Seremban,District,secondary_lower,2025,01/01/2025,98.5,OK,No,0,0,0,0,0
+Negeri Sembilan,Seremban,District,secondary_upper,2021,01/01/2021,99.8,OK,No,0,0,0,0,0
+Negeri Sembilan,Seremban,District,secondary_upper,2022,01/01/2022,99.3,OK,No,0,0,0,0,0
+Negeri Sembilan,Seremban,District,secondary_upper,2023,01/01/2023,95.1,OK,No,0,0,0,0,0
+Negeri Sembilan,Seremban,District,secondary_upper,2024,01/01/2024,98,OK,No,0,0,0,0,0
+Negeri Sembilan,Seremban,District,secondary_upper,2025,01/01/2025,98.1,OK,No,0,0,0,0,0
+Negeri Sembilan,Tampin,District,primary,2021,01/01/2021,93.5,OK,No,0,0,0,0,0
+Negeri Sembilan,Tampin,District,primary,2022,01/01/2022,92.5,OK,No,0,0,0,0,0
+Negeri Sembilan,Tampin,District,primary,2023,01/01/2023,96.7,OK,No,0,0,0,0,0
+Negeri Sembilan,Tampin,District,primary,2024,01/01/2024,93,OK,No,0,0,0,0,0
+Negeri Sembilan,Tampin,District,primary,2025,01/01/2025,86.8,Low outlier (IQR),Yes,0,0,0,0,1
+Negeri Sembilan,Tampin,District,secondary_lower,2021,01/01/2021,98.9,OK,No,0,0,0,0,0
+Negeri Sembilan,Tampin,District,secondary_lower,2022,01/01/2022,97.5,OK,No,0,0,0,0,0
+Negeri Sembilan,Tampin,District,secondary_lower,2023,01/01/2023,95,OK,No,0,0,0,0,0
+Negeri Sembilan,Tampin,District,secondary_lower,2024,01/01/2024,96.3,OK,No,0,0,0,0,0
+Negeri Sembilan,Tampin,District,secondary_lower,2025,01/01/2025,95.8,OK,No,0,0,0,0,0
+Negeri Sembilan,Tampin,District,secondary_upper,2021,01/01/2021,99.8,OK,No,0,0,0,0,0
+Negeri Sembilan,Tampin,District,secondary_upper,2022,01/01/2022,97.3,OK,No,0,0,0,0,0
+Negeri Sembilan,Tampin,District,secondary_upper,2023,01/01/2023,95.4,OK,No,0,0,0,0,0
+Negeri Sembilan,Tampin,District,secondary_upper,2024,01/01/2024,96.4,OK,No,0,0,0,0,0
+Negeri Sembilan,Tampin,District,secondary_upper,2025,01/01/2025,97.4,OK,No,0,0,0,0,0
+Pahang,All Districts,State total,primary,2021,01/01/2021,97.4,OK,No,1,0,0,0,0
+Pahang,All Districts,State total,primary,2022,01/01/2022,97.3,OK,No,1,0,0,0,0
+Pahang,All Districts,State total,primary,2023,01/01/2023,97.9,OK,No,1,0,0,0,0
+Pahang,All Districts,State total,primary,2024,01/01/2024,97.8,OK,No,1,0,0,0,0
+Pahang,All Districts,State total,primary,2025,01/01/2025,96.2,OK,No,1,0,0,0,0
+Pahang,All Districts,State total,secondary_lower,2021,01/01/2021,99.2,OK,No,1,0,0,0,0
+Pahang,All Districts,State total,secondary_lower,2022,01/01/2022,99.3,OK,No,1,0,0,0,0
+Pahang,All Districts,State total,secondary_lower,2023,01/01/2023,97,OK,No,1,0,0,0,0
+Pahang,All Districts,State total,secondary_lower,2024,01/01/2024,96.1,OK,No,1,0,0,0,0
+Pahang,All Districts,State total,secondary_lower,2025,01/01/2025,97.6,OK,No,1,0,0,0,0
+Pahang,All Districts,State total,secondary_upper,2021,01/01/2021,99.5,OK,No,1,0,0,0,0
+Pahang,All Districts,State total,secondary_upper,2022,01/01/2022,98.2,OK,No,1,0,0,0,0
+Pahang,All Districts,State total,secondary_upper,2023,01/01/2023,95.4,OK,No,1,0,0,0,0
+Pahang,All Districts,State total,secondary_upper,2024,01/01/2024,97,OK,No,1,0,0,0,0
+Pahang,All Districts,State total,secondary_upper,2025,01/01/2025,97.5,OK,No,1,0,0,0,0
+Pahang,Bentong,District,primary,2021,01/01/2021,96.4,OK,No,0,0,0,0,0
+Pahang,Bentong,District,primary,2022,01/01/2022,93.4,OK,No,0,0,0,0,0
+Pahang,Bentong,District,primary,2023,01/01/2023,93.5,OK,No,0,0,0,0,0
+Pahang,Bentong,District,primary,2024,01/01/2024,94.2,OK,No,0,0,0,0,0
+Pahang,Bentong,District,primary,2025,01/01/2025,90,OK,No,0,0,0,0,0
+Pahang,Bentong,District,secondary_lower,2021,01/01/2021,99.6,OK,No,0,0,0,0,0
+Pahang,Bentong,District,secondary_lower,2022,01/01/2022,98,OK,No,0,0,0,0,0
+Pahang,Bentong,District,secondary_lower,2023,01/01/2023,97.4,OK,No,0,0,0,0,0
+Pahang,Bentong,District,secondary_lower,2024,01/01/2024,96.8,OK,No,0,0,0,0,0
+Pahang,Bentong,District,secondary_lower,2025,01/01/2025,97.2,OK,No,0,0,0,0,0
+Pahang,Bentong,District,secondary_upper,2021,01/01/2021,98.9,OK,No,0,0,0,0,0
+Pahang,Bentong,District,secondary_upper,2022,01/01/2022,97.3,OK,No,0,0,0,0,0
+Pahang,Bentong,District,secondary_upper,2023,01/01/2023,95.8,OK,No,0,0,0,0,0
+Pahang,Bentong,District,secondary_upper,2024,01/01/2024,96,OK,No,0,0,0,0,0
+Pahang,Bentong,District,secondary_upper,2025,01/01/2025,96.5,OK,No,0,0,0,0,0
+Pahang,Bera,District,primary,2021,01/01/2021,98.3,OK,No,0,0,0,0,0
+Pahang,Bera,District,primary,2022,01/01/2022,100.1,Above 100 (retained),No,0,0,1,0,0
+Pahang,Bera,District,primary,2023,01/01/2023,99.9,OK,No,0,0,0,0,0
+Pahang,Bera,District,primary,2024,01/01/2024,102.2,Above 100 (retained),No,0,0,1,0,0
+Pahang,Bera,District,primary,2025,01/01/2025,100.3,Above 100 (retained),No,0,0,1,0,0
+Pahang,Bera,District,secondary_lower,2021,01/01/2021,99.2,OK,No,0,0,0,0,0
+Pahang,Bera,District,secondary_lower,2022,01/01/2022,100.4,Above 100 (retained),No,0,0,1,0,0
+Pahang,Bera,District,secondary_lower,2023,01/01/2023,88.6,Low outlier (IQR),Yes,0,0,0,0,1
+Pahang,Bera,District,secondary_lower,2024,01/01/2024,100.1,Above 100 (retained),No,0,0,1,0,0
+Pahang,Bera,District,secondary_lower,2025,01/01/2025,100.6,Above 100 (retained),No,0,0,1,0,0
+Pahang,Bera,District,secondary_upper,2021,01/01/2021,100.9,Above 100 (retained),No,0,0,1,0,0
+Pahang,Bera,District,secondary_upper,2022,01/01/2022,99.7,OK,No,0,0,0,0,0
+Pahang,Bera,District,secondary_upper,2023,01/01/2023,98.7,OK,No,0,0,0,0,0
+Pahang,Bera,District,secondary_upper,2024,01/01/2024,98.5,OK,No,0,0,0,0,0
+Pahang,Bera,District,secondary_upper,2025,01/01/2025,99.4,OK,No,0,0,0,0,0
+Pahang,Cameron Highlands,District,primary,2021,01/01/2021,99.2,OK,No,0,0,0,0,0
+Pahang,Cameron Highlands,District,primary,2022,01/01/2022,86.1,Low outlier (IQR),Yes,0,0,0,0,1
+Pahang,Cameron Highlands,District,primary,2023,01/01/2023,97,OK,No,0,0,0,0,0
+Pahang,Cameron Highlands,District,primary,2024,01/01/2024,93.9,OK,No,0,0,0,0,0
+Pahang,Cameron Highlands,District,primary,2025,01/01/2025,91,OK,No,0,0,0,0,0
+Pahang,Cameron Highlands,District,secondary_lower,2021,01/01/2021,97.5,OK,No,0,0,0,0,0
+Pahang,Cameron Highlands,District,secondary_lower,2022,01/01/2022,98.1,OK,No,0,0,0,0,0
+Pahang,Cameron Highlands,District,secondary_lower,2023,01/01/2023,97,OK,No,0,0,0,0,0
+Pahang,Cameron Highlands,District,secondary_lower,2024,01/01/2024,85.7,Low outlier (IQR),Yes,0,0,0,0,1
+Pahang,Cameron Highlands,District,secondary_lower,2025,01/01/2025,91.2,Low outlier (IQR),Yes,0,0,0,0,1
+Pahang,Cameron Highlands,District,secondary_upper,2021,01/01/2021,96.5,OK,No,0,0,0,0,0
+Pahang,Cameron Highlands,District,secondary_upper,2022,01/01/2022,96.8,OK,No,0,0,0,0,0
+Pahang,Cameron Highlands,District,secondary_upper,2023,01/01/2023,87.6,Low outlier (IQR),Yes,0,0,0,0,1
+Pahang,Cameron Highlands,District,secondary_upper,2024,01/01/2024,92.5,Low outlier (IQR),Yes,0,0,0,0,1
+Pahang,Cameron Highlands,District,secondary_upper,2025,01/01/2025,90.3,Low outlier (IQR),Yes,0,0,0,0,1
+Pahang,Jerantut,District,primary,2021,01/01/2021,95.3,OK,No,0,0,0,0,0
+Pahang,Jerantut,District,primary,2022,01/01/2022,96.5,OK,No,0,0,0,0,0
+Pahang,Jerantut,District,primary,2023,01/01/2023,96.1,OK,No,0,0,0,0,0
+Pahang,Jerantut,District,primary,2024,01/01/2024,98.6,OK,No,0,0,0,0,0
+Pahang,Jerantut,District,primary,2025,01/01/2025,94.1,OK,No,0,0,0,0,0
+Pahang,Jerantut,District,secondary_lower,2021,01/01/2021,99.4,OK,No,0,0,0,0,0
+Pahang,Jerantut,District,secondary_lower,2022,01/01/2022,98,OK,No,0,0,0,0,0
+Pahang,Jerantut,District,secondary_lower,2023,01/01/2023,98.4,OK,No,0,0,0,0,0
+Pahang,Jerantut,District,secondary_lower,2024,01/01/2024,96.2,OK,No,0,0,0,0,0
+Pahang,Jerantut,District,secondary_lower,2025,01/01/2025,95.5,OK,No,0,0,0,0,0
+Pahang,Jerantut,District,secondary_upper,2021,01/01/2021,99.7,OK,No,0,0,0,0,0
+Pahang,Jerantut,District,secondary_upper,2022,01/01/2022,99.9,OK,No,0,0,0,0,0
+Pahang,Jerantut,District,secondary_upper,2023,01/01/2023,97.1,OK,No,0,0,0,0,0
+Pahang,Jerantut,District,secondary_upper,2024,01/01/2024,97.1,OK,No,0,0,0,0,0
+Pahang,Jerantut,District,secondary_upper,2025,01/01/2025,98.1,OK,No,0,0,0,0,0
+Pahang,Kuantan,District,primary,2021,01/01/2021,97.8,OK,No,0,0,0,0,0
+Pahang,Kuantan,District,primary,2022,01/01/2022,98.6,OK,No,0,0,0,0,0
+Pahang,Kuantan,District,primary,2023,01/01/2023,99.7,OK,No,0,0,0,0,0
+Pahang,Kuantan,District,primary,2024,01/01/2024,99.5,OK,No,0,0,0,0,0
+Pahang,Kuantan,District,primary,2025,01/01/2025,98.7,OK,No,0,0,0,0,0
+Pahang,Kuantan,District,secondary_lower,2021,01/01/2021,100.6,Above 100 (retained),No,0,0,1,0,0
+Pahang,Kuantan,District,secondary_lower,2022,01/01/2022,99.3,OK,No,0,0,0,0,0
+Pahang,Kuantan,District,secondary_lower,2023,01/01/2023,98,OK,No,0,0,0,0,0
+Pahang,Kuantan,District,secondary_lower,2024,01/01/2024,96.9,OK,No,0,0,0,0,0
+Pahang,Kuantan,District,secondary_lower,2025,01/01/2025,99.8,OK,No,0,0,0,0,0
+Pahang,Kuantan,District,secondary_upper,2021,01/01/2021,99.7,OK,No,0,0,0,0,0
+Pahang,Kuantan,District,secondary_upper,2022,01/01/2022,98.2,OK,No,0,0,0,0,0
+Pahang,Kuantan,District,secondary_upper,2023,01/01/2023,97.6,OK,No,0,0,0,0,0
+Pahang,Kuantan,District,secondary_upper,2024,01/01/2024,97.4,OK,No,0,0,0,0,0
+Pahang,Kuantan,District,secondary_upper,2025,01/01/2025,98.5,OK,No,0,0,0,0,0
+Pahang,Lipis,District,primary,2021,01/01/2021,97.9,OK,No,0,0,0,0,0
+Pahang,Lipis,District,primary,2022,01/01/2022,100.3,Above 100 (retained),No,0,0,1,0,0
+Pahang,Lipis,District,primary,2023,01/01/2023,98.3,OK,No,0,0,0,0,0
+Pahang,Lipis,District,primary,2024,01/01/2024,100.7,Above 100 (retained),No,0,0,1,0,0
+Pahang,Lipis,District,primary,2025,01/01/2025,95.9,OK,No,0,0,0,0,0
+Pahang,Lipis,District,secondary_lower,2021,01/01/2021,98.4,OK,No,0,0,0,0,0
+Pahang,Lipis,District,secondary_lower,2022,01/01/2022,94.2,OK,No,0,0,0,0,0
+Pahang,Lipis,District,secondary_lower,2023,01/01/2023,94.7,OK,No,0,0,0,0,0
+Pahang,Lipis,District,secondary_lower,2024,01/01/2024,96.5,OK,No,0,0,0,0,0
+Pahang,Lipis,District,secondary_lower,2025,01/01/2025,91.3,Low outlier (IQR),Yes,0,0,0,0,1
+Pahang,Lipis,District,secondary_upper,2021,01/01/2021,100,OK,No,0,0,0,0,0
+Pahang,Lipis,District,secondary_upper,2022,01/01/2022,95.5,OK,No,0,0,0,0,0
+Pahang,Lipis,District,secondary_upper,2023,01/01/2023,89.8,Low outlier (IQR),Yes,0,0,0,0,1
+Pahang,Lipis,District,secondary_upper,2024,01/01/2024,93.5,OK,No,0,0,0,0,0
+Pahang,Lipis,District,secondary_upper,2025,01/01/2025,93,OK,No,0,0,0,0,0
+Pahang,Maran,District,primary,2021,01/01/2021,97.8,OK,No,0,0,0,0,0
+Pahang,Maran,District,primary,2022,01/01/2022,99.6,OK,No,0,0,0,0,0
+Pahang,Maran,District,primary,2023,01/01/2023,99.2,OK,No,0,0,0,0,0
+Pahang,Maran,District,primary,2024,01/01/2024,95.9,OK,No,0,0,0,0,0
+Pahang,Maran,District,primary,2025,01/01/2025,93.1,OK,No,0,0,0,0,0
+Pahang,Maran,District,secondary_lower,2021,01/01/2021,101.3,Above 100 (retained),No,0,0,1,0,0
+Pahang,Maran,District,secondary_lower,2022,01/01/2022,102.9,Above 100 (retained),No,0,0,1,0,0
+Pahang,Maran,District,secondary_lower,2023,01/01/2023,97.4,OK,No,0,0,0,0,0
+Pahang,Maran,District,secondary_lower,2024,01/01/2024,97.9,OK,No,0,0,0,0,0
+Pahang,Maran,District,secondary_lower,2025,01/01/2025,98.6,OK,No,0,0,0,0,0
+Pahang,Maran,District,secondary_upper,2021,01/01/2021,100.3,Above 100 (retained),No,0,0,1,0,0
+Pahang,Maran,District,secondary_upper,2022,01/01/2022,98.7,OK,No,0,0,0,0,0
+Pahang,Maran,District,secondary_upper,2023,01/01/2023,97.1,OK,No,0,0,0,0,0
+Pahang,Maran,District,secondary_upper,2024,01/01/2024,99.1,OK,No,0,0,0,0,0
+Pahang,Maran,District,secondary_upper,2025,01/01/2025,98.9,OK,No,0,0,0,0,0
+Pahang,Pekan,District,primary,2021,01/01/2021,93.4,OK,No,0,0,0,0,0
+Pahang,Pekan,District,primary,2022,01/01/2022,91.9,OK,No,0,0,0,0,0
+Pahang,Pekan,District,primary,2023,01/01/2023,93.4,OK,No,0,0,0,0,0
+Pahang,Pekan,District,primary,2024,01/01/2024,93.9,OK,No,0,0,0,0,0
+Pahang,Pekan,District,primary,2025,01/01/2025,97.2,OK,No,0,0,0,0,0
+Pahang,Pekan,District,secondary_lower,2021,01/01/2021,94.4,OK,No,0,0,0,0,0
+Pahang,Pekan,District,secondary_lower,2022,01/01/2022,98.4,OK,No,0,0,0,0,0
+Pahang,Pekan,District,secondary_lower,2023,01/01/2023,99.1,OK,No,0,0,0,0,0
+Pahang,Pekan,District,secondary_lower,2024,01/01/2024,93.1,OK,No,0,0,0,0,0
+Pahang,Pekan,District,secondary_lower,2025,01/01/2025,95.1,OK,No,0,0,0,0,0
+Pahang,Pekan,District,secondary_upper,2021,01/01/2021,99.7,OK,No,0,0,0,0,0
+Pahang,Pekan,District,secondary_upper,2022,01/01/2022,99.5,OK,No,0,0,0,0,0
+Pahang,Pekan,District,secondary_upper,2023,01/01/2023,95.6,OK,No,0,0,0,0,0
+Pahang,Pekan,District,secondary_upper,2024,01/01/2024,97.7,OK,No,0,0,0,0,0
+Pahang,Pekan,District,secondary_upper,2025,01/01/2025,96.2,OK,No,0,0,0,0,0
+Pahang,Raub,District,primary,2021,01/01/2021,95.7,OK,No,0,0,0,0,0
+Pahang,Raub,District,primary,2022,01/01/2022,101.7,Above 100 (retained),No,0,0,1,0,0
+Pahang,Raub,District,primary,2023,01/01/2023,98.8,OK,No,0,0,0,0,0
+Pahang,Raub,District,primary,2024,01/01/2024,96.6,OK,No,0,0,0,0,0
+Pahang,Raub,District,primary,2025,01/01/2025,91.9,OK,No,0,0,0,0,0
+Pahang,Raub,District,secondary_lower,2021,01/01/2021,99.6,OK,No,0,0,0,0,0
+Pahang,Raub,District,secondary_lower,2022,01/01/2022,103,Above 100 (retained),No,0,0,1,0,0
+Pahang,Raub,District,secondary_lower,2023,01/01/2023,97.9,OK,No,0,0,0,0,0
+Pahang,Raub,District,secondary_lower,2024,01/01/2024,96.3,OK,No,0,0,0,0,0
+Pahang,Raub,District,secondary_lower,2025,01/01/2025,99.8,OK,No,0,0,0,0,0
+Pahang,Raub,District,secondary_upper,2021,01/01/2021,99.4,OK,No,0,0,0,0,0
+Pahang,Raub,District,secondary_upper,2022,01/01/2022,99.6,OK,No,0,0,0,0,0
+Pahang,Raub,District,secondary_upper,2023,01/01/2023,91.9,Low outlier (IQR),Yes,0,0,0,0,1
+Pahang,Raub,District,secondary_upper,2024,01/01/2024,94.8,OK,No,0,0,0,0,0
+Pahang,Raub,District,secondary_upper,2025,01/01/2025,98.2,OK,No,0,0,0,0,0
+Pahang,Rompin,District,primary,2021,01/01/2021,99.1,OK,No,0,0,0,0,0
+Pahang,Rompin,District,primary,2022,01/01/2022,98.7,OK,No,0,0,0,0,0
+Pahang,Rompin,District,primary,2023,01/01/2023,95.8,OK,No,0,0,0,0,0
+Pahang,Rompin,District,primary,2024,01/01/2024,94.1,OK,No,0,0,0,0,0
+Pahang,Rompin,District,primary,2025,01/01/2025,93.5,OK,No,0,0,0,0,0
+Pahang,Rompin,District,secondary_lower,2021,01/01/2021,96.2,OK,No,0,0,0,0,0
+Pahang,Rompin,District,secondary_lower,2022,01/01/2022,96.7,OK,No,0,0,0,0,0
+Pahang,Rompin,District,secondary_lower,2023,01/01/2023,91,Low outlier (IQR),Yes,0,0,0,0,1
+Pahang,Rompin,District,secondary_lower,2024,01/01/2024,93.1,OK,No,0,0,0,0,0
+Pahang,Rompin,District,secondary_lower,2025,01/01/2025,94.6,OK,No,0,0,0,0,0
+Pahang,Rompin,District,secondary_upper,2021,01/01/2021,98.3,OK,No,0,0,0,0,0
+Pahang,Rompin,District,secondary_upper,2022,01/01/2022,95.5,OK,No,0,0,0,0,0
+Pahang,Rompin,District,secondary_upper,2023,01/01/2023,90.7,Low outlier (IQR),Yes,0,0,0,0,1
+Pahang,Rompin,District,secondary_upper,2024,01/01/2024,95.7,OK,No,0,0,0,0,0
+Pahang,Rompin,District,secondary_upper,2025,01/01/2025,96.1,OK,No,0,0,0,0,0
+Pahang,Temerloh,District,primary,2021,01/01/2021,99.7,OK,No,0,0,0,0,0
+Pahang,Temerloh,District,primary,2022,01/01/2022,95.8,OK,No,0,0,0,0,0
+Pahang,Temerloh,District,primary,2023,01/01/2023,99.1,OK,No,0,0,0,0,0
+Pahang,Temerloh,District,primary,2024,01/01/2024,98.8,OK,No,0,0,0,0,0
+Pahang,Temerloh,District,primary,2025,01/01/2025,97.6,OK,No,0,0,0,0,0
+Pahang,Temerloh,District,secondary_lower,2021,01/01/2021,99.9,OK,No,0,0,0,0,0
+Pahang,Temerloh,District,secondary_lower,2022,01/01/2022,101.2,Above 100 (retained),No,0,0,1,0,0
+Pahang,Temerloh,District,secondary_lower,2023,01/01/2023,98.2,OK,No,0,0,0,0,0
+Pahang,Temerloh,District,secondary_lower,2024,01/01/2024,96.5,OK,No,0,0,0,0,0
+Pahang,Temerloh,District,secondary_lower,2025,01/01/2025,98.1,OK,No,0,0,0,0,0
+Pahang,Temerloh,District,secondary_upper,2021,01/01/2021,99,OK,No,0,0,0,0,0
+Pahang,Temerloh,District,secondary_upper,2022,01/01/2022,98.6,OK,No,0,0,0,0,0
+Pahang,Temerloh,District,secondary_upper,2023,01/01/2023,94.8,OK,No,0,0,0,0,0
+Pahang,Temerloh,District,secondary_upper,2024,01/01/2024,97.7,OK,No,0,0,0,0,0
+Pahang,Temerloh,District,secondary_upper,2025,01/01/2025,97.6,OK,No,0,0,0,0,0
+Perak,All Districts,State total,primary,2021,01/01/2021,99,OK,No,1,0,0,0,0
+Perak,All Districts,State total,primary,2022,01/01/2022,105,Above 100 (retained),No,1,0,1,0,0
+Perak,All Districts,State total,primary,2023,01/01/2023,100.2,Above 100 (retained),No,1,0,1,0,0
+Perak,All Districts,State total,primary,2024,01/01/2024,99.8,OK,No,1,0,0,0,0
+Perak,All Districts,State total,primary,2025,01/01/2025,94,OK,No,1,0,0,0,0
+Perak,All Districts,State total,secondary_lower,2021,01/01/2021,99.4,OK,No,1,0,0,0,0
+Perak,All Districts,State total,secondary_lower,2022,01/01/2022,100.3,Above 100 (retained),No,1,0,1,0,0
+Perak,All Districts,State total,secondary_lower,2023,01/01/2023,98.1,OK,No,1,0,0,0,0
+Perak,All Districts,State total,secondary_lower,2024,01/01/2024,96.9,OK,No,1,0,0,0,0
+Perak,All Districts,State total,secondary_lower,2025,01/01/2025,97.4,OK,No,1,0,0,0,0
+Perak,All Districts,State total,secondary_upper,2021,01/01/2021,99.6,OK,No,1,0,0,0,0
+Perak,All Districts,State total,secondary_upper,2022,01/01/2022,99.4,OK,No,1,0,0,0,0
+Perak,All Districts,State total,secondary_upper,2023,01/01/2023,95.8,OK,No,1,0,0,0,0
+Perak,All Districts,State total,secondary_upper,2024,01/01/2024,97.6,OK,No,1,0,0,0,0
+Perak,All Districts,State total,secondary_upper,2025,01/01/2025,97.8,OK,No,1,0,0,0,0
+Perak,Bagan Datuk,District,primary,2023,01/01/2023,101.9,Above 100 (retained),No,0,0,1,0,0
+Perak,Bagan Datuk,District,primary,2024,01/01/2024,98.6,OK,No,0,0,0,0,0
+Perak,Bagan Datuk,District,primary,2025,01/01/2025,88.4,OK,No,0,0,0,0,0
+Perak,Bagan Datuk,District,secondary_lower,2021,01/01/2021,94.7,OK,No,0,0,0,0,0
+Perak,Bagan Datuk,District,secondary_lower,2022,01/01/2022,97.2,OK,No,0,0,0,0,0
+Perak,Bagan Datuk,District,secondary_lower,2023,01/01/2023,94.2,OK,No,0,0,0,0,0
+Perak,Bagan Datuk,District,secondary_lower,2024,01/01/2024,93.1,OK,No,0,0,0,0,0
+Perak,Bagan Datuk,District,secondary_lower,2025,01/01/2025,93.9,OK,No,0,0,0,0,0
+Perak,Bagan Datuk,District,secondary_upper,2021,01/01/2021,99.7,OK,No,0,0,0,0,0
+Perak,Bagan Datuk,District,secondary_upper,2022,01/01/2022,95.8,OK,No,0,0,0,0,0
+Perak,Bagan Datuk,District,secondary_upper,2023,01/01/2023,98.4,OK,No,0,0,0,0,0
+Perak,Bagan Datuk,District,secondary_upper,2024,01/01/2024,95.8,OK,No,0,0,0,0,0
+Perak,Bagan Datuk,District,secondary_upper,2025,01/01/2025,94.3,OK,No,0,0,0,0,0
+Perak,Batang Padang,District,primary,2021,01/01/2021,101.4,Above 100 (retained),No,0,0,1,0,0
+Perak,Batang Padang,District,primary,2022,01/01/2022,98,OK,No,0,0,0,0,0
+Perak,Batang Padang,District,primary,2023,01/01/2023,98.6,OK,No,0,0,0,0,0
+Perak,Batang Padang,District,primary,2024,01/01/2024,99.2,OK,No,0,0,0,0,0
+Perak,Batang Padang,District,primary,2025,01/01/2025,100.8,Above 100 (retained),No,0,0,1,0,0
+Perak,Batang Padang,District,secondary_lower,2021,01/01/2021,99.5,OK,No,0,0,0,0,0
+Perak,Batang Padang,District,secondary_lower,2022,01/01/2022,99.9,OK,No,0,0,0,0,0
+Perak,Batang Padang,District,secondary_lower,2023,01/01/2023,95.9,OK,No,0,0,0,0,0
+Perak,Batang Padang,District,secondary_lower,2024,01/01/2024,94,OK,No,0,0,0,0,0
+Perak,Batang Padang,District,secondary_lower,2025,01/01/2025,93.6,OK,No,0,0,0,0,0
+Perak,Batang Padang,District,secondary_upper,2021,01/01/2021,99.8,OK,No,0,0,0,0,0
+Perak,Batang Padang,District,secondary_upper,2022,01/01/2022,98.8,OK,No,0,0,0,0,0
+Perak,Batang Padang,District,secondary_upper,2023,01/01/2023,93.1,OK,No,0,0,0,0,0
+Perak,Batang Padang,District,secondary_upper,2024,01/01/2024,97.3,OK,No,0,0,0,0,0
+Perak,Batang Padang,District,secondary_upper,2025,01/01/2025,96.9,OK,No,0,0,0,0,0
+Perak,Hilir Perak,District,primary,2021,01/01/2021,100.2,Above 100 (retained),No,0,0,1,0,0
+Perak,Hilir Perak,District,primary,2023,01/01/2023,102.8,Above 100 (retained),No,0,0,1,0,0
+Perak,Hilir Perak,District,primary,2024,01/01/2024,101.2,Above 100 (retained),No,0,0,1,0,0
+Perak,Hilir Perak,District,primary,2025,01/01/2025,91.8,OK,No,0,0,0,0,0
+Perak,Hilir Perak,District,secondary_lower,2021,01/01/2021,101.2,Above 100 (retained),No,0,0,1,0,0
+Perak,Hilir Perak,District,secondary_lower,2022,01/01/2022,97.8,OK,No,0,0,0,0,0
+Perak,Hilir Perak,District,secondary_lower,2023,01/01/2023,98.2,OK,No,0,0,0,0,0
+Perak,Hilir Perak,District,secondary_lower,2024,01/01/2024,95.6,OK,No,0,0,0,0,0
+Perak,Hilir Perak,District,secondary_lower,2025,01/01/2025,98.7,OK,No,0,0,0,0,0
+Perak,Hilir Perak,District,secondary_upper,2021,01/01/2021,97.3,OK,No,0,0,0,0,0
+Perak,Hilir Perak,District,secondary_upper,2022,01/01/2022,96.2,OK,No,0,0,0,0,0
+Perak,Hilir Perak,District,secondary_upper,2023,01/01/2023,96.5,OK,No,0,0,0,0,0
+Perak,Hilir Perak,District,secondary_upper,2024,01/01/2024,96.1,OK,No,0,0,0,0,0
+Perak,Hilir Perak,District,secondary_upper,2025,01/01/2025,97.5,OK,No,0,0,0,0,0
+Perak,Hulu Perak,District,primary,2021,01/01/2021,97.7,OK,No,0,0,0,0,0
+Perak,Hulu Perak,District,primary,2022,01/01/2022,100.1,Above 100 (retained),No,0,0,1,0,0
+Perak,Hulu Perak,District,primary,2023,01/01/2023,100,OK,No,0,0,0,0,0
+Perak,Hulu Perak,District,primary,2024,01/01/2024,98,OK,No,0,0,0,0,0
+Perak,Hulu Perak,District,primary,2025,01/01/2025,92.5,OK,No,0,0,0,0,0
+Perak,Hulu Perak,District,secondary_lower,2021,01/01/2021,99,OK,No,0,0,0,0,0
+Perak,Hulu Perak,District,secondary_lower,2022,01/01/2022,97.7,OK,No,0,0,0,0,0
+Perak,Hulu Perak,District,secondary_lower,2023,01/01/2023,95,OK,No,0,0,0,0,0
+Perak,Hulu Perak,District,secondary_lower,2024,01/01/2024,95.7,OK,No,0,0,0,0,0
+Perak,Hulu Perak,District,secondary_lower,2025,01/01/2025,98,OK,No,0,0,0,0,0
+Perak,Hulu Perak,District,secondary_upper,2021,01/01/2021,99.2,OK,No,0,0,0,0,0
+Perak,Hulu Perak,District,secondary_upper,2022,01/01/2022,98.5,OK,No,0,0,0,0,0
+Perak,Hulu Perak,District,secondary_upper,2023,01/01/2023,96.2,OK,No,0,0,0,0,0
+Perak,Hulu Perak,District,secondary_upper,2024,01/01/2024,97.4,OK,No,0,0,0,0,0
+Perak,Hulu Perak,District,secondary_upper,2025,01/01/2025,98.4,OK,No,0,0,0,0,0
+Perak,Kerian,District,primary,2021,01/01/2021,98.8,OK,No,0,0,0,0,0
+Perak,Kerian,District,primary,2022,01/01/2022,101.5,Above 100 (retained),No,0,0,1,0,0
+Perak,Kerian,District,primary,2023,01/01/2023,101.8,Above 100 (retained),No,0,0,1,0,0
+Perak,Kerian,District,primary,2024,01/01/2024,101.6,Above 100 (retained),No,0,0,1,0,0
+Perak,Kerian,District,primary,2025,01/01/2025,97.8,OK,No,0,0,0,0,0
+Perak,Kerian,District,secondary_lower,2021,01/01/2021,100.5,Above 100 (retained),No,0,0,1,0,0
+Perak,Kerian,District,secondary_lower,2022,01/01/2022,100.1,Above 100 (retained),No,0,0,1,0,0
+Perak,Kerian,District,secondary_lower,2023,01/01/2023,98.1,OK,No,0,0,0,0,0
+Perak,Kerian,District,secondary_lower,2024,01/01/2024,98.1,OK,No,0,0,0,0,0
+Perak,Kerian,District,secondary_lower,2025,01/01/2025,99,OK,No,0,0,0,0,0
+Perak,Kerian,District,secondary_upper,2021,01/01/2021,99.7,OK,No,0,0,0,0,0
+Perak,Kerian,District,secondary_upper,2022,01/01/2022,99.3,OK,No,0,0,0,0,0
+Perak,Kerian,District,secondary_upper,2023,01/01/2023,95.9,OK,No,0,0,0,0,0
+Perak,Kerian,District,secondary_upper,2024,01/01/2024,97.6,OK,No,0,0,0,0,0
+Perak,Kerian,District,secondary_upper,2025,01/01/2025,98.7,OK,No,0,0,0,0,0
+Perak,Kinta,District,primary,2021,01/01/2021,99.2,OK,No,0,0,0,0,0
+Perak,Kinta,District,primary,2022,01/01/2022,105.5,Above 100 (retained),No,0,0,1,0,0
+Perak,Kinta,District,primary,2023,01/01/2023,98.7,OK,No,0,0,0,0,0
+Perak,Kinta,District,primary,2024,01/01/2024,99.4,OK,No,0,0,0,0,0
+Perak,Kinta,District,primary,2025,01/01/2025,93.4,OK,No,0,0,0,0,0
+Perak,Kinta,District,secondary_lower,2021,01/01/2021,100.1,Above 100 (retained),No,0,0,1,0,0
+Perak,Kinta,District,secondary_lower,2022,01/01/2022,102.2,Above 100 (retained),No,0,0,1,0,0
+Perak,Kinta,District,secondary_lower,2023,01/01/2023,101,Above 100 (retained),No,0,0,1,0,0
+Perak,Kinta,District,secondary_lower,2024,01/01/2024,97.7,OK,No,0,0,0,0,0
+Perak,Kinta,District,secondary_lower,2025,01/01/2025,97.7,OK,No,0,0,0,0,0
+Perak,Kinta,District,secondary_upper,2021,01/01/2021,99.9,OK,No,0,0,0,0,0
+Perak,Kinta,District,secondary_upper,2022,01/01/2022,101.2,Above 100 (retained),No,0,0,1,0,0
+Perak,Kinta,District,secondary_upper,2023,01/01/2023,96.3,OK,No,0,0,0,0,0
+Perak,Kinta,District,secondary_upper,2024,01/01/2024,97.8,OK,No,0,0,0,0,0
+Perak,Kinta,District,secondary_upper,2025,01/01/2025,98.3,OK,No,0,0,0,0,0
+Perak,Kinta Selatan,District,primary,2021,01/01/2021,100,OK,No,0,0,0,0,0
+Perak,Kinta Selatan,District,primary,2022,01/01/2022,106.9,Above 100 (retained),No,0,0,1,0,0
+Perak,Kinta Selatan,District,primary,2023,01/01/2023,96.6,OK,No,0,0,0,0,0
+Perak,Kinta Selatan,District,primary,2024,01/01/2024,100.9,Above 100 (retained),No,0,0,1,0,0
+Perak,Kinta Selatan,District,primary,2025,01/01/2025,94.2,OK,No,0,0,0,0,0
+Perak,Kinta Selatan,District,secondary_lower,2021,01/01/2021,99.6,OK,No,0,0,0,0,0
+Perak,Kinta Selatan,District,secondary_lower,2022,01/01/2022,99.1,OK,No,0,0,0,0,0
+Perak,Kinta Selatan,District,secondary_lower,2023,01/01/2023,96.2,OK,No,0,0,0,0,0
+Perak,Kinta Selatan,District,secondary_lower,2024,01/01/2024,97.1,OK,No,0,0,0,0,0
+Perak,Kinta Selatan,District,secondary_lower,2025,01/01/2025,98.4,OK,No,0,0,0,0,0
+Perak,Kinta Selatan,District,secondary_upper,2021,01/01/2021,98.3,OK,No,0,0,0,0,0
+Perak,Kinta Selatan,District,secondary_upper,2022,01/01/2022,99.6,OK,No,0,0,0,0,0
+Perak,Kinta Selatan,District,secondary_upper,2023,01/01/2023,96.3,OK,No,0,0,0,0,0
+Perak,Kinta Selatan,District,secondary_upper,2024,01/01/2024,98.3,OK,No,0,0,0,0,0
+Perak,Kinta Selatan,District,secondary_upper,2025,01/01/2025,99,OK,No,0,0,0,0,0
+Perak,Kuala Kangsar,District,primary,2021,01/01/2021,100.5,Above 100 (retained),No,0,0,1,0,0
+Perak,Kuala Kangsar,District,primary,2022,01/01/2022,103.5,Above 100 (retained),No,0,0,1,0,0
+Perak,Kuala Kangsar,District,primary,2023,01/01/2023,100.7,Above 100 (retained),No,0,0,1,0,0
+Perak,Kuala Kangsar,District,primary,2024,01/01/2024,101.1,Above 100 (retained),No,0,0,1,0,0
+Perak,Kuala Kangsar,District,primary,2025,01/01/2025,95.7,OK,No,0,0,0,0,0
+Perak,Kuala Kangsar,District,secondary_lower,2021,01/01/2021,97.7,OK,No,0,0,0,0,0
+Perak,Kuala Kangsar,District,secondary_lower,2022,01/01/2022,98.4,OK,No,0,0,0,0,0
+Perak,Kuala Kangsar,District,secondary_lower,2023,01/01/2023,97,OK,No,0,0,0,0,0
+Perak,Kuala Kangsar,District,secondary_lower,2024,01/01/2024,96.8,OK,No,0,0,0,0,0
+Perak,Kuala Kangsar,District,secondary_lower,2025,01/01/2025,94.7,OK,No,0,0,0,0,0
+Perak,Kuala Kangsar,District,secondary_upper,2021,01/01/2021,100,OK,No,0,0,0,0,0
+Perak,Kuala Kangsar,District,secondary_upper,2022,01/01/2022,98.8,OK,No,0,0,0,0,0
+Perak,Kuala Kangsar,District,secondary_upper,2023,01/01/2023,93.5,OK,No,0,0,0,0,0
+Perak,Kuala Kangsar,District,secondary_upper,2024,01/01/2024,96.8,OK,No,0,0,0,0,0
+Perak,Kuala Kangsar,District,secondary_upper,2025,01/01/2025,96.1,OK,No,0,0,0,0,0
+Perak,Larut/Matang/Selama,District,primary,2021,01/01/2021,99.7,OK,No,0,0,0,0,0
+Perak,Larut/Matang/Selama,District,primary,2022,01/01/2022,100.1,Above 100 (retained),No,0,0,1,0,0
+Perak,Larut/Matang/Selama,District,primary,2023,01/01/2023,102.6,Above 100 (retained),No,0,0,1,0,0
+Perak,Larut/Matang/Selama,District,primary,2024,01/01/2024,100.5,Above 100 (retained),No,0,0,1,0,0
+Perak,Larut/Matang/Selama,District,primary,2025,01/01/2025,92.9,OK,No,0,0,0,0,0
+Perak,Larut/Matang/Selama,District,secondary_lower,2021,01/01/2021,100.1,Above 100 (retained),No,0,0,1,0,0
+Perak,Larut/Matang/Selama,District,secondary_lower,2022,01/01/2022,100.3,Above 100 (retained),No,0,0,1,0,0
+Perak,Larut/Matang/Selama,District,secondary_lower,2023,01/01/2023,96.8,OK,No,0,0,0,0,0
+Perak,Larut/Matang/Selama,District,secondary_lower,2024,01/01/2024,97.5,OK,No,0,0,0,0,0
+Perak,Larut/Matang/Selama,District,secondary_lower,2025,01/01/2025,97.7,OK,No,0,0,0,0,0
+Perak,Larut/Matang/Selama,District,secondary_upper,2021,01/01/2021,99.7,OK,No,0,0,0,0,0
+Perak,Larut/Matang/Selama,District,secondary_upper,2022,01/01/2022,98.4,OK,No,0,0,0,0,0
+Perak,Larut/Matang/Selama,District,secondary_upper,2023,01/01/2023,95.8,OK,No,0,0,0,0,0
+Perak,Larut/Matang/Selama,District,secondary_upper,2024,01/01/2024,98,OK,No,0,0,0,0,0
+Perak,Larut/Matang/Selama,District,secondary_upper,2025,01/01/2025,97.5,OK,No,0,0,0,0,0
+Perak,Manjung,District,primary,2021,01/01/2021,93.5,OK,No,0,0,0,0,0
+Perak,Manjung,District,primary,2022,01/01/2022,97.4,OK,No,0,0,0,0,0
+Perak,Manjung,District,primary,2023,01/01/2023,101.3,Above 100 (retained),No,0,0,1,0,0
+Perak,Manjung,District,primary,2024,01/01/2024,97.4,OK,No,0,0,0,0,0
+Perak,Manjung,District,primary,2025,01/01/2025,90.9,OK,No,0,0,0,0,0
+Perak,Manjung,District,secondary_lower,2021,01/01/2021,97.3,OK,No,0,0,0,0,0
+Perak,Manjung,District,secondary_lower,2022,01/01/2022,98,OK,No,0,0,0,0,0
+Perak,Manjung,District,secondary_lower,2023,01/01/2023,95.9,OK,No,0,0,0,0,0
+Perak,Manjung,District,secondary_lower,2024,01/01/2024,96.1,OK,No,0,0,0,0,0
+Perak,Manjung,District,secondary_lower,2025,01/01/2025,98,OK,No,0,0,0,0,0
+Perak,Manjung,District,secondary_upper,2021,01/01/2021,100.5,Above 100 (retained),No,0,0,1,0,0
+Perak,Manjung,District,secondary_upper,2022,01/01/2022,97.5,OK,No,0,0,0,0,0
+Perak,Manjung,District,secondary_upper,2023,01/01/2023,92,Low outlier (IQR),Yes,0,0,0,0,1
+Perak,Manjung,District,secondary_upper,2024,01/01/2024,98.3,OK,No,0,0,0,0,0
+Perak,Manjung,District,secondary_upper,2025,01/01/2025,97.8,OK,No,0,0,0,0,0
+Perak,Perak Tengah,District,primary,2021,01/01/2021,102.6,Above 100 (retained),No,0,0,1,0,0
+Perak,Perak Tengah,District,primary,2022,01/01/2022,103.4,Above 100 (retained),No,0,0,1,0,0
+Perak,Perak Tengah,District,primary,2023,01/01/2023,101.3,Above 100 (retained),No,0,0,1,0,0
+Perak,Perak Tengah,District,primary,2024,01/01/2024,101.4,Above 100 (retained),No,0,0,1,0,0
+Perak,Perak Tengah,District,primary,2025,01/01/2025,94.7,OK,No,0,0,0,0,0
+Perak,Perak Tengah,District,secondary_lower,2021,01/01/2021,100.6,Above 100 (retained),No,0,0,1,0,0
+Perak,Perak Tengah,District,secondary_lower,2022,01/01/2022,108.6,Above 100 (retained),Yes,0,0,1,0,1
+Perak,Perak Tengah,District,secondary_lower,2023,01/01/2023,105.4,Above 100 (retained),Yes,0,0,1,0,1
+Perak,Perak Tengah,District,secondary_lower,2024,01/01/2024,99.9,OK,No,0,0,0,0,0
+Perak,Perak Tengah,District,secondary_lower,2025,01/01/2025,97.3,OK,No,0,0,0,0,0
+Perak,Perak Tengah,District,secondary_upper,2021,01/01/2021,98.9,OK,No,0,0,0,0,0
+Perak,Perak Tengah,District,secondary_upper,2022,01/01/2022,105.1,Above 100 (retained),Yes,0,0,1,0,1
+Perak,Perak Tengah,District,secondary_upper,2023,01/01/2023,95.1,OK,No,0,0,0,0,0
+Perak,Perak Tengah,District,secondary_upper,2024,01/01/2024,98.7,OK,No,0,0,0,0,0
+Perak,Perak Tengah,District,secondary_upper,2025,01/01/2025,98.6,OK,No,0,0,0,0,0
+Perlis,All Districts,State total,primary,2021,01/01/2021,99.7,OK,No,1,0,0,0,0
+Perlis,All Districts,State total,primary,2022,01/01/2022,99.5,OK,No,1,0,0,0,0
+Perlis,All Districts,State total,primary,2023,01/01/2023,99.9,OK,No,1,0,0,0,0
+Perlis,All Districts,State total,primary,2024,01/01/2024,98,OK,No,1,0,0,0,0
+Perlis,All Districts,State total,primary,2025,01/01/2025,97.5,OK,No,1,0,0,0,0
+Perlis,All Districts,State total,secondary_lower,2021,01/01/2021,98.5,OK,No,1,0,0,0,0
+Perlis,All Districts,State total,secondary_lower,2022,01/01/2022,100.4,Above 100 (retained),No,1,0,1,0,0
+Perlis,All Districts,State total,secondary_lower,2023,01/01/2023,96.8,OK,No,1,0,0,0,0
+Perlis,All Districts,State total,secondary_lower,2024,01/01/2024,98.7,OK,No,1,0,0,0,0
+Perlis,All Districts,State total,secondary_lower,2025,01/01/2025,97,OK,No,1,0,0,0,0
+Perlis,All Districts,State total,secondary_upper,2021,01/01/2021,98.3,OK,No,1,0,0,0,0
+Perlis,All Districts,State total,secondary_upper,2022,01/01/2022,97.1,OK,No,1,0,0,0,0
+Perlis,All Districts,State total,secondary_upper,2023,01/01/2023,94.9,OK,No,1,0,0,0,0
+Perlis,All Districts,State total,secondary_upper,2024,01/01/2024,95.2,OK,No,1,0,0,0,0
+Perlis,All Districts,State total,secondary_upper,2025,01/01/2025,96.5,OK,No,1,0,0,0,0
+Pulau Pinang,All Districts,State total,primary,2021,01/01/2021,97.3,OK,No,1,0,0,0,0
+Pulau Pinang,All Districts,State total,primary,2022,01/01/2022,97,OK,No,1,0,0,0,0
+Pulau Pinang,All Districts,State total,primary,2023,01/01/2023,96.7,OK,No,1,0,0,0,0
+Pulau Pinang,All Districts,State total,primary,2024,01/01/2024,97.2,OK,No,1,0,0,0,0
+Pulau Pinang,All Districts,State total,primary,2025,01/01/2025,88.3,OK,No,1,0,0,0,0
+Pulau Pinang,All Districts,State total,secondary_lower,2021,01/01/2021,98.9,OK,No,1,0,0,0,0
+Pulau Pinang,All Districts,State total,secondary_lower,2022,01/01/2022,99.2,OK,No,1,0,0,0,0
+Pulau Pinang,All Districts,State total,secondary_lower,2023,01/01/2023,97.2,OK,No,1,0,0,0,0
+Pulau Pinang,All Districts,State total,secondary_lower,2024,01/01/2024,97.4,OK,No,1,0,0,0,0
+Pulau Pinang,All Districts,State total,secondary_lower,2025,01/01/2025,97.9,OK,No,1,0,0,0,0
+Pulau Pinang,All Districts,State total,secondary_upper,2021,01/01/2021,98.8,OK,No,1,0,0,0,0
+Pulau Pinang,All Districts,State total,secondary_upper,2022,01/01/2022,98.2,OK,No,1,0,0,0,0
+Pulau Pinang,All Districts,State total,secondary_upper,2023,01/01/2023,96.6,OK,No,1,0,0,0,0
+Pulau Pinang,All Districts,State total,secondary_upper,2024,01/01/2024,97.9,OK,No,1,0,0,0,0
+Pulau Pinang,All Districts,State total,secondary_upper,2025,01/01/2025,97.9,OK,No,1,0,0,0,0
+Pulau Pinang,Barat Daya,District,primary,2021,01/01/2021,96.1,OK,No,0,0,0,0,0
+Pulau Pinang,Barat Daya,District,primary,2022,01/01/2022,95.1,OK,No,0,0,0,0,0
+Pulau Pinang,Barat Daya,District,primary,2023,01/01/2023,95.8,OK,No,0,0,0,0,0
+Pulau Pinang,Barat Daya,District,primary,2024,01/01/2024,94.6,OK,No,0,0,0,0,0
+Pulau Pinang,Barat Daya,District,primary,2025,01/01/2025,89.3,OK,No,0,0,0,0,0
+Pulau Pinang,Barat Daya,District,secondary_lower,2021,01/01/2021,97.7,OK,No,0,0,0,0,0
+Pulau Pinang,Barat Daya,District,secondary_lower,2022,01/01/2022,99.1,OK,No,0,0,0,0,0
+Pulau Pinang,Barat Daya,District,secondary_lower,2023,01/01/2023,95.3,OK,No,0,0,0,0,0
+Pulau Pinang,Barat Daya,District,secondary_lower,2024,01/01/2024,96,OK,No,0,0,0,0,0
+Pulau Pinang,Barat Daya,District,secondary_lower,2025,01/01/2025,97.8,OK,No,0,0,0,0,0
+Pulau Pinang,Barat Daya,District,secondary_upper,2021,01/01/2021,98.7,OK,No,0,0,0,0,0
+Pulau Pinang,Barat Daya,District,secondary_upper,2022,01/01/2022,99.7,OK,No,0,0,0,0,0
+Pulau Pinang,Barat Daya,District,secondary_upper,2023,01/01/2023,95.9,OK,No,0,0,0,0,0
+Pulau Pinang,Barat Daya,District,secondary_upper,2024,01/01/2024,97.1,OK,No,0,0,0,0,0
+Pulau Pinang,Barat Daya,District,secondary_upper,2025,01/01/2025,98.8,OK,No,0,0,0,0,0
+Pulau Pinang,Seberang Perai Selatan,District,primary,2021,01/01/2021,100.2,Above 100 (retained),No,0,0,1,0,0
+Pulau Pinang,Seberang Perai Selatan,District,primary,2022,01/01/2022,102.7,Above 100 (retained),No,0,0,1,0,0
+Pulau Pinang,Seberang Perai Selatan,District,primary,2023,01/01/2023,99.6,OK,No,0,0,0,0,0
+Pulau Pinang,Seberang Perai Selatan,District,primary,2024,01/01/2024,99.5,OK,No,0,0,0,0,0
+Pulau Pinang,Seberang Perai Selatan,District,primary,2025,01/01/2025,89.2,OK,No,0,0,0,0,0
+Pulau Pinang,Seberang Perai Selatan,District,secondary_lower,2021,01/01/2021,99,OK,No,0,0,0,0,0
+Pulau Pinang,Seberang Perai Selatan,District,secondary_lower,2022,01/01/2022,100.6,Above 100 (retained),No,0,0,1,0,0
+Pulau Pinang,Seberang Perai Selatan,District,secondary_lower,2023,01/01/2023,97.8,OK,No,0,0,0,0,0
+Pulau Pinang,Seberang Perai Selatan,District,secondary_lower,2024,01/01/2024,98.2,OK,No,0,0,0,0,0
+Pulau Pinang,Seberang Perai Selatan,District,secondary_lower,2025,01/01/2025,98.9,OK,No,0,0,0,0,0
+Pulau Pinang,Seberang Perai Selatan,District,secondary_upper,2021,01/01/2021,99.4,OK,No,0,0,0,0,0
+Pulau Pinang,Seberang Perai Selatan,District,secondary_upper,2022,01/01/2022,96.3,OK,No,0,0,0,0,0
+Pulau Pinang,Seberang Perai Selatan,District,secondary_upper,2023,01/01/2023,97.2,OK,No,0,0,0,0,0
+Pulau Pinang,Seberang Perai Selatan,District,secondary_upper,2024,01/01/2024,98.8,OK,No,0,0,0,0,0
+Pulau Pinang,Seberang Perai Selatan,District,secondary_upper,2025,01/01/2025,97.5,OK,No,0,0,0,0,0
+Pulau Pinang,Seberang Perai Tengah,District,primary,2021,01/01/2021,100.2,Above 100 (retained),No,0,0,1,0,0
+Pulau Pinang,Seberang Perai Tengah,District,primary,2022,01/01/2022,102.7,Above 100 (retained),No,0,0,1,0,0
+Pulau Pinang,Seberang Perai Tengah,District,primary,2023,01/01/2023,99.6,OK,No,0,0,0,0,0
+Pulau Pinang,Seberang Perai Tengah,District,primary,2024,01/01/2024,99.5,OK,No,0,0,0,0,0
+Pulau Pinang,Seberang Perai Tengah,District,primary,2025,01/01/2025,86.3,Low outlier (IQR),Yes,0,0,0,0,1
+Pulau Pinang,Seberang Perai Tengah,District,secondary_lower,2021,01/01/2021,99,OK,No,0,0,0,0,0
+Pulau Pinang,Seberang Perai Tengah,District,secondary_lower,2022,01/01/2022,100.6,Above 100 (retained),No,0,0,1,0,0
+Pulau Pinang,Seberang Perai Tengah,District,secondary_lower,2023,01/01/2023,97.8,OK,No,0,0,0,0,0
+Pulau Pinang,Seberang Perai Tengah,District,secondary_lower,2024,01/01/2024,98.2,OK,No,0,0,0,0,0
+Pulau Pinang,Seberang Perai Tengah,District,secondary_lower,2025,01/01/2025,97.5,OK,No,0,0,0,0,0
+Pulau Pinang,Seberang Perai Tengah,District,secondary_upper,2021,01/01/2021,99.4,OK,No,0,0,0,0,0
+Pulau Pinang,Seberang Perai Tengah,District,secondary_upper,2022,01/01/2022,96.3,OK,No,0,0,0,0,0
+Pulau Pinang,Seberang Perai Tengah,District,secondary_upper,2023,01/01/2023,97.2,OK,No,0,0,0,0,0
+Pulau Pinang,Seberang Perai Tengah,District,secondary_upper,2024,01/01/2024,98.8,OK,No,0,0,0,0,0
+Pulau Pinang,Seberang Perai Tengah,District,secondary_upper,2025,01/01/2025,97.2,OK,No,0,0,0,0,0
+Pulau Pinang,Seberang Perai Utara,District,primary,2021,01/01/2021,99.9,OK,No,0,0,0,0,0
+Pulau Pinang,Seberang Perai Utara,District,primary,2022,01/01/2022,101.5,Above 100 (retained),No,0,0,1,0,0
+Pulau Pinang,Seberang Perai Utara,District,primary,2023,01/01/2023,92.5,OK,No,0,0,0,0,0
+Pulau Pinang,Seberang Perai Utara,District,primary,2024,01/01/2024,100.8,Above 100 (retained),No,0,0,1,0,0
+Pulau Pinang,Seberang Perai Utara,District,primary,2025,01/01/2025,92.6,OK,No,0,0,0,0,0
+Pulau Pinang,Seberang Perai Utara,District,secondary_lower,2021,01/01/2021,99.8,OK,No,0,0,0,0,0
+Pulau Pinang,Seberang Perai Utara,District,secondary_lower,2022,01/01/2022,100.4,Above 100 (retained),No,0,0,1,0,0
+Pulau Pinang,Seberang Perai Utara,District,secondary_lower,2023,01/01/2023,98.7,OK,No,0,0,0,0,0
+Pulau Pinang,Seberang Perai Utara,District,secondary_lower,2024,01/01/2024,98.2,OK,No,0,0,0,0,0
+Pulau Pinang,Seberang Perai Utara,District,secondary_lower,2025,01/01/2025,99,OK,No,0,0,0,0,0
+Pulau Pinang,Seberang Perai Utara,District,secondary_upper,2021,01/01/2021,98.9,OK,No,0,0,0,0,0
+Pulau Pinang,Seberang Perai Utara,District,secondary_upper,2022,01/01/2022,98.6,OK,No,0,0,0,0,0
+Pulau Pinang,Seberang Perai Utara,District,secondary_upper,2023,01/01/2023,96.1,OK,No,0,0,0,0,0
+Pulau Pinang,Seberang Perai Utara,District,secondary_upper,2024,01/01/2024,97.5,OK,No,0,0,0,0,0
+Pulau Pinang,Seberang Perai Utara,District,secondary_upper,2025,01/01/2025,98.7,OK,No,0,0,0,0,0
+Pulau Pinang,Timur Laut,District,primary,2021,01/01/2021,94.6,OK,No,0,0,0,0,0
+Pulau Pinang,Timur Laut,District,primary,2022,01/01/2022,89.5,OK,No,0,0,0,0,0
+Pulau Pinang,Timur Laut,District,primary,2023,01/01/2023,95.7,OK,No,0,0,0,0,0
+Pulau Pinang,Timur Laut,District,primary,2024,01/01/2024,95.1,OK,No,0,0,0,0,0
+Pulau Pinang,Timur Laut,District,primary,2025,01/01/2025,85.3,Low outlier (IQR),Yes,0,0,0,0,1
+Pulau Pinang,Timur Laut,District,secondary_lower,2021,01/01/2021,98.1,OK,No,0,0,0,0,0
+Pulau Pinang,Timur Laut,District,secondary_lower,2022,01/01/2022,98.1,OK,No,0,0,0,0,0
+Pulau Pinang,Timur Laut,District,secondary_lower,2023,01/01/2023,97.1,OK,No,0,0,0,0,0
+Pulau Pinang,Timur Laut,District,secondary_lower,2024,01/01/2024,97.1,OK,No,0,0,0,0,0
+Pulau Pinang,Timur Laut,District,secondary_lower,2025,01/01/2025,96.7,OK,No,0,0,0,0,0
+Pulau Pinang,Timur Laut,District,secondary_upper,2021,01/01/2021,99.3,OK,No,0,0,0,0,0
+Pulau Pinang,Timur Laut,District,secondary_upper,2022,01/01/2022,98.4,OK,No,0,0,0,0,0
+Pulau Pinang,Timur Laut,District,secondary_upper,2023,01/01/2023,94.9,OK,No,0,0,0,0,0
+Pulau Pinang,Timur Laut,District,secondary_upper,2024,01/01/2024,98.2,OK,No,0,0,0,0,0
+Pulau Pinang,Timur Laut,District,secondary_upper,2025,01/01/2025,97.8,OK,No,0,0,0,0,0
+Sabah,All Districts,State total,primary,2021,01/01/2021,100.6,Above 100 (retained),No,1,0,1,0,0
+Sabah,All Districts,State total,primary,2022,01/01/2022,98.1,OK,No,1,0,0,0,0
+Sabah,All Districts,State total,primary,2023,01/01/2023,100.9,Above 100 (retained),No,1,0,1,0,0
+Sabah,All Districts,State total,primary,2024,01/01/2024,100.5,Above 100 (retained),No,1,0,1,0,0
+Sabah,All Districts,State total,primary,2025,01/01/2025,97.2,OK,No,1,0,0,0,0
+Sabah,All Districts,State total,secondary_lower,2021,01/01/2021,98.4,OK,No,1,0,0,0,0
+Sabah,All Districts,State total,secondary_lower,2022,01/01/2022,99.9,OK,No,1,0,0,0,0
+Sabah,All Districts,State total,secondary_lower,2023,01/01/2023,97,OK,No,1,0,0,0,0
+Sabah,All Districts,State total,secondary_lower,2024,01/01/2024,96.4,OK,No,1,0,0,0,0
+Sabah,All Districts,State total,secondary_lower,2025,01/01/2025,96.5,OK,No,1,0,0,0,0
+Sabah,All Districts,State total,secondary_upper,2021,01/01/2021,99.4,OK,No,1,0,0,0,0
+Sabah,All Districts,State total,secondary_upper,2022,01/01/2022,98.6,OK,No,1,0,0,0,0
+Sabah,All Districts,State total,secondary_upper,2023,01/01/2023,95.5,OK,No,1,0,0,0,0
+Sabah,All Districts,State total,secondary_upper,2024,01/01/2024,96.3,OK,No,1,0,0,0,0
+Sabah,All Districts,State total,secondary_upper,2025,01/01/2025,96.3,OK,No,1,0,0,0,0
+Sabah,Beaufort,District,primary,2021,01/01/2021,102.8,Above 100 (retained),No,0,0,1,0,0
+Sabah,Beaufort,District,primary,2022,01/01/2022,100.2,Above 100 (retained),No,0,0,1,0,0
+Sabah,Beaufort,District,primary,2023,01/01/2023,100.4,Above 100 (retained),No,0,0,1,0,0
+Sabah,Beaufort,District,primary,2024,01/01/2024,101.3,Above 100 (retained),No,0,0,1,0,0
+Sabah,Beaufort,District,primary,2025,01/01/2025,93.5,OK,No,0,0,0,0,0
+Sabah,Beaufort,District,secondary_lower,2021,01/01/2021,100.6,Above 100 (retained),No,0,0,1,0,0
+Sabah,Beaufort,District,secondary_lower,2022,01/01/2022,100.9,Above 100 (retained),No,0,0,1,0,0
+Sabah,Beaufort,District,secondary_lower,2023,01/01/2023,97.4,OK,No,0,0,0,0,0
+Sabah,Beaufort,District,secondary_lower,2024,01/01/2024,97.8,OK,No,0,0,0,0,0
+Sabah,Beaufort,District,secondary_lower,2025,01/01/2025,97,OK,No,0,0,0,0,0
+Sabah,Beaufort,District,secondary_upper,2021,01/01/2021,100.8,Above 100 (retained),No,0,0,1,0,0
+Sabah,Beaufort,District,secondary_upper,2022,01/01/2022,97.9,OK,No,0,0,0,0,0
+Sabah,Beaufort,District,secondary_upper,2023,01/01/2023,95.9,OK,No,0,0,0,0,0
+Sabah,Beaufort,District,secondary_upper,2024,01/01/2024,96.8,OK,No,0,0,0,0,0
+Sabah,Beaufort,District,secondary_upper,2025,01/01/2025,97.5,OK,No,0,0,0,0,0
+Sabah,Beluran,District,primary,2021,01/01/2021,100.4,Above 100 (retained),No,0,0,1,0,0
+Sabah,Beluran,District,primary,2022,01/01/2022,92.5,OK,No,0,0,0,0,0
+Sabah,Beluran,District,primary,2023,01/01/2023,96,OK,No,0,0,0,0,0
+Sabah,Beluran,District,primary,2024,01/01/2024,104.6,Above 100 (retained),No,0,0,1,0,0
+Sabah,Beluran,District,primary,2025,01/01/2025,106.7,Above 100 (retained),No,0,0,1,0,0
+Sabah,Beluran,District,secondary_lower,2021,01/01/2021,99,OK,No,0,0,0,0,0
+Sabah,Beluran,District,secondary_lower,2022,01/01/2022,99.6,OK,No,0,0,0,0,0
+Sabah,Beluran,District,secondary_lower,2023,01/01/2023,93.4,OK,No,0,0,0,0,0
+Sabah,Beluran,District,secondary_lower,2024,01/01/2024,94.8,OK,No,0,0,0,0,0
+Sabah,Beluran,District,secondary_lower,2025,01/01/2025,92,Low outlier (IQR),Yes,0,0,0,0,1
+Sabah,Beluran,District,secondary_upper,2021,01/01/2021,98.3,OK,No,0,0,0,0,0
+Sabah,Beluran,District,secondary_upper,2022,01/01/2022,98.2,OK,No,0,0,0,0,0
+Sabah,Beluran,District,secondary_upper,2023,01/01/2023,96.3,OK,No,0,0,0,0,0
+Sabah,Beluran,District,secondary_upper,2024,01/01/2024,96.1,OK,No,0,0,0,0,0
+Sabah,Beluran,District,secondary_upper,2025,01/01/2025,93.5,OK,No,0,0,0,0,0
+Sabah,Keningau,District,primary,2021,01/01/2021,102.8,Above 100 (retained),No,0,0,1,0,0
+Sabah,Keningau,District,primary,2022,01/01/2022,105.5,Above 100 (retained),No,0,0,1,0,0
+Sabah,Keningau,District,primary,2023,01/01/2023,104.4,Above 100 (retained),No,0,0,1,0,0
+Sabah,Keningau,District,primary,2024,01/01/2024,101.9,Above 100 (retained),No,0,0,1,0,0
+Sabah,Keningau,District,primary,2025,01/01/2025,97.5,OK,No,0,0,0,0,0
+Sabah,Keningau,District,secondary_lower,2021,01/01/2021,99.8,OK,No,0,0,0,0,0
+Sabah,Keningau,District,secondary_lower,2022,01/01/2022,101.1,Above 100 (retained),No,0,0,1,0,0
+Sabah,Keningau,District,secondary_lower,2023,01/01/2023,96.3,OK,No,0,0,0,0,0
+Sabah,Keningau,District,secondary_lower,2024,01/01/2024,96.9,OK,No,0,0,0,0,0
+Sabah,Keningau,District,secondary_lower,2025,01/01/2025,96.8,OK,No,0,0,0,0,0
+Sabah,Keningau,District,secondary_upper,2021,01/01/2021,100.4,Above 100 (retained),No,0,0,1,0,0
+Sabah,Keningau,District,secondary_upper,2022,01/01/2022,99.9,OK,No,0,0,0,0,0
+Sabah,Keningau,District,secondary_upper,2023,01/01/2023,97.2,OK,No,0,0,0,0,0
+Sabah,Keningau,District,secondary_upper,2024,01/01/2024,96.8,OK,No,0,0,0,0,0
+Sabah,Keningau,District,secondary_upper,2025,01/01/2025,98.1,OK,No,0,0,0,0,0
+Sabah,Kinabatangan,District,primary,2021,01/01/2021,97.1,OK,No,0,0,0,0,0
+Sabah,Kinabatangan,District,primary,2022,01/01/2022,95.5,OK,No,0,0,0,0,0
+Sabah,Kinabatangan,District,primary,2023,01/01/2023,107.9,Above 100 (retained),No,0,0,1,0,0
+Sabah,Kinabatangan,District,primary,2024,01/01/2024,97,OK,No,0,0,0,0,0
+Sabah,Kinabatangan,District,primary,2025,01/01/2025,96.5,OK,No,0,0,0,0,0
+Sabah,Kinabatangan,District,secondary_lower,2021,01/01/2021,96.8,OK,No,0,0,0,0,0
+Sabah,Kinabatangan,District,secondary_lower,2022,01/01/2022,100.8,Above 100 (retained),No,0,0,1,0,0
+Sabah,Kinabatangan,District,secondary_lower,2023,01/01/2023,90.9,Low outlier (IQR),Yes,0,0,0,0,1
+Sabah,Kinabatangan,District,secondary_lower,2024,01/01/2024,97.3,OK,No,0,0,0,0,0
+Sabah,Kinabatangan,District,secondary_lower,2025,01/01/2025,97.9,OK,No,0,0,0,0,0
+Sabah,Kinabatangan,District,secondary_upper,2021,01/01/2021,99.8,OK,No,0,0,0,0,0
+Sabah,Kinabatangan,District,secondary_upper,2022,01/01/2022,99.7,OK,No,0,0,0,0,0
+Sabah,Kinabatangan,District,secondary_upper,2023,01/01/2023,94.3,OK,No,0,0,0,0,0
+Sabah,Kinabatangan,District,secondary_upper,2024,01/01/2024,97.1,OK,No,0,0,0,0,0
+Sabah,Kinabatangan,District,secondary_upper,2025,01/01/2025,94.2,OK,No,0,0,0,0,0
+Sabah,Kota Belud,District,primary,2021,01/01/2021,98.7,OK,No,0,0,0,0,0
+Sabah,Kota Belud,District,primary,2022,01/01/2022,107.8,Above 100 (retained),No,0,0,1,0,0
+Sabah,Kota Belud,District,primary,2023,01/01/2023,99,OK,No,0,0,0,0,0
+Sabah,Kota Belud,District,primary,2024,01/01/2024,99.4,OK,No,0,0,0,0,0
+Sabah,Kota Belud,District,primary,2025,01/01/2025,91.3,OK,No,0,0,0,0,0
+Sabah,Kota Belud,District,secondary_lower,2021,01/01/2021,97.9,OK,No,0,0,0,0,0
+Sabah,Kota Belud,District,secondary_lower,2022,01/01/2022,102.8,Above 100 (retained),No,0,0,1,0,0
+Sabah,Kota Belud,District,secondary_lower,2023,01/01/2023,99.9,OK,No,0,0,0,0,0
+Sabah,Kota Belud,District,secondary_lower,2024,01/01/2024,97.7,OK,No,0,0,0,0,0
+Sabah,Kota Belud,District,secondary_lower,2025,01/01/2025,94.2,OK,No,0,0,0,0,0
+Sabah,Kota Belud,District,secondary_upper,2021,01/01/2021,99.9,OK,No,0,0,0,0,0
+Sabah,Kota Belud,District,secondary_upper,2022,01/01/2022,99.9,OK,No,0,0,0,0,0
+Sabah,Kota Belud,District,secondary_upper,2023,01/01/2023,97,OK,No,0,0,0,0,0
+Sabah,Kota Belud,District,secondary_upper,2024,01/01/2024,96.5,OK,No,0,0,0,0,0
+Sabah,Kota Belud,District,secondary_upper,2025,01/01/2025,94.8,OK,No,0,0,0,0,0
+Sabah,Kota Kinabalu,District,primary,2021,01/01/2021,94.9,OK,No,0,0,0,0,0
+Sabah,Kota Kinabalu,District,primary,2022,01/01/2022,92.6,OK,No,0,0,0,0,0
+Sabah,Kota Kinabalu,District,primary,2023,01/01/2023,100.1,Above 100 (retained),No,0,0,1,0,0
+Sabah,Kota Kinabalu,District,primary,2024,01/01/2024,95.9,OK,No,0,0,0,0,0
+Sabah,Kota Kinabalu,District,primary,2025,01/01/2025,90.9,OK,No,0,0,0,0,0
+Sabah,Kota Kinabalu,District,secondary_lower,2021,01/01/2021,97.1,OK,No,0,0,0,0,0
+Sabah,Kota Kinabalu,District,secondary_lower,2022,01/01/2022,97.6,OK,No,0,0,0,0,0
+Sabah,Kota Kinabalu,District,secondary_lower,2023,01/01/2023,96.5,OK,No,0,0,0,0,0
+Sabah,Kota Kinabalu,District,secondary_lower,2024,01/01/2024,96,OK,No,0,0,0,0,0
+Sabah,Kota Kinabalu,District,secondary_lower,2025,01/01/2025,96.3,OK,No,0,0,0,0,0
+Sabah,Kota Kinabalu,District,secondary_upper,2021,01/01/2021,98,OK,No,0,0,0,0,0
+Sabah,Kota Kinabalu,District,secondary_upper,2022,01/01/2022,97.8,OK,No,0,0,0,0,0
+Sabah,Kota Kinabalu,District,secondary_upper,2023,01/01/2023,93.1,OK,No,0,0,0,0,0
+Sabah,Kota Kinabalu,District,secondary_upper,2024,01/01/2024,96.1,OK,No,0,0,0,0,0
+Sabah,Kota Kinabalu,District,secondary_upper,2025,01/01/2025,95.8,OK,No,0,0,0,0,0
+Sabah,Kota Marudu,District,primary,2021,01/01/2021,101.1,Above 100 (retained),No,0,0,1,0,0
+Sabah,Kota Marudu,District,primary,2022,01/01/2022,106.4,Above 100 (retained),No,0,0,1,0,0
+Sabah,Kota Marudu,District,primary,2023,01/01/2023,100.8,Above 100 (retained),No,0,0,1,0,0
+Sabah,Kota Marudu,District,primary,2024,01/01/2024,104.4,Above 100 (retained),No,0,0,1,0,0
+Sabah,Kota Marudu,District,primary,2025,01/01/2025,95.9,OK,No,0,0,0,0,0
+Sabah,Kota Marudu,District,secondary_lower,2021,01/01/2021,98.4,OK,No,0,0,0,0,0
+Sabah,Kota Marudu,District,secondary_lower,2022,01/01/2022,100.3,Above 100 (retained),No,0,0,1,0,0
+Sabah,Kota Marudu,District,secondary_lower,2023,01/01/2023,95.1,OK,No,0,0,0,0,0
+Sabah,Kota Marudu,District,secondary_lower,2024,01/01/2024,91.8,Low outlier (IQR),Yes,0,0,0,0,1
+Sabah,Kota Marudu,District,secondary_lower,2025,01/01/2025,95.3,OK,No,0,0,0,0,0
+Sabah,Kota Marudu,District,secondary_upper,2021,01/01/2021,99.4,OK,No,0,0,0,0,0
+Sabah,Kota Marudu,District,secondary_upper,2022,01/01/2022,99.9,OK,No,0,0,0,0,0
+Sabah,Kota Marudu,District,secondary_upper,2023,01/01/2023,97.4,OK,No,0,0,0,0,0
+Sabah,Kota Marudu,District,secondary_upper,2024,01/01/2024,91.6,Low outlier (IQR),Yes,0,0,0,0,1
+Sabah,Kota Marudu,District,secondary_upper,2025,01/01/2025,96,OK,No,0,0,0,0,0
+Sabah,Kuala Penyu,District,primary,2021,01/01/2021,101.1,Above 100 (retained),No,0,0,1,0,0
+Sabah,Kuala Penyu,District,primary,2022,01/01/2022,106.4,Above 100 (retained),No,0,0,1,0,0
+Sabah,Kuala Penyu,District,primary,2023,01/01/2023,100.8,Above 100 (retained),No,0,0,1,0,0
+Sabah,Kuala Penyu,District,primary,2024,01/01/2024,104.4,Above 100 (retained),No,0,0,1,0,0
+Sabah,Kuala Penyu,District,primary,2025,01/01/2025,95.4,OK,No,0,0,0,0,0
+Sabah,Kuala Penyu,District,secondary_lower,2021,01/01/2021,98.4,OK,No,0,0,0,0,0
+Sabah,Kuala Penyu,District,secondary_lower,2022,01/01/2022,100.3,Above 100 (retained),No,0,0,1,0,0
+Sabah,Kuala Penyu,District,secondary_lower,2023,01/01/2023,95.1,OK,No,0,0,0,0,0
+Sabah,Kuala Penyu,District,secondary_lower,2024,01/01/2024,91.8,Low outlier (IQR),Yes,0,0,0,0,1
+Sabah,Kuala Penyu,District,secondary_lower,2025,01/01/2025,98.2,OK,No,0,0,0,0,0
+Sabah,Kuala Penyu,District,secondary_upper,2021,01/01/2021,99.4,OK,No,0,0,0,0,0
+Sabah,Kuala Penyu,District,secondary_upper,2022,01/01/2022,99.9,OK,No,0,0,0,0,0
+Sabah,Kuala Penyu,District,secondary_upper,2023,01/01/2023,97.4,OK,No,0,0,0,0,0
+Sabah,Kuala Penyu,District,secondary_upper,2024,01/01/2024,91.6,Low outlier (IQR),Yes,0,0,0,0,1
+Sabah,Kuala Penyu,District,secondary_upper,2025,01/01/2025,101.2,Above 100 (retained),No,0,0,1,0,0
+Sabah,Kudat,District,primary,2021,01/01/2021,101.1,Above 100 (retained),No,0,0,1,0,0
+Sabah,Kudat,District,primary,2022,01/01/2022,106.4,Above 100 (retained),No,0,0,1,0,0
+Sabah,Kudat,District,primary,2023,01/01/2023,100.8,Above 100 (retained),No,0,0,1,0,0
+Sabah,Kudat,District,primary,2024,01/01/2024,104.4,Above 100 (retained),No,0,0,1,0,0
+Sabah,Kudat,District,primary,2025,01/01/2025,102.1,Above 100 (retained),No,0,0,1,0,0
+Sabah,Kudat,District,secondary_lower,2021,01/01/2021,98.4,OK,No,0,0,0,0,0
+Sabah,Kudat,District,secondary_lower,2022,01/01/2022,100.3,Above 100 (retained),No,0,0,1,0,0
+Sabah,Kudat,District,secondary_lower,2023,01/01/2023,95.1,OK,No,0,0,0,0,0
+Sabah,Kudat,District,secondary_lower,2024,01/01/2024,91.8,Low outlier (IQR),Yes,0,0,0,0,1
+Sabah,Kudat,District,secondary_lower,2025,01/01/2025,96.8,OK,No,0,0,0,0,0
+Sabah,Kudat,District,secondary_upper,2021,01/01/2021,99.4,OK,No,0,0,0,0,0
+Sabah,Kudat,District,secondary_upper,2022,01/01/2022,99.9,OK,No,0,0,0,0,0
+Sabah,Kudat,District,secondary_upper,2023,01/01/2023,97.4,OK,No,0,0,0,0,0
+Sabah,Kudat,District,secondary_upper,2024,01/01/2024,91.6,Low outlier (IQR),Yes,0,0,0,0,1
+Sabah,Kudat,District,secondary_upper,2025,01/01/2025,96.1,OK,No,0,0,0,0,0
+Sabah,Kunak,District,primary,2021,01/01/2021,100.1,Above 100 (retained),No,0,0,1,0,0
+Sabah,Kunak,District,primary,2022,01/01/2022,99.2,OK,No,0,0,0,0,0
+Sabah,Kunak,District,primary,2023,01/01/2023,102.1,Above 100 (retained),No,0,0,1,0,0
+Sabah,Kunak,District,primary,2024,01/01/2024,105.8,Above 100 (retained),No,0,0,1,0,0
+Sabah,Kunak,District,primary,2025,01/01/2025,100.1,Above 100 (retained),No,0,0,1,0,0
+Sabah,Kunak,District,secondary_lower,2021,01/01/2021,101.4,Above 100 (retained),No,0,0,1,0,0
+Sabah,Kunak,District,secondary_lower,2022,01/01/2022,102.7,Above 100 (retained),No,0,0,1,0,0
+Sabah,Kunak,District,secondary_lower,2023,01/01/2023,98.9,OK,No,0,0,0,0,0
+Sabah,Kunak,District,secondary_lower,2024,01/01/2024,100.7,Above 100 (retained),No,0,0,1,0,0
+Sabah,Kunak,District,secondary_lower,2025,01/01/2025,96.2,OK,No,0,0,0,0,0
+Sabah,Kunak,District,secondary_upper,2021,01/01/2021,98.9,OK,No,0,0,0,0,0
+Sabah,Kunak,District,secondary_upper,2022,01/01/2022,96.8,OK,No,0,0,0,0,0
+Sabah,Kunak,District,secondary_upper,2023,01/01/2023,97.4,OK,No,0,0,0,0,0
+Sabah,Kunak,District,secondary_upper,2024,01/01/2024,98.2,OK,No,0,0,0,0,0
+Sabah,Kunak,District,secondary_upper,2025,01/01/2025,97.5,OK,No,0,0,0,0,0
+Sabah,Lahad Datu,District,primary,2021,01/01/2021,101.8,Above 100 (retained),No,0,0,1,0,0
+Sabah,Lahad Datu,District,primary,2022,01/01/2022,92.4,OK,No,0,0,0,0,0
+Sabah,Lahad Datu,District,primary,2023,01/01/2023,93.8,OK,No,0,0,0,0,0
+Sabah,Lahad Datu,District,primary,2024,01/01/2024,99.7,OK,No,0,0,0,0,0
+Sabah,Lahad Datu,District,primary,2025,01/01/2025,96.4,OK,No,0,0,0,0,0
+Sabah,Lahad Datu,District,secondary_lower,2021,01/01/2021,98.1,OK,No,0,0,0,0,0
+Sabah,Lahad Datu,District,secondary_lower,2022,01/01/2022,100.2,Above 100 (retained),No,0,0,1,0,0
+Sabah,Lahad Datu,District,secondary_lower,2023,01/01/2023,98.6,OK,No,0,0,0,0,0
+Sabah,Lahad Datu,District,secondary_lower,2024,01/01/2024,97.2,OK,No,0,0,0,0,0
+Sabah,Lahad Datu,District,secondary_lower,2025,01/01/2025,96.9,OK,No,0,0,0,0,0
+Sabah,Lahad Datu,District,secondary_upper,2021,01/01/2021,99.2,OK,No,0,0,0,0,0
+Sabah,Lahad Datu,District,secondary_upper,2022,01/01/2022,97.4,OK,No,0,0,0,0,0
+Sabah,Lahad Datu,District,secondary_upper,2023,01/01/2023,95.2,OK,No,0,0,0,0,0
+Sabah,Lahad Datu,District,secondary_upper,2024,01/01/2024,96.1,OK,No,0,0,0,0,0
+Sabah,Lahad Datu,District,secondary_upper,2025,01/01/2025,97,OK,No,0,0,0,0,0
+Sabah,Papar,District,primary,2021,01/01/2021,102.8,Above 100 (retained),No,0,0,1,0,0
+Sabah,Papar,District,primary,2022,01/01/2022,100.9,Above 100 (retained),No,0,0,1,0,0
+Sabah,Papar,District,primary,2023,01/01/2023,103.8,Above 100 (retained),No,0,0,1,0,0
+Sabah,Papar,District,primary,2024,01/01/2024,101.6,Above 100 (retained),No,0,0,1,0,0
+Sabah,Papar,District,primary,2025,01/01/2025,100.6,Above 100 (retained),No,0,0,1,0,0
+Sabah,Papar,District,secondary_lower,2021,01/01/2021,99.1,OK,No,0,0,0,0,0
+Sabah,Papar,District,secondary_lower,2022,01/01/2022,100.2,Above 100 (retained),No,0,0,1,0,0
+Sabah,Papar,District,secondary_lower,2023,01/01/2023,99,OK,No,0,0,0,0,0
+Sabah,Papar,District,secondary_lower,2024,01/01/2024,98.8,OK,No,0,0,0,0,0
+Sabah,Papar,District,secondary_lower,2025,01/01/2025,98.3,OK,No,0,0,0,0,0
+Sabah,Papar,District,secondary_upper,2021,01/01/2021,100.5,Above 100 (retained),No,0,0,1,0,0
+Sabah,Papar,District,secondary_upper,2022,01/01/2022,99,OK,No,0,0,0,0,0
+Sabah,Papar,District,secondary_upper,2023,01/01/2023,94.9,OK,No,0,0,0,0,0
+Sabah,Papar,District,secondary_upper,2024,01/01/2024,97.7,OK,No,0,0,0,0,0
+Sabah,Papar,District,secondary_upper,2025,01/01/2025,98.1,OK,No,0,0,0,0,0
+Sabah,Penampang,District,primary,2021,01/01/2021,100,OK,No,0,0,0,0,0
+Sabah,Penampang,District,primary,2022,01/01/2022,91.1,OK,No,0,0,0,0,0
+Sabah,Penampang,District,primary,2023,01/01/2023,102,Above 100 (retained),No,0,0,1,0,0
+Sabah,Penampang,District,primary,2024,01/01/2024,97.1,OK,No,0,0,0,0,0
+Sabah,Penampang,District,primary,2025,01/01/2025,93.7,OK,No,0,0,0,0,0
+Sabah,Penampang,District,secondary_lower,2021,01/01/2021,96.7,OK,No,0,0,0,0,0
+Sabah,Penampang,District,secondary_lower,2022,01/01/2022,98,OK,No,0,0,0,0,0
+Sabah,Penampang,District,secondary_lower,2023,01/01/2023,98,OK,No,0,0,0,0,0
+Sabah,Penampang,District,secondary_lower,2024,01/01/2024,97.7,OK,No,0,0,0,0,0
+Sabah,Penampang,District,secondary_lower,2025,01/01/2025,96.8,OK,No,0,0,0,0,0
+Sabah,Penampang,District,secondary_upper,2021,01/01/2021,98,OK,No,0,0,0,0,0
+Sabah,Penampang,District,secondary_upper,2022,01/01/2022,98.7,OK,No,0,0,0,0,0
+Sabah,Penampang,District,secondary_upper,2023,01/01/2023,99.2,OK,No,0,0,0,0,0
+Sabah,Penampang,District,secondary_upper,2024,01/01/2024,96.5,OK,No,0,0,0,0,0
+Sabah,Penampang,District,secondary_upper,2025,01/01/2025,97.2,OK,No,0,0,0,0,0
+Sabah,Pensiangan,District,primary,2021,01/01/2021,101.2,Above 100 (retained),No,0,0,1,0,0
+Sabah,Pensiangan,District,primary,2022,01/01/2022,107.8,Above 100 (retained),No,0,0,1,0,0
+Sabah,Pensiangan,District,primary,2023,01/01/2023,104.3,Above 100 (retained),No,0,0,1,0,0
+Sabah,Pensiangan,District,primary,2024,01/01/2024,101.1,Above 100 (retained),No,0,0,1,0,0
+Sabah,Pensiangan,District,primary,2025,01/01/2025,94.9,OK,No,0,0,0,0,0
+Sabah,Pensiangan,District,secondary_lower,2021,01/01/2021,97.7,OK,No,0,0,0,0,0
+Sabah,Pensiangan,District,secondary_lower,2022,01/01/2022,99.5,OK,No,0,0,0,0,0
+Sabah,Pensiangan,District,secondary_lower,2023,01/01/2023,97.2,OK,No,0,0,0,0,0
+Sabah,Pensiangan,District,secondary_lower,2024,01/01/2024,96.8,OK,No,0,0,0,0,0
+Sabah,Pensiangan,District,secondary_lower,2025,01/01/2025,91.7,Low outlier (IQR),Yes,0,0,0,0,1
+Sabah,Pensiangan,District,secondary_upper,2021,01/01/2021,98.9,OK,No,0,0,0,0,0
+Sabah,Pensiangan,District,secondary_upper,2022,01/01/2022,101.3,Above 100 (retained),No,0,0,1,0,0
+Sabah,Pensiangan,District,secondary_upper,2023,01/01/2023,94.3,OK,No,0,0,0,0,0
+Sabah,Pensiangan,District,secondary_upper,2024,01/01/2024,99.8,OK,No,0,0,0,0,0
+Sabah,Pensiangan,District,secondary_upper,2025,01/01/2025,85,Low outlier (IQR),Yes,0,0,0,0,1
+Sabah,Pitas,District,primary,2021,01/01/2021,100.3,Above 100 (retained),No,0,0,1,0,0
+Sabah,Pitas,District,primary,2022,01/01/2022,96.3,OK,No,0,0,0,0,0
+Sabah,Pitas,District,primary,2023,01/01/2023,105.7,Above 100 (retained),No,0,0,1,0,0
+Sabah,Pitas,District,primary,2024,01/01/2024,103,Above 100 (retained),No,0,0,1,0,0
+Sabah,Pitas,District,primary,2025,01/01/2025,100.5,Above 100 (retained),No,0,0,1,0,0
+Sabah,Pitas,District,secondary_lower,2021,01/01/2021,95.5,OK,No,0,0,0,0,0
+Sabah,Pitas,District,secondary_lower,2022,01/01/2022,99.6,OK,No,0,0,0,0,0
+Sabah,Pitas,District,secondary_lower,2023,01/01/2023,97.3,OK,No,0,0,0,0,0
+Sabah,Pitas,District,secondary_lower,2024,01/01/2024,91,Low outlier (IQR),Yes,0,0,0,0,1
+Sabah,Pitas,District,secondary_lower,2025,01/01/2025,93.5,OK,No,0,0,0,0,0
+Sabah,Pitas,District,secondary_upper,2021,01/01/2021,100.3,Above 100 (retained),No,0,0,1,0,0
+Sabah,Pitas,District,secondary_upper,2022,01/01/2022,99.1,OK,No,0,0,0,0,0
+Sabah,Pitas,District,secondary_upper,2023,01/01/2023,97,OK,No,0,0,0,0,0
+Sabah,Pitas,District,secondary_upper,2024,01/01/2024,92.7,OK,No,0,0,0,0,0
+Sabah,Pitas,District,secondary_upper,2025,01/01/2025,92.8,OK,No,0,0,0,0,0
+Sabah,Ranau,District,primary,2021,01/01/2021,102.2,Above 100 (retained),No,0,0,1,0,0
+Sabah,Ranau,District,primary,2022,01/01/2022,98.3,OK,No,0,0,0,0,0
+Sabah,Ranau,District,primary,2023,01/01/2023,105.8,Above 100 (retained),No,0,0,1,0,0
+Sabah,Ranau,District,primary,2024,01/01/2024,101.5,Above 100 (retained),No,0,0,1,0,0
+Sabah,Ranau,District,primary,2025,01/01/2025,107,Above 100 (retained),No,0,0,1,0,0
+Sabah,Ranau,District,secondary_lower,2021,01/01/2021,97.8,OK,No,0,0,0,0,0
+Sabah,Ranau,District,secondary_lower,2022,01/01/2022,100,OK,No,0,0,0,0,0
+Sabah,Ranau,District,secondary_lower,2023,01/01/2023,96.4,OK,No,0,0,0,0,0
+Sabah,Ranau,District,secondary_lower,2024,01/01/2024,93.9,OK,No,0,0,0,0,0
+Sabah,Ranau,District,secondary_lower,2025,01/01/2025,94.8,OK,No,0,0,0,0,0
+Sabah,Ranau,District,secondary_upper,2021,01/01/2021,99.9,OK,No,0,0,0,0,0
+Sabah,Ranau,District,secondary_upper,2022,01/01/2022,98.2,OK,No,0,0,0,0,0
+Sabah,Ranau,District,secondary_upper,2023,01/01/2023,97.6,OK,No,0,0,0,0,0
+Sabah,Ranau,District,secondary_upper,2024,01/01/2024,95.4,OK,No,0,0,0,0,0
+Sabah,Ranau,District,secondary_upper,2025,01/01/2025,95.3,OK,No,0,0,0,0,0
+Sabah,Sandakan,District,primary,2021,01/01/2021,97.9,OK,No,0,0,0,0,0
+Sabah,Sandakan,District,primary,2022,01/01/2022,100.1,Above 100 (retained),No,0,0,1,0,0
+Sabah,Sandakan,District,primary,2023,01/01/2023,98.7,OK,No,0,0,0,0,0
+Sabah,Sandakan,District,primary,2024,01/01/2024,98.9,OK,No,0,0,0,0,0
+Sabah,Sandakan,District,primary,2025,01/01/2025,95.5,OK,No,0,0,0,0,0
+Sabah,Sandakan,District,secondary_lower,2021,01/01/2021,98,OK,No,0,0,0,0,0
+Sabah,Sandakan,District,secondary_lower,2022,01/01/2022,99.9,OK,No,0,0,0,0,0
+Sabah,Sandakan,District,secondary_lower,2023,01/01/2023,96.9,OK,No,0,0,0,0,0
+Sabah,Sandakan,District,secondary_lower,2024,01/01/2024,95,OK,No,0,0,0,0,0
+Sabah,Sandakan,District,secondary_lower,2025,01/01/2025,96.7,OK,No,0,0,0,0,0
+Sabah,Sandakan,District,secondary_upper,2021,01/01/2021,99.2,OK,No,0,0,0,0,0
+Sabah,Sandakan,District,secondary_upper,2022,01/01/2022,98.8,OK,No,0,0,0,0,0
+Sabah,Sandakan,District,secondary_upper,2023,01/01/2023,97,OK,No,0,0,0,0,0
+Sabah,Sandakan,District,secondary_upper,2024,01/01/2024,95.6,OK,No,0,0,0,0,0
+Sabah,Sandakan,District,secondary_upper,2025,01/01/2025,97.4,OK,No,0,0,0,0,0
+Sabah,Semporna,District,primary,2021,01/01/2021,107.1,Above 100 (retained),No,0,0,1,0,0
+Sabah,Semporna,District,primary,2022,01/01/2022,103.9,Above 100 (retained),No,0,0,1,0,0
+Sabah,Semporna,District,primary,2023,01/01/2023,102.6,Above 100 (retained),No,0,0,1,0,0
+Sabah,Semporna,District,primary,2024,01/01/2024,107,Above 100 (retained),No,0,0,1,0,0
+Sabah,Semporna,District,primary,2025,01/01/2025,98,OK,No,0,0,0,0,0
+Sabah,Semporna,District,secondary_lower,2021,01/01/2021,98.5,OK,No,0,0,0,0,0
+Sabah,Semporna,District,secondary_lower,2022,01/01/2022,101.9,Above 100 (retained),No,0,0,1,0,0
+Sabah,Semporna,District,secondary_lower,2023,01/01/2023,94,OK,No,0,0,0,0,0
+Sabah,Semporna,District,secondary_lower,2024,01/01/2024,95.1,OK,No,0,0,0,0,0
+Sabah,Semporna,District,secondary_lower,2025,01/01/2025,96.1,OK,No,0,0,0,0,0
+Sabah,Semporna,District,secondary_upper,2021,01/01/2021,98.2,OK,No,0,0,0,0,0
+Sabah,Semporna,District,secondary_upper,2022,01/01/2022,98.7,OK,No,0,0,0,0,0
+Sabah,Semporna,District,secondary_upper,2023,01/01/2023,102.2,Above 100 (retained),No,0,0,1,0,0
+Sabah,Semporna,District,secondary_upper,2024,01/01/2024,95.9,OK,No,0,0,0,0,0
+Sabah,Semporna,District,secondary_upper,2025,01/01/2025,91.3,Low outlier (IQR),Yes,0,0,0,0,1
+Sabah,Sipitang,District,primary,2021,01/01/2021,94.1,OK,No,0,0,0,0,0
+Sabah,Sipitang,District,primary,2022,01/01/2022,90.3,OK,No,0,0,0,0,0
+Sabah,Sipitang,District,primary,2023,01/01/2023,101.9,Above 100 (retained),No,0,0,1,0,0
+Sabah,Sipitang,District,primary,2024,01/01/2024,92.9,OK,No,0,0,0,0,0
+Sabah,Sipitang,District,primary,2025,01/01/2025,88.8,OK,No,0,0,0,0,0
+Sabah,Sipitang,District,secondary_lower,2021,01/01/2021,95.3,OK,No,0,0,0,0,0
+Sabah,Sipitang,District,secondary_lower,2022,01/01/2022,97.9,OK,No,0,0,0,0,0
+Sabah,Sipitang,District,secondary_lower,2023,01/01/2023,94.3,OK,No,0,0,0,0,0
+Sabah,Sipitang,District,secondary_lower,2024,01/01/2024,96.4,OK,No,0,0,0,0,0
+Sabah,Sipitang,District,secondary_lower,2025,01/01/2025,97.8,OK,No,0,0,0,0,0
+Sabah,Sipitang,District,secondary_upper,2021,01/01/2021,98.1,OK,No,0,0,0,0,0
+Sabah,Sipitang,District,secondary_upper,2022,01/01/2022,100.6,Above 100 (retained),No,0,0,1,0,0
+Sabah,Sipitang,District,secondary_upper,2023,01/01/2023,96.1,OK,No,0,0,0,0,0
+Sabah,Sipitang,District,secondary_upper,2024,01/01/2024,98.7,OK,No,0,0,0,0,0
+Sabah,Sipitang,District,secondary_upper,2025,01/01/2025,96.2,OK,No,0,0,0,0,0
+Sabah,Tambunan,District,primary,2021,01/01/2021,106.2,Above 100 (retained),No,0,0,1,0,0
+Sabah,Tambunan,District,primary,2022,01/01/2022,94.9,OK,No,0,0,0,0,0
+Sabah,Tambunan,District,primary,2023,01/01/2023,102.1,Above 100 (retained),No,0,0,1,0,0
+Sabah,Tambunan,District,primary,2024,01/01/2024,107.9,Above 100 (retained),No,0,0,1,0,0
+Sabah,Tambunan,District,primary,2025,01/01/2025,108.3,Above 100 (retained),No,0,0,1,0,0
+Sabah,Tambunan,District,secondary_lower,2021,01/01/2021,101.6,Above 100 (retained),No,0,0,1,0,0
+Sabah,Tambunan,District,secondary_lower,2022,01/01/2022,102.9,Above 100 (retained),No,0,0,1,0,0
+Sabah,Tambunan,District,secondary_lower,2023,01/01/2023,100.8,Above 100 (retained),No,0,0,1,0,0
+Sabah,Tambunan,District,secondary_lower,2024,01/01/2024,100,OK,No,0,0,0,0,0
+Sabah,Tambunan,District,secondary_lower,2025,01/01/2025,98,OK,No,0,0,0,0,0
+Sabah,Tambunan,District,secondary_upper,2021,01/01/2021,99.2,OK,No,0,0,0,0,0
+Sabah,Tambunan,District,secondary_upper,2022,01/01/2022,100.7,Above 100 (retained),No,0,0,1,0,0
+Sabah,Tambunan,District,secondary_upper,2023,01/01/2023,89.7,Low outlier (IQR),Yes,0,0,0,0,1
+Sabah,Tambunan,District,secondary_upper,2024,01/01/2024,98,OK,No,0,0,0,0,0
+Sabah,Tambunan,District,secondary_upper,2025,01/01/2025,97.1,OK,No,0,0,0,0,0
+Sabah,Tawau,District,primary,2021,01/01/2021,102.3,Above 100 (retained),No,0,0,1,0,0
+Sabah,Tawau,District,primary,2022,01/01/2022,92.5,OK,No,0,0,0,0,0
+Sabah,Tawau,District,primary,2023,01/01/2023,101.6,Above 100 (retained),No,0,0,1,0,0
+Sabah,Tawau,District,primary,2024,01/01/2024,100.3,Above 100 (retained),No,0,0,1,0,0
+Sabah,Tawau,District,primary,2025,01/01/2025,98.3,OK,No,0,0,0,0,0
+Sabah,Tawau,District,secondary_lower,2021,01/01/2021,98.6,OK,No,0,0,0,0,0
+Sabah,Tawau,District,secondary_lower,2022,01/01/2022,98.5,OK,No,0,0,0,0,0
+Sabah,Tawau,District,secondary_lower,2023,01/01/2023,98,OK,No,0,0,0,0,0
+Sabah,Tawau,District,secondary_lower,2024,01/01/2024,98.3,OK,No,0,0,0,0,0
+Sabah,Tawau,District,secondary_lower,2025,01/01/2025,97,OK,No,0,0,0,0,0
+Sabah,Tawau,District,secondary_upper,2021,01/01/2021,100,OK,No,0,0,0,0,0
+Sabah,Tawau,District,secondary_upper,2022,01/01/2022,98.4,OK,No,0,0,0,0,0
+Sabah,Tawau,District,secondary_upper,2023,01/01/2023,93.7,OK,No,0,0,0,0,0
+Sabah,Tawau,District,secondary_upper,2024,01/01/2024,98.8,OK,No,0,0,0,0,0
+Sabah,Tawau,District,secondary_upper,2025,01/01/2025,99.1,OK,No,0,0,0,0,0
+Sabah,Telupid/Tongod,District,primary,2021,01/01/2021,104.5,Above 100 (retained),No,0,0,1,0,0
+Sabah,Telupid/Tongod,District,primary,2022,01/01/2022,111.8,Above 100 (retained),Yes,0,0,1,0,1
+Sabah,Telupid/Tongod,District,primary,2023,01/01/2023,103.4,Above 100 (retained),No,0,0,1,0,0
+Sabah,Telupid/Tongod,District,primary,2024,01/01/2024,102.7,Above 100 (retained),No,0,0,1,0,0
+Sabah,Telupid/Tongod,District,primary,2025,01/01/2025,89.9,OK,No,0,0,0,0,0
+Sabah,Telupid/Tongod,District,secondary_lower,2021,01/01/2021,97.1,OK,No,0,0,0,0,0
+Sabah,Telupid/Tongod,District,secondary_lower,2022,01/01/2022,99.5,OK,No,0,0,0,0,0
+Sabah,Telupid/Tongod,District,secondary_lower,2023,01/01/2023,95.9,OK,No,0,0,0,0,0
+Sabah,Telupid/Tongod,District,secondary_lower,2024,01/01/2024,97.9,OK,No,0,0,0,0,0
+Sabah,Telupid/Tongod,District,secondary_lower,2025,01/01/2025,94.6,OK,No,0,0,0,0,0
+Sabah,Telupid/Tongod,District,secondary_upper,2021,01/01/2021,98.8,OK,No,0,0,0,0,0
+Sabah,Telupid/Tongod,District,secondary_upper,2022,01/01/2022,96.9,OK,No,0,0,0,0,0
+Sabah,Telupid/Tongod,District,secondary_upper,2023,01/01/2023,95.2,OK,No,0,0,0,0,0
+Sabah,Telupid/Tongod,District,secondary_upper,2024,01/01/2024,94.5,OK,No,0,0,0,0,0
+Sabah,Telupid/Tongod,District,secondary_upper,2025,01/01/2025,96.7,OK,No,0,0,0,0,0
+Sabah,Tenom,District,primary,2021,01/01/2021,101.9,Above 100 (retained),No,0,0,1,0,0
+Sabah,Tenom,District,primary,2022,01/01/2022,98.5,OK,No,0,0,0,0,0
+Sabah,Tenom,District,primary,2023,01/01/2023,96.8,OK,No,0,0,0,0,0
+Sabah,Tenom,District,primary,2024,01/01/2024,100.4,Above 100 (retained),No,0,0,1,0,0
+Sabah,Tenom,District,primary,2025,01/01/2025,108.4,Above 100 (retained),No,0,0,1,0,0
+Sabah,Tenom,District,secondary_lower,2021,01/01/2021,100,OK,No,0,0,0,0,0
+Sabah,Tenom,District,secondary_lower,2022,01/01/2022,101.3,Above 100 (retained),No,0,0,1,0,0
+Sabah,Tenom,District,secondary_lower,2023,01/01/2023,96.4,OK,No,0,0,0,0,0
+Sabah,Tenom,District,secondary_lower,2024,01/01/2024,97.7,OK,No,0,0,0,0,0
+Sabah,Tenom,District,secondary_lower,2025,01/01/2025,95.6,OK,No,0,0,0,0,0
+Sabah,Tenom,District,secondary_upper,2021,01/01/2021,99.8,OK,No,0,0,0,0,0
+Sabah,Tenom,District,secondary_upper,2022,01/01/2022,97.3,OK,No,0,0,0,0,0
+Sabah,Tenom,District,secondary_upper,2023,01/01/2023,94.7,OK,No,0,0,0,0,0
+Sabah,Tenom,District,secondary_upper,2024,01/01/2024,94.2,OK,No,0,0,0,0,0
+Sabah,Tenom,District,secondary_upper,2025,01/01/2025,96.8,OK,No,0,0,0,0,0
+Sabah,Tuaran,District,primary,2021,01/01/2021,106.3,Above 100 (retained),No,0,0,1,0,0
+Sabah,Tuaran,District,primary,2022,01/01/2022,99.2,OK,No,0,0,0,0,0
+Sabah,Tuaran,District,primary,2023,01/01/2023,103.4,Above 100 (retained),No,0,0,1,0,0
+Sabah,Tuaran,District,primary,2024,01/01/2024,107.1,Above 100 (retained),No,0,0,1,0,0
+Sabah,Tuaran,District,primary,2025,01/01/2025,105.7,Above 100 (retained),No,0,0,1,0,0
+Sabah,Tuaran,District,secondary_lower,2021,01/01/2021,101.5,Above 100 (retained),No,0,0,1,0,0
+Sabah,Tuaran,District,secondary_lower,2022,01/01/2022,100.7,Above 100 (retained),No,0,0,1,0,0
+Sabah,Tuaran,District,secondary_lower,2023,01/01/2023,97.9,OK,No,0,0,0,0,0
+Sabah,Tuaran,District,secondary_lower,2024,01/01/2024,96.8,OK,No,0,0,0,0,0
+Sabah,Tuaran,District,secondary_lower,2025,01/01/2025,99.4,OK,No,0,0,0,0,0
+Sabah,Tuaran,District,secondary_upper,2021,01/01/2021,99.5,OK,No,0,0,0,0,0
+Sabah,Tuaran,District,secondary_upper,2022,01/01/2022,99.6,OK,No,0,0,0,0,0
+Sabah,Tuaran,District,secondary_upper,2023,01/01/2023,94.1,OK,No,0,0,0,0,0
+Sabah,Tuaran,District,secondary_upper,2024,01/01/2024,96.7,OK,No,0,0,0,0,0
+Sabah,Tuaran,District,secondary_upper,2025,01/01/2025,96.9,OK,No,0,0,0,0,0
+Sarawak,All Districts,State total,primary,2021,01/01/2021,100.2,Above 100 (retained),No,1,0,1,0,0
+Sarawak,All Districts,State total,primary,2022,01/01/2022,103.7,Above 100 (retained),No,1,0,1,0,0
+Sarawak,All Districts,State total,primary,2023,01/01/2023,100.1,Above 100 (retained),No,1,0,1,0,0
+Sarawak,All Districts,State total,primary,2024,01/01/2024,99.4,OK,No,1,0,0,0,0
+Sarawak,All Districts,State total,primary,2025,01/01/2025,93.1,OK,No,1,0,0,0,0
+Sarawak,All Districts,State total,secondary_lower,2021,01/01/2021,97.9,OK,No,1,0,0,0,0
+Sarawak,All Districts,State total,secondary_lower,2022,01/01/2022,98.8,OK,No,1,0,0,0,0
+Sarawak,All Districts,State total,secondary_lower,2023,01/01/2023,96.6,OK,No,1,0,0,0,0
+Sarawak,All Districts,State total,secondary_lower,2024,01/01/2024,96.3,OK,No,1,0,0,0,0
+Sarawak,All Districts,State total,secondary_lower,2025,01/01/2025,96.3,OK,No,1,0,0,0,0
+Sarawak,All Districts,State total,secondary_upper,2021,01/01/2021,98.8,OK,No,1,0,0,0,0
+Sarawak,All Districts,State total,secondary_upper,2022,01/01/2022,97.8,OK,No,1,0,0,0,0
+Sarawak,All Districts,State total,secondary_upper,2023,01/01/2023,95.4,OK,No,1,0,0,0,0
+Sarawak,All Districts,State total,secondary_upper,2024,01/01/2024,95.9,OK,No,1,0,0,0,0
+Sarawak,All Districts,State total,secondary_upper,2025,01/01/2025,96.3,OK,No,1,0,0,0,0
+Sarawak,Baram,District,primary,2021,01/01/2021,100.9,Above 100 (retained),No,0,0,1,0,0
+Sarawak,Baram,District,primary,2022,01/01/2022,102.5,Above 100 (retained),No,0,0,1,0,0
+Sarawak,Baram,District,primary,2023,01/01/2023,96.5,OK,No,0,0,0,0,0
+Sarawak,Baram,District,primary,2024,01/01/2024,95.2,OK,No,0,0,0,0,0
+Sarawak,Baram,District,primary,2025,01/01/2025,89.8,OK,No,0,0,0,0,0
+Sarawak,Baram,District,secondary_lower,2021,01/01/2021,95.1,OK,No,0,0,0,0,0
+Sarawak,Baram,District,secondary_lower,2022,01/01/2022,88.1,Low outlier (IQR),Yes,0,0,0,0,1
+Sarawak,Baram,District,secondary_lower,2023,01/01/2023,97.9,OK,No,0,0,0,0,0
+Sarawak,Baram,District,secondary_lower,2024,01/01/2024,89.9,Low outlier (IQR),Yes,0,0,0,0,1
+Sarawak,Baram,District,secondary_lower,2025,01/01/2025,88.9,Low outlier (IQR),Yes,0,0,0,0,1
+Sarawak,Baram,District,secondary_upper,2021,01/01/2021,99.2,OK,No,0,0,0,0,0
+Sarawak,Baram,District,secondary_upper,2022,01/01/2022,98.9,OK,No,0,0,0,0,0
+Sarawak,Baram,District,secondary_upper,2023,01/01/2023,96.1,OK,No,0,0,0,0,0
+Sarawak,Baram,District,secondary_upper,2024,01/01/2024,94.2,OK,No,0,0,0,0,0
+Sarawak,Baram,District,secondary_upper,2025,01/01/2025,94.9,OK,No,0,0,0,0,0
+Sarawak,Bau,District,primary,2021,01/01/2021,105,Above 100 (retained),No,0,0,1,0,0
+Sarawak,Bau,District,primary,2022,01/01/2022,112.2,Above 100 (retained),Yes,0,0,1,0,1
+Sarawak,Bau,District,primary,2023,01/01/2023,102.1,Above 100 (retained),No,0,0,1,0,0
+Sarawak,Bau,District,primary,2024,01/01/2024,100.6,Above 100 (retained),No,0,0,1,0,0
+Sarawak,Bau,District,primary,2025,01/01/2025,88.8,OK,No,0,0,0,0,0
+Sarawak,Bau,District,secondary_lower,2021,01/01/2021,100.3,Above 100 (retained),No,0,0,1,0,0
+Sarawak,Bau,District,secondary_lower,2022,01/01/2022,100,OK,No,0,0,0,0,0
+Sarawak,Bau,District,secondary_lower,2023,01/01/2023,98.2,OK,No,0,0,0,0,0
+Sarawak,Bau,District,secondary_lower,2024,01/01/2024,99.8,OK,No,0,0,0,0,0
+Sarawak,Bau,District,secondary_lower,2025,01/01/2025,100.3,Above 100 (retained),No,0,0,1,0,0
+Sarawak,Bau,District,secondary_upper,2021,01/01/2021,99.3,OK,No,0,0,0,0,0
+Sarawak,Bau,District,secondary_upper,2022,01/01/2022,98.2,OK,No,0,0,0,0,0
+Sarawak,Bau,District,secondary_upper,2023,01/01/2023,88.1,Low outlier (IQR),Yes,0,0,0,0,1
+Sarawak,Bau,District,secondary_upper,2024,01/01/2024,96.7,OK,No,0,0,0,0,0
+Sarawak,Bau,District,secondary_upper,2025,01/01/2025,99.6,OK,No,0,0,0,0,0
+Sarawak,Belaga,District,primary,2021,01/01/2021,94.7,OK,No,0,0,0,0,0
+Sarawak,Belaga,District,primary,2022,01/01/2022,111.6,Above 100 (retained),Yes,0,0,1,0,1
+Sarawak,Belaga,District,primary,2023,01/01/2023,98.6,OK,No,0,0,0,0,0
+Sarawak,Belaga,District,primary,2024,01/01/2024,95.1,OK,No,0,0,0,0,0
+Sarawak,Belaga,District,primary,2025,01/01/2025,82.8,Low outlier (IQR),Yes,0,0,0,0,1
+Sarawak,Belaga,District,secondary_lower,2021,01/01/2021,91,Low outlier (IQR),Yes,0,0,0,0,1
+Sarawak,Belaga,District,secondary_lower,2022,01/01/2022,93.3,OK,No,0,0,0,0,0
+Sarawak,Belaga,District,secondary_lower,2023,01/01/2023,72.3,Low outlier (IQR),Yes,0,0,0,0,1
+Sarawak,Belaga,District,secondary_lower,2024,01/01/2024,91.8,Low outlier (IQR),Yes,0,0,0,0,1
+Sarawak,Belaga,District,secondary_lower,2025,01/01/2025,94.2,OK,No,0,0,0,0,0
+Sarawak,Belaga,District,secondary_upper,2021,01/01/2021,97.6,OK,No,0,0,0,0,0
+Sarawak,Belaga,District,secondary_upper,2022,01/01/2022,104.3,Above 100 (retained),Yes,0,0,1,0,1
+Sarawak,Belaga,District,secondary_upper,2023,01/01/2023,96.6,OK,No,0,0,0,0,0
+Sarawak,Belaga,District,secondary_upper,2024,01/01/2024,96.4,OK,No,0,0,0,0,0
+Sarawak,Belaga,District,secondary_upper,2025,01/01/2025,91.5,Low outlier (IQR),Yes,0,0,0,0,1
+Sarawak,Betong,District,primary,2021,01/01/2021,101.2,Above 100 (retained),No,0,0,1,0,0
+Sarawak,Betong,District,primary,2022,01/01/2022,100.1,Above 100 (retained),No,0,0,1,0,0
+Sarawak,Betong,District,primary,2023,01/01/2023,101.2,Above 100 (retained),No,0,0,1,0,0
+Sarawak,Betong,District,primary,2024,01/01/2024,102.2,Above 100 (retained),No,0,0,1,0,0
+Sarawak,Betong,District,primary,2025,01/01/2025,100.4,Above 100 (retained),No,0,0,1,0,0
+Sarawak,Betong,District,secondary_lower,2021,01/01/2021,97.5,OK,No,0,0,0,0,0
+Sarawak,Betong,District,secondary_lower,2022,01/01/2022,101.4,Above 100 (retained),No,0,0,1,0,0
+Sarawak,Betong,District,secondary_lower,2023,01/01/2023,101.4,Above 100 (retained),No,0,0,1,0,0
+Sarawak,Betong,District,secondary_lower,2024,01/01/2024,91.7,Low outlier (IQR),Yes,0,0,0,0,1
+Sarawak,Betong,District,secondary_lower,2025,01/01/2025,90.8,Low outlier (IQR),Yes,0,0,0,0,1
+Sarawak,Betong,District,secondary_upper,2021,01/01/2021,100,OK,No,0,0,0,0,0
+Sarawak,Betong,District,secondary_upper,2022,01/01/2022,98.3,OK,No,0,0,0,0,0
+Sarawak,Betong,District,secondary_upper,2023,01/01/2023,96.4,OK,No,0,0,0,0,0
+Sarawak,Betong,District,secondary_upper,2024,01/01/2024,93.3,OK,No,0,0,0,0,0
+Sarawak,Betong,District,secondary_upper,2025,01/01/2025,97.8,OK,No,0,0,0,0,0
+Sarawak,Bintulu,District,primary,2021,01/01/2021,99.4,OK,No,0,0,0,0,0
+Sarawak,Bintulu,District,primary,2022,01/01/2022,96,OK,No,0,0,0,0,0
+Sarawak,Bintulu,District,primary,2023,01/01/2023,98.4,OK,No,0,0,0,0,0
+Sarawak,Bintulu,District,primary,2024,01/01/2024,98.1,OK,No,0,0,0,0,0
+Sarawak,Bintulu,District,primary,2025,01/01/2025,94.3,OK,No,0,0,0,0,0
+Sarawak,Bintulu,District,secondary_lower,2021,01/01/2021,98.5,OK,No,0,0,0,0,0
+Sarawak,Bintulu,District,secondary_lower,2022,01/01/2022,100.3,Above 100 (retained),No,0,0,1,0,0
+Sarawak,Bintulu,District,secondary_lower,2023,01/01/2023,96.2,OK,No,0,0,0,0,0
+Sarawak,Bintulu,District,secondary_lower,2024,01/01/2024,95.7,OK,No,0,0,0,0,0
+Sarawak,Bintulu,District,secondary_lower,2025,01/01/2025,99.2,OK,No,0,0,0,0,0
+Sarawak,Bintulu,District,secondary_upper,2021,01/01/2021,98.8,OK,No,0,0,0,0,0
+Sarawak,Bintulu,District,secondary_upper,2022,01/01/2022,97.9,OK,No,0,0,0,0,0
+Sarawak,Bintulu,District,secondary_upper,2023,01/01/2023,94.5,OK,No,0,0,0,0,0
+Sarawak,Bintulu,District,secondary_upper,2024,01/01/2024,96.3,OK,No,0,0,0,0,0
+Sarawak,Bintulu,District,secondary_upper,2025,01/01/2025,96.3,OK,No,0,0,0,0,0
+Sarawak,Dalat,District,primary,2021,01/01/2021,100.4,Above 100 (retained),No,0,0,1,0,0
+Sarawak,Dalat,District,primary,2022,01/01/2022,105.9,Above 100 (retained),No,0,0,1,0,0
+Sarawak,Dalat,District,primary,2023,01/01/2023,101.5,Above 100 (retained),No,0,0,1,0,0
+Sarawak,Dalat,District,primary,2024,01/01/2024,103.7,Above 100 (retained),No,0,0,1,0,0
+Sarawak,Dalat,District,primary,2025,01/01/2025,98.3,OK,No,0,0,0,0,0
+Sarawak,Dalat,District,secondary_lower,2021,01/01/2021,98.9,OK,No,0,0,0,0,0
+Sarawak,Dalat,District,secondary_lower,2022,01/01/2022,97.2,OK,No,0,0,0,0,0
+Sarawak,Dalat,District,secondary_lower,2023,01/01/2023,92.8,OK,No,0,0,0,0,0
+Sarawak,Dalat,District,secondary_lower,2024,01/01/2024,94.3,OK,No,0,0,0,0,0
+Sarawak,Dalat,District,secondary_lower,2025,01/01/2025,94.7,OK,No,0,0,0,0,0
+Sarawak,Dalat,District,secondary_upper,2021,01/01/2021,98.1,OK,No,0,0,0,0,0
+Sarawak,Dalat,District,secondary_upper,2022,01/01/2022,99.4,OK,No,0,0,0,0,0
+Sarawak,Dalat,District,secondary_upper,2023,01/01/2023,96.6,OK,No,0,0,0,0,0
+Sarawak,Dalat,District,secondary_upper,2024,01/01/2024,98.2,OK,No,0,0,0,0,0
+Sarawak,Dalat,District,secondary_upper,2025,01/01/2025,97.8,OK,No,0,0,0,0,0
+Sarawak,Daro,District,primary,2021,01/01/2021,99.8,OK,No,0,0,0,0,0
+Sarawak,Daro,District,primary,2022,01/01/2022,115.2,Above 100 (retained),Yes,0,0,1,0,1
+Sarawak,Daro,District,primary,2023,01/01/2023,100.1,Above 100 (retained),No,0,0,1,0,0
+Sarawak,Daro,District,primary,2024,01/01/2024,98.4,OK,No,0,0,0,0,0
+Sarawak,Daro,District,primary,2025,01/01/2025,90.8,OK,No,0,0,0,0,0
+Sarawak,Daro,District,secondary_lower,2021,01/01/2021,96.1,OK,No,0,0,0,0,0
+Sarawak,Daro,District,secondary_lower,2022,01/01/2022,102.3,Above 100 (retained),No,0,0,1,0,0
+Sarawak,Daro,District,secondary_lower,2023,01/01/2023,95.6,OK,No,0,0,0,0,0
+Sarawak,Daro,District,secondary_lower,2024,01/01/2024,95.5,OK,No,0,0,0,0,0
+Sarawak,Daro,District,secondary_lower,2025,01/01/2025,97.5,OK,No,0,0,0,0,0
+Sarawak,Daro,District,secondary_upper,2021,01/01/2021,100.6,Above 100 (retained),No,0,0,1,0,0
+Sarawak,Daro,District,secondary_upper,2022,01/01/2022,98.1,OK,No,0,0,0,0,0
+Sarawak,Daro,District,secondary_upper,2023,01/01/2023,97.9,OK,No,0,0,0,0,0
+Sarawak,Daro,District,secondary_upper,2024,01/01/2024,96.1,OK,No,0,0,0,0,0
+Sarawak,Daro,District,secondary_upper,2025,01/01/2025,96.6,OK,No,0,0,0,0,0
+Sarawak,Julau,District,primary,2021,01/01/2021,100.6,Above 100 (retained),No,0,0,1,0,0
+Sarawak,Julau,District,primary,2022,01/01/2022,102.5,Above 100 (retained),No,0,0,1,0,0
+Sarawak,Julau,District,primary,2023,01/01/2023,96.5,OK,No,0,0,0,0,0
+Sarawak,Julau,District,primary,2024,01/01/2024,99.8,OK,No,0,0,0,0,0
+Sarawak,Julau,District,primary,2025,01/01/2025,103.5,Above 100 (retained),No,0,0,1,0,0
+Sarawak,Julau,District,secondary_lower,2021,01/01/2021,97.2,OK,No,0,0,0,0,0
+Sarawak,Julau,District,secondary_lower,2022,01/01/2022,98.6,OK,No,0,0,0,0,0
+Sarawak,Julau,District,secondary_lower,2023,01/01/2023,91.6,Low outlier (IQR),Yes,0,0,0,0,1
+Sarawak,Julau,District,secondary_lower,2024,01/01/2024,92.6,OK,No,0,0,0,0,0
+Sarawak,Julau,District,secondary_lower,2025,01/01/2025,93.7,OK,No,0,0,0,0,0
+Sarawak,Julau,District,secondary_upper,2021,01/01/2021,99.3,OK,No,0,0,0,0,0
+Sarawak,Julau,District,secondary_upper,2022,01/01/2022,96.9,OK,No,0,0,0,0,0
+Sarawak,Julau,District,secondary_upper,2023,01/01/2023,95.6,OK,No,0,0,0,0,0
+Sarawak,Julau,District,secondary_upper,2024,01/01/2024,96.7,OK,No,0,0,0,0,0
+Sarawak,Julau,District,secondary_upper,2025,01/01/2025,96.5,OK,No,0,0,0,0,0
+Sarawak,Kanowit,District,primary,2021,01/01/2021,103.2,Above 100 (retained),No,0,0,1,0,0
+Sarawak,Kanowit,District,primary,2022,01/01/2022,108.6,Above 100 (retained),No,0,0,1,0,0
+Sarawak,Kanowit,District,primary,2023,01/01/2023,102.8,Above 100 (retained),No,0,0,1,0,0
+Sarawak,Kanowit,District,primary,2024,01/01/2024,100.4,Above 100 (retained),No,0,0,1,0,0
+Sarawak,Kanowit,District,primary,2025,01/01/2025,94.5,OK,No,0,0,0,0,0
+Sarawak,Kanowit,District,secondary_lower,2021,01/01/2021,100,OK,No,0,0,0,0,0
+Sarawak,Kanowit,District,secondary_lower,2022,01/01/2022,98,OK,No,0,0,0,0,0
+Sarawak,Kanowit,District,secondary_lower,2023,01/01/2023,95.6,OK,No,0,0,0,0,0
+Sarawak,Kanowit,District,secondary_lower,2024,01/01/2024,92.5,Low outlier (IQR),Yes,0,0,0,0,1
+Sarawak,Kanowit,District,secondary_lower,2025,01/01/2025,96.9,OK,No,0,0,0,0,0
+Sarawak,Kanowit,District,secondary_upper,2021,01/01/2021,98.6,OK,No,0,0,0,0,0
+Sarawak,Kanowit,District,secondary_upper,2022,01/01/2022,93.5,OK,No,0,0,0,0,0
+Sarawak,Kanowit,District,secondary_upper,2023,01/01/2023,95.8,OK,No,0,0,0,0,0
+Sarawak,Kanowit,District,secondary_upper,2024,01/01/2024,95,OK,No,0,0,0,0,0
+Sarawak,Kanowit,District,secondary_upper,2025,01/01/2025,94.3,OK,No,0,0,0,0,0
+Sarawak,Kapit,District,primary,2021,01/01/2021,90.4,OK,No,0,0,0,0,0
+Sarawak,Kapit,District,primary,2022,01/01/2022,111,Above 100 (retained),Yes,0,0,1,0,1
+Sarawak,Kapit,District,primary,2023,01/01/2023,97.4,OK,No,0,0,0,0,0
+Sarawak,Kapit,District,primary,2024,01/01/2024,94.8,OK,No,0,0,0,0,0
+Sarawak,Kapit,District,primary,2025,01/01/2025,84.8,Low outlier (IQR),Yes,0,0,0,0,1
+Sarawak,Kapit,District,secondary_lower,2021,01/01/2021,97.5,OK,No,0,0,0,0,0
+Sarawak,Kapit,District,secondary_lower,2022,01/01/2022,97.4,OK,No,0,0,0,0,0
+Sarawak,Kapit,District,secondary_lower,2023,01/01/2023,97.9,OK,No,0,0,0,0,0
+Sarawak,Kapit,District,secondary_lower,2024,01/01/2024,93.8,OK,No,0,0,0,0,0
+Sarawak,Kapit,District,secondary_lower,2025,01/01/2025,92.5,Low outlier (IQR),Yes,0,0,0,0,1
+Sarawak,Kapit,District,secondary_upper,2021,01/01/2021,98.5,OK,No,0,0,0,0,0
+Sarawak,Kapit,District,secondary_upper,2022,01/01/2022,97,OK,No,0,0,0,0,0
+Sarawak,Kapit,District,secondary_upper,2023,01/01/2023,90.9,Low outlier (IQR),Yes,0,0,0,0,1
+Sarawak,Kapit,District,secondary_upper,2024,01/01/2024,91.8,Low outlier (IQR),Yes,0,0,0,0,1
+Sarawak,Kapit,District,secondary_upper,2025,01/01/2025,95.7,OK,No,0,0,0,0,0
+Sarawak,Kuching,District,primary,2021,01/01/2021,97.8,OK,No,0,0,0,0,0
+Sarawak,Kuching,District,primary,2022,01/01/2022,102.2,Above 100 (retained),No,0,0,1,0,0
+Sarawak,Kuching,District,primary,2023,01/01/2023,98.1,OK,No,0,0,0,0,0
+Sarawak,Kuching,District,primary,2024,01/01/2024,96.6,OK,No,0,0,0,0,0
+Sarawak,Kuching,District,primary,2025,01/01/2025,89.2,OK,No,0,0,0,0,0
+Sarawak,Kuching,District,secondary_lower,2021,01/01/2021,98.7,OK,No,0,0,0,0,0
+Sarawak,Kuching,District,secondary_lower,2022,01/01/2022,99.8,OK,No,0,0,0,0,0
+Sarawak,Kuching,District,secondary_lower,2023,01/01/2023,89.1,Low outlier (IQR),Yes,0,0,0,0,1
+Sarawak,Kuching,District,secondary_lower,2024,01/01/2024,97.4,OK,No,0,0,0,0,0
+Sarawak,Kuching,District,secondary_lower,2025,01/01/2025,96.4,OK,No,0,0,0,0,0
+Sarawak,Kuching,District,secondary_upper,2021,01/01/2021,99.5,OK,No,0,0,0,0,0
+Sarawak,Kuching,District,secondary_upper,2022,01/01/2022,98.3,OK,No,0,0,0,0,0
+Sarawak,Kuching,District,secondary_upper,2023,01/01/2023,91.6,Low outlier (IQR),Yes,0,0,0,0,1
+Sarawak,Kuching,District,secondary_upper,2024,01/01/2024,96.7,OK,No,0,0,0,0,0
+Sarawak,Kuching,District,secondary_upper,2025,01/01/2025,96.8,OK,No,0,0,0,0,0
+Sarawak,Lawas,District,primary,2021,01/01/2021,99.9,OK,No,0,0,0,0,0
+Sarawak,Lawas,District,primary,2022,01/01/2022,110.2,Above 100 (retained),Yes,0,0,1,0,1
+Sarawak,Lawas,District,primary,2023,01/01/2023,101.3,Above 100 (retained),No,0,0,1,0,0
+Sarawak,Lawas,District,primary,2024,01/01/2024,99.3,OK,No,0,0,0,0,0
+Sarawak,Lawas,District,primary,2025,01/01/2025,92.3,OK,No,0,0,0,0,0
+Sarawak,Lawas,District,secondary_lower,2021,01/01/2021,100,OK,No,0,0,0,0,0
+Sarawak,Lawas,District,secondary_lower,2022,01/01/2022,99.5,OK,No,0,0,0,0,0
+Sarawak,Lawas,District,secondary_lower,2023,01/01/2023,94.9,OK,No,0,0,0,0,0
+Sarawak,Lawas,District,secondary_lower,2024,01/01/2024,96.6,OK,No,0,0,0,0,0
+Sarawak,Lawas,District,secondary_lower,2025,01/01/2025,99.8,OK,No,0,0,0,0,0
+Sarawak,Lawas,District,secondary_upper,2021,01/01/2021,99.4,OK,No,0,0,0,0,0
+Sarawak,Lawas,District,secondary_upper,2022,01/01/2022,96.7,OK,No,0,0,0,0,0
+Sarawak,Lawas,District,secondary_upper,2023,01/01/2023,96.8,OK,No,0,0,0,0,0
+Sarawak,Lawas,District,secondary_upper,2024,01/01/2024,95.5,OK,No,0,0,0,0,0
+Sarawak,Lawas,District,secondary_upper,2025,01/01/2025,94.9,OK,No,0,0,0,0,0
+Sarawak,Limbang,District,primary,2021,01/01/2021,96.8,OK,No,0,0,0,0,0
+Sarawak,Limbang,District,primary,2022,01/01/2022,102.8,Above 100 (retained),No,0,0,1,0,0
+Sarawak,Limbang,District,primary,2023,01/01/2023,95,OK,No,0,0,0,0,0
+Sarawak,Limbang,District,primary,2024,01/01/2024,96.9,OK,No,0,0,0,0,0
+Sarawak,Limbang,District,primary,2025,01/01/2025,90,OK,No,0,0,0,0,0
+Sarawak,Limbang,District,secondary_lower,2021,01/01/2021,97.2,OK,No,0,0,0,0,0
+Sarawak,Limbang,District,secondary_lower,2022,01/01/2022,95,OK,No,0,0,0,0,0
+Sarawak,Limbang,District,secondary_lower,2023,01/01/2023,94.6,OK,No,0,0,0,0,0
+Sarawak,Limbang,District,secondary_lower,2024,01/01/2024,94.3,OK,No,0,0,0,0,0
+Sarawak,Limbang,District,secondary_lower,2025,01/01/2025,93.8,OK,No,0,0,0,0,0
+Sarawak,Limbang,District,secondary_upper,2021,01/01/2021,97.8,OK,No,0,0,0,0,0
+Sarawak,Limbang,District,secondary_upper,2022,01/01/2022,96.5,OK,No,0,0,0,0,0
+Sarawak,Limbang,District,secondary_upper,2023,01/01/2023,96.3,OK,No,0,0,0,0,0
+Sarawak,Limbang,District,secondary_upper,2024,01/01/2024,94.8,OK,No,0,0,0,0,0
+Sarawak,Limbang,District,secondary_upper,2025,01/01/2025,95.1,OK,No,0,0,0,0,0
+Sarawak,Lubok Antu,District,primary,2021,01/01/2021,102.2,Above 100 (retained),No,0,0,1,0,0
+Sarawak,Lubok Antu,District,primary,2022,01/01/2022,103.4,Above 100 (retained),No,0,0,1,0,0
+Sarawak,Lubok Antu,District,primary,2023,01/01/2023,98,OK,No,0,0,0,0,0
+Sarawak,Lubok Antu,District,primary,2024,01/01/2024,101.6,Above 100 (retained),No,0,0,1,0,0
+Sarawak,Lubok Antu,District,primary,2025,01/01/2025,97.6,OK,No,0,0,0,0,0
+Sarawak,Lubok Antu,District,secondary_lower,2021,01/01/2021,95.8,OK,No,0,0,0,0,0
+Sarawak,Lubok Antu,District,secondary_lower,2022,01/01/2022,94.2,OK,No,0,0,0,0,0
+Sarawak,Lubok Antu,District,secondary_lower,2023,01/01/2023,97.9,OK,No,0,0,0,0,0
+Sarawak,Lubok Antu,District,secondary_lower,2024,01/01/2024,97,OK,No,0,0,0,0,0
+Sarawak,Lubok Antu,District,secondary_lower,2025,01/01/2025,97.1,OK,No,0,0,0,0,0
+Sarawak,Lubok Antu,District,secondary_upper,2021,01/01/2021,96.7,OK,No,0,0,0,0,0
+Sarawak,Lubok Antu,District,secondary_upper,2022,01/01/2022,98.9,OK,No,0,0,0,0,0
+Sarawak,Lubok Antu,District,secondary_upper,2023,01/01/2023,95.7,OK,No,0,0,0,0,0
+Sarawak,Lubok Antu,District,secondary_upper,2024,01/01/2024,91.5,Low outlier (IQR),Yes,0,0,0,0,1
+Sarawak,Lubok Antu,District,secondary_upper,2025,01/01/2025,97,OK,No,0,0,0,0,0
+Sarawak,Lundu,District,primary,2021,01/01/2021,104,Above 100 (retained),No,0,0,1,0,0
+Sarawak,Lundu,District,primary,2022,01/01/2022,96.5,OK,No,0,0,0,0,0
+Sarawak,Lundu,District,primary,2023,01/01/2023,102.4,Above 100 (retained),No,0,0,1,0,0
+Sarawak,Lundu,District,primary,2024,01/01/2024,97,OK,No,0,0,0,0,0
+Sarawak,Lundu,District,primary,2025,01/01/2025,102.1,Above 100 (retained),No,0,0,1,0,0
+Sarawak,Lundu,District,secondary_lower,2021,01/01/2021,94.8,OK,No,0,0,0,0,0
+Sarawak,Lundu,District,secondary_lower,2022,01/01/2022,99.2,OK,No,0,0,0,0,0
+Sarawak,Lundu,District,secondary_lower,2023,01/01/2023,96.8,OK,No,0,0,0,0,0
+Sarawak,Lundu,District,secondary_lower,2024,01/01/2024,98.3,OK,No,0,0,0,0,0
+Sarawak,Lundu,District,secondary_lower,2025,01/01/2025,99.2,OK,No,0,0,0,0,0
+Sarawak,Lundu,District,secondary_upper,2021,01/01/2021,98.8,OK,No,0,0,0,0,0
+Sarawak,Lundu,District,secondary_upper,2022,01/01/2022,101,Above 100 (retained),No,0,0,1,0,0
+Sarawak,Lundu,District,secondary_upper,2023,01/01/2023,97.1,OK,No,0,0,0,0,0
+Sarawak,Lundu,District,secondary_upper,2024,01/01/2024,95.1,OK,No,0,0,0,0,0
+Sarawak,Lundu,District,secondary_upper,2025,01/01/2025,96.4,OK,No,0,0,0,0,0
+Sarawak,Maradong,District,primary,2021,01/01/2021,96.5,OK,No,0,0,0,0,0
+Sarawak,Maradong,District,primary,2022,01/01/2022,100.5,Above 100 (retained),No,0,0,1,0,0
+Sarawak,Maradong,District,primary,2023,01/01/2023,101.6,Above 100 (retained),No,0,0,1,0,0
+Sarawak,Maradong,District,primary,2024,01/01/2024,95.6,OK,No,0,0,0,0,0
+Sarawak,Maradong,District,primary,2025,01/01/2025,89.9,OK,No,0,0,0,0,0
+Sarawak,Maradong,District,secondary_lower,2021,01/01/2021,97.2,OK,No,0,0,0,0,0
+Sarawak,Maradong,District,secondary_lower,2022,01/01/2022,99,OK,No,0,0,0,0,0
+Sarawak,Maradong,District,secondary_lower,2023,01/01/2023,92.6,OK,No,0,0,0,0,0
+Sarawak,Maradong,District,secondary_lower,2024,01/01/2024,93.3,OK,No,0,0,0,0,0
+Sarawak,Maradong,District,secondary_lower,2025,01/01/2025,91.9,Low outlier (IQR),Yes,0,0,0,0,1
+Sarawak,Maradong,District,secondary_upper,2021,01/01/2021,96.3,OK,No,0,0,0,0,0
+Sarawak,Maradong,District,secondary_upper,2022,01/01/2022,96.9,OK,No,0,0,0,0,0
+Sarawak,Maradong,District,secondary_upper,2023,01/01/2023,96.8,OK,No,0,0,0,0,0
+Sarawak,Maradong,District,secondary_upper,2024,01/01/2024,96.8,OK,No,0,0,0,0,0
+Sarawak,Maradong,District,secondary_upper,2025,01/01/2025,98.1,OK,No,0,0,0,0,0
+Sarawak,Miri,District,primary,2021,01/01/2021,96.8,OK,No,0,0,0,0,0
+Sarawak,Miri,District,primary,2022,01/01/2022,103.6,Above 100 (retained),No,0,0,1,0,0
+Sarawak,Miri,District,primary,2023,01/01/2023,99.2,OK,No,0,0,0,0,0
+Sarawak,Miri,District,primary,2024,01/01/2024,99.8,OK,No,0,0,0,0,0
+Sarawak,Miri,District,primary,2025,01/01/2025,93.1,OK,No,0,0,0,0,0
+Sarawak,Miri,District,secondary_lower,2021,01/01/2021,98.1,OK,No,0,0,0,0,0
+Sarawak,Miri,District,secondary_lower,2022,01/01/2022,98.8,OK,No,0,0,0,0,0
+Sarawak,Miri,District,secondary_lower,2023,01/01/2023,98.7,OK,No,0,0,0,0,0
+Sarawak,Miri,District,secondary_lower,2024,01/01/2024,98,OK,No,0,0,0,0,0
+Sarawak,Miri,District,secondary_lower,2025,01/01/2025,97.5,OK,No,0,0,0,0,0
+Sarawak,Miri,District,secondary_upper,2021,01/01/2021,98.2,OK,No,0,0,0,0,0
+Sarawak,Miri,District,secondary_upper,2022,01/01/2022,97.9,OK,No,0,0,0,0,0
+Sarawak,Miri,District,secondary_upper,2023,01/01/2023,95,OK,No,0,0,0,0,0
+Sarawak,Miri,District,secondary_upper,2024,01/01/2024,94.5,OK,No,0,0,0,0,0
+Sarawak,Miri,District,secondary_upper,2025,01/01/2025,95.5,OK,No,0,0,0,0,0
+Sarawak,Mukah,District,primary,2021,01/01/2021,110.1,Above 100 (retained),Yes,0,0,1,0,1
+Sarawak,Mukah,District,primary,2022,01/01/2022,100.5,Above 100 (retained),No,0,0,1,0,0
+Sarawak,Mukah,District,primary,2023,01/01/2023,99.1,OK,No,0,0,0,0,0
+Sarawak,Mukah,District,primary,2024,01/01/2024,99.6,OK,No,0,0,0,0,0
+Sarawak,Mukah,District,primary,2025,01/01/2025,98.7,OK,No,0,0,0,0,0
+Sarawak,Mukah,District,secondary_lower,2021,01/01/2021,98.2,OK,No,0,0,0,0,0
+Sarawak,Mukah,District,secondary_lower,2022,01/01/2022,98,OK,No,0,0,0,0,0
+Sarawak,Mukah,District,secondary_lower,2023,01/01/2023,91.3,Low outlier (IQR),Yes,0,0,0,0,1
+Sarawak,Mukah,District,secondary_lower,2024,01/01/2024,95.7,OK,No,0,0,0,0,0
+Sarawak,Mukah,District,secondary_lower,2025,01/01/2025,94.8,OK,No,0,0,0,0,0
+Sarawak,Mukah,District,secondary_upper,2021,01/01/2021,98.8,OK,No,0,0,0,0,0
+Sarawak,Mukah,District,secondary_upper,2022,01/01/2022,96,OK,No,0,0,0,0,0
+Sarawak,Mukah,District,secondary_upper,2023,01/01/2023,95,OK,No,0,0,0,0,0
+Sarawak,Mukah,District,secondary_upper,2024,01/01/2024,94.3,OK,No,0,0,0,0,0
+Sarawak,Mukah,District,secondary_upper,2025,01/01/2025,95.1,OK,No,0,0,0,0,0
+Sarawak,Padawan,District,primary,2021,01/01/2021,101.4,Above 100 (retained),No,0,0,1,0,0
+Sarawak,Padawan,District,primary,2022,01/01/2022,90.1,OK,No,0,0,0,0,0
+Sarawak,Padawan,District,primary,2023,01/01/2023,86.6,Low outlier (IQR),Yes,0,0,0,0,1
+Sarawak,Padawan,District,primary,2024,01/01/2024,84.2,Low outlier (IQR),Yes,0,0,0,0,1
+Sarawak,Padawan,District,primary,2025,01/01/2025,78.8,Low outlier (IQR),Yes,0,0,0,0,1
+Sarawak,Padawan,District,secondary_lower,2021,01/01/2021,98.2,OK,No,0,0,0,0,0
+Sarawak,Padawan,District,secondary_lower,2022,01/01/2022,73.4,Low outlier (IQR),Yes,0,0,0,0,1
+Sarawak,Padawan,District,secondary_lower,2023,01/01/2023,91,Low outlier (IQR),Yes,0,0,0,0,1
+Sarawak,Padawan,District,secondary_lower,2024,01/01/2024,98.5,OK,No,0,0,0,0,0
+Sarawak,Padawan,District,secondary_lower,2025,01/01/2025,95.8,OK,No,0,0,0,0,0
+Sarawak,Padawan,District,secondary_upper,2021,01/01/2021,98.8,OK,No,0,0,0,0,0
+Sarawak,Padawan,District,secondary_upper,2022,01/01/2022,72.8,Low outlier (IQR),Yes,0,0,0,0,1
+Sarawak,Padawan,District,secondary_upper,2023,01/01/2023,95.8,OK,No,0,0,0,0,0
+Sarawak,Padawan,District,secondary_upper,2024,01/01/2024,96.6,OK,No,0,0,0,0,0
+Sarawak,Padawan,District,secondary_upper,2025,01/01/2025,97.4,OK,No,0,0,0,0,0
+Sarawak,Samarahan,District,primary,2021,01/01/2021,106,Above 100 (retained),No,0,0,1,0,0
+Sarawak,Samarahan,District,primary,2022,01/01/2022,107.4,Above 100 (retained),No,0,0,1,0,0
+Sarawak,Samarahan,District,primary,2023,01/01/2023,105.6,Above 100 (retained),No,0,0,1,0,0
+Sarawak,Samarahan,District,primary,2024,01/01/2024,103.7,Above 100 (retained),No,0,0,1,0,0
+Sarawak,Samarahan,District,primary,2025,01/01/2025,100.7,Above 100 (retained),No,0,0,1,0,0
+Sarawak,Samarahan,District,secondary_lower,2021,01/01/2021,100.2,Above 100 (retained),No,0,0,1,0,0
+Sarawak,Samarahan,District,secondary_lower,2022,01/01/2022,100.8,Above 100 (retained),No,0,0,1,0,0
+Sarawak,Samarahan,District,secondary_lower,2023,01/01/2023,94.1,OK,No,0,0,0,0,0
+Sarawak,Samarahan,District,secondary_lower,2024,01/01/2024,96.5,OK,No,0,0,0,0,0
+Sarawak,Samarahan,District,secondary_lower,2025,01/01/2025,98.8,OK,No,0,0,0,0,0
+Sarawak,Samarahan,District,secondary_upper,2021,01/01/2021,99.2,OK,No,0,0,0,0,0
+Sarawak,Samarahan,District,secondary_upper,2022,01/01/2022,99.5,OK,No,0,0,0,0,0
+Sarawak,Samarahan,District,secondary_upper,2023,01/01/2023,95.3,OK,No,0,0,0,0,0
+Sarawak,Samarahan,District,secondary_upper,2024,01/01/2024,96,OK,No,0,0,0,0,0
+Sarawak,Samarahan,District,secondary_upper,2025,01/01/2025,98.3,OK,No,0,0,0,0,0
+Sarawak,Saratok,District,primary,2021,01/01/2021,101.6,Above 100 (retained),No,0,0,1,0,0
+Sarawak,Saratok,District,primary,2022,01/01/2022,104,Above 100 (retained),No,0,0,1,0,0
+Sarawak,Saratok,District,primary,2023,01/01/2023,100.8,Above 100 (retained),No,0,0,1,0,0
+Sarawak,Saratok,District,primary,2024,01/01/2024,101.9,Above 100 (retained),No,0,0,1,0,0
+Sarawak,Saratok,District,primary,2025,01/01/2025,99.4,OK,No,0,0,0,0,0
+Sarawak,Saratok,District,secondary_lower,2021,01/01/2021,96.4,OK,No,0,0,0,0,0
+Sarawak,Saratok,District,secondary_lower,2022,01/01/2022,98.3,OK,No,0,0,0,0,0
+Sarawak,Saratok,District,secondary_lower,2023,01/01/2023,98.3,OK,No,0,0,0,0,0
+Sarawak,Saratok,District,secondary_lower,2024,01/01/2024,93.5,OK,No,0,0,0,0,0
+Sarawak,Saratok,District,secondary_lower,2025,01/01/2025,95.1,OK,No,0,0,0,0,0
+Sarawak,Saratok,District,secondary_upper,2021,01/01/2021,98.2,OK,No,0,0,0,0,0
+Sarawak,Saratok,District,secondary_upper,2022,01/01/2022,99,OK,No,0,0,0,0,0
+Sarawak,Saratok,District,secondary_upper,2023,01/01/2023,96.3,OK,No,0,0,0,0,0
+Sarawak,Saratok,District,secondary_upper,2024,01/01/2024,96.3,OK,No,0,0,0,0,0
+Sarawak,Saratok,District,secondary_upper,2025,01/01/2025,96.5,OK,No,0,0,0,0,0
+Sarawak,Sarikei,District,primary,2021,01/01/2021,100.5,Above 100 (retained),No,0,0,1,0,0
+Sarawak,Sarikei,District,primary,2022,01/01/2022,97.4,OK,No,0,0,0,0,0
+Sarawak,Sarikei,District,primary,2023,01/01/2023,100,OK,No,0,0,0,0,0
+Sarawak,Sarikei,District,primary,2024,01/01/2024,100.3,Above 100 (retained),No,0,0,1,0,0
+Sarawak,Sarikei,District,primary,2025,01/01/2025,96,OK,No,0,0,0,0,0
+Sarawak,Sarikei,District,secondary_lower,2021,01/01/2021,98.4,OK,No,0,0,0,0,0
+Sarawak,Sarikei,District,secondary_lower,2022,01/01/2022,99.5,OK,No,0,0,0,0,0
+Sarawak,Sarikei,District,secondary_lower,2024,01/01/2024,96.6,OK,No,0,0,0,0,0
+Sarawak,Sarikei,District,secondary_lower,2025,01/01/2025,98,OK,No,0,0,0,0,0
+Sarawak,Sarikei,District,secondary_upper,2021,01/01/2021,98.2,OK,No,0,0,0,0,0
+Sarawak,Sarikei,District,secondary_upper,2022,01/01/2022,96.5,OK,No,0,0,0,0,0
+Sarawak,Sarikei,District,secondary_upper,2023,01/01/2023,96.8,OK,No,0,0,0,0,0
+Sarawak,Sarikei,District,secondary_upper,2024,01/01/2024,96.9,OK,No,0,0,0,0,0
+Sarawak,Sarikei,District,secondary_upper,2025,01/01/2025,98.9,OK,No,0,0,0,0,0
+Sarawak,Selangau,District,primary,2021,01/01/2021,100.8,Above 100 (retained),No,0,0,1,0,0
+Sarawak,Selangau,District,primary,2022,01/01/2022,106.3,Above 100 (retained),No,0,0,1,0,0
+Sarawak,Selangau,District,primary,2023,01/01/2023,93.6,OK,No,0,0,0,0,0
+Sarawak,Selangau,District,primary,2024,01/01/2024,95.8,OK,No,0,0,0,0,0
+Sarawak,Selangau,District,primary,2025,01/01/2025,87.9,OK,No,0,0,0,0,0
+Sarawak,Selangau,District,secondary_lower,2021,01/01/2021,93.6,OK,No,0,0,0,0,0
+Sarawak,Selangau,District,secondary_lower,2022,01/01/2022,92.3,Low outlier (IQR),Yes,0,0,0,0,1
+Sarawak,Selangau,District,secondary_lower,2023,01/01/2023,94.8,OK,No,0,0,0,0,0
+Sarawak,Selangau,District,secondary_lower,2024,01/01/2024,84.8,Low outlier (IQR),Yes,0,0,0,0,1
+Sarawak,Selangau,District,secondary_lower,2025,01/01/2025,81.9,Low outlier (IQR),Yes,0,0,0,0,1
+Sarawak,Selangau,District,secondary_upper,2021,01/01/2021,96,OK,No,0,0,0,0,0
+Sarawak,Selangau,District,secondary_upper,2022,01/01/2022,93.6,OK,No,0,0,0,0,0
+Sarawak,Selangau,District,secondary_upper,2023,01/01/2023,96.5,OK,No,0,0,0,0,0
+Sarawak,Selangau,District,secondary_upper,2024,01/01/2024,91.7,Low outlier (IQR),Yes,0,0,0,0,1
+Sarawak,Selangau,District,secondary_upper,2025,01/01/2025,87.2,Low outlier (IQR),Yes,0,0,0,0,1
+Sarawak,Serian,District,primary,2021,01/01/2021,106.2,Above 100 (retained),No,0,0,1,0,0
+Sarawak,Serian,District,secondary_lower,2021,01/01/2021,99.5,OK,No,0,0,0,0,0
+Sarawak,Serian,District,secondary_lower,2023,01/01/2023,96.3,OK,No,0,0,0,0,0
+Sarawak,Serian,District,secondary_lower,2024,01/01/2024,98.2,OK,No,0,0,0,0,0
+Sarawak,Serian,District,secondary_lower,2025,01/01/2025,98.2,OK,No,0,0,0,0,0
+Sarawak,Serian,District,secondary_upper,2021,01/01/2021,99.9,OK,No,0,0,0,0,0
+Sarawak,Serian,District,secondary_upper,2023,01/01/2023,94.6,OK,No,0,0,0,0,0
+Sarawak,Serian,District,secondary_upper,2024,01/01/2024,96.6,OK,No,0,0,0,0,0
+Sarawak,Serian,District,secondary_upper,2025,01/01/2025,95.7,OK,No,0,0,0,0,0
+Sarawak,Sibu,District,primary,2021,01/01/2021,100.1,Above 100 (retained),No,0,0,1,0,0
+Sarawak,Sibu,District,primary,2022,01/01/2022,100.1,Above 100 (retained),No,0,0,1,0,0
+Sarawak,Sibu,District,primary,2023,01/01/2023,98.8,OK,No,0,0,0,0,0
+Sarawak,Sibu,District,primary,2024,01/01/2024,99.9,OK,No,0,0,0,0,0
+Sarawak,Sibu,District,primary,2025,01/01/2025,88.9,OK,No,0,0,0,0,0
+Sarawak,Sibu,District,secondary_lower,2021,01/01/2021,97.6,OK,No,0,0,0,0,0
+Sarawak,Sibu,District,secondary_lower,2022,01/01/2022,97.8,OK,No,0,0,0,0,0
+Sarawak,Sibu,District,secondary_lower,2023,01/01/2023,92.7,OK,No,0,0,0,0,0
+Sarawak,Sibu,District,secondary_lower,2024,01/01/2024,97.1,OK,No,0,0,0,0,0
+Sarawak,Sibu,District,secondary_lower,2025,01/01/2025,96,OK,No,0,0,0,0,0
+Sarawak,Sibu,District,secondary_upper,2021,01/01/2021,97.7,OK,No,0,0,0,0,0
+Sarawak,Sibu,District,secondary_upper,2022,01/01/2022,96.5,OK,No,0,0,0,0,0
+Sarawak,Sibu,District,secondary_upper,2023,01/01/2023,95.4,OK,No,0,0,0,0,0
+Sarawak,Sibu,District,secondary_upper,2024,01/01/2024,96.7,OK,No,0,0,0,0,0
+Sarawak,Sibu,District,secondary_upper,2025,01/01/2025,94.9,OK,No,0,0,0,0,0
+Sarawak,Simunjan,District,primary,2021,01/01/2021,103.3,Above 100 (retained),No,0,0,1,0,0
+Sarawak,Simunjan,District,primary,2022,01/01/2022,92.6,OK,No,0,0,0,0,0
+Sarawak,Simunjan,District,primary,2023,01/01/2023,98.4,OK,No,0,0,0,0,0
+Sarawak,Simunjan,District,primary,2024,01/01/2024,96.5,OK,No,0,0,0,0,0
+Sarawak,Simunjan,District,primary,2025,01/01/2025,98,OK,No,0,0,0,0,0
+Sarawak,Simunjan,District,secondary_lower,2021,01/01/2021,99.1,OK,No,0,0,0,0,0
+Sarawak,Simunjan,District,secondary_lower,2022,01/01/2022,101.1,Above 100 (retained),No,0,0,1,0,0
+Sarawak,Simunjan,District,secondary_lower,2023,01/01/2023,94.2,OK,No,0,0,0,0,0
+Sarawak,Simunjan,District,secondary_lower,2024,01/01/2024,94.9,OK,No,0,0,0,0,0
+Sarawak,Simunjan,District,secondary_lower,2025,01/01/2025,97.1,OK,No,0,0,0,0,0
+Sarawak,Simunjan,District,secondary_upper,2021,01/01/2021,98.6,OK,No,0,0,0,0,0
+Sarawak,Simunjan,District,secondary_upper,2022,01/01/2022,95,OK,No,0,0,0,0,0
+Sarawak,Simunjan,District,secondary_upper,2023,01/01/2023,94.5,OK,No,0,0,0,0,0
+Sarawak,Simunjan,District,secondary_upper,2024,01/01/2024,95.1,OK,No,0,0,0,0,0
+Sarawak,Simunjan,District,secondary_upper,2025,01/01/2025,98,OK,No,0,0,0,0,0
+Sarawak,Song,District,primary,2021,01/01/2021,93.4,OK,No,0,0,0,0,0
+Sarawak,Song,District,primary,2023,01/01/2023,96,OK,No,0,0,0,0,0
+Sarawak,Song,District,primary,2024,01/01/2024,96.3,OK,No,0,0,0,0,0
+Sarawak,Song,District,primary,2025,01/01/2025,77.1,Low outlier (IQR),Yes,0,0,0,0,1
+Sarawak,Song,District,secondary_lower,2021,01/01/2021,93.5,OK,No,0,0,0,0,0
+Sarawak,Song,District,secondary_lower,2022,01/01/2022,100.4,Above 100 (retained),No,0,0,1,0,0
+Sarawak,Song,District,secondary_lower,2023,01/01/2023,97.6,OK,No,0,0,0,0,0
+Sarawak,Song,District,secondary_lower,2024,01/01/2024,92.2,Low outlier (IQR),Yes,0,0,0,0,1
+Sarawak,Song,District,secondary_lower,2025,01/01/2025,93.5,OK,No,0,0,0,0,0
+Sarawak,Song,District,secondary_upper,2021,01/01/2021,100,OK,No,0,0,0,0,0
+Sarawak,Song,District,secondary_upper,2022,01/01/2022,100,OK,No,0,0,0,0,0
+Sarawak,Song,District,secondary_upper,2023,01/01/2023,92.3,Low outlier (IQR),Yes,0,0,0,0,1
+Sarawak,Song,District,secondary_upper,2024,01/01/2024,97.8,OK,No,0,0,0,0,0
+Sarawak,Song,District,secondary_upper,2025,01/01/2025,91.4,Low outlier (IQR),Yes,0,0,0,0,1
+Sarawak,Sri Aman,District,primary,2021,01/01/2021,103.7,Above 100 (retained),No,0,0,1,0,0
+Sarawak,Sri Aman,District,primary,2022,01/01/2022,106.9,Above 100 (retained),No,0,0,1,0,0
+Sarawak,Sri Aman,District,primary,2023,01/01/2023,102,Above 100 (retained),No,0,0,1,0,0
+Sarawak,Sri Aman,District,primary,2024,01/01/2024,99.5,OK,No,0,0,0,0,0
+Sarawak,Sri Aman,District,primary,2025,01/01/2025,88.9,OK,No,0,0,0,0,0
+Sarawak,Sri Aman,District,secondary_lower,2021,01/01/2021,95.5,OK,No,0,0,0,0,0
+Sarawak,Sri Aman,District,secondary_lower,2022,01/01/2022,98.8,OK,No,0,0,0,0,0
+Sarawak,Sri Aman,District,secondary_lower,2023,01/01/2023,99.6,OK,No,0,0,0,0,0
+Sarawak,Sri Aman,District,secondary_lower,2024,01/01/2024,98.3,OK,No,0,0,0,0,0
+Sarawak,Sri Aman,District,secondary_lower,2025,01/01/2025,96,OK,No,0,0,0,0,0
+Sarawak,Sri Aman,District,secondary_upper,2021,01/01/2021,100,OK,No,0,0,0,0,0
+Sarawak,Sri Aman,District,secondary_upper,2022,01/01/2022,98.8,OK,No,0,0,0,0,0
+Sarawak,Sri Aman,District,secondary_upper,2023,01/01/2023,97.8,OK,No,0,0,0,0,0
+Sarawak,Sri Aman,District,secondary_upper,2024,01/01/2024,98.3,OK,No,0,0,0,0,0
+Sarawak,Sri Aman,District,secondary_upper,2025,01/01/2025,99.1,OK,No,0,0,0,0,0
+Sarawak,Subis,District,primary,2021,01/01/2021,97.1,OK,No,0,0,0,0,0
+Sarawak,Subis,District,primary,2022,01/01/2022,100.2,Above 100 (retained),No,0,0,1,0,0
+Sarawak,Subis,District,primary,2023,01/01/2023,100.2,Above 100 (retained),No,0,0,1,0,0
+Sarawak,Subis,District,primary,2024,01/01/2024,97.7,OK,No,0,0,0,0,0
+Sarawak,Subis,District,primary,2025,01/01/2025,92,OK,No,0,0,0,0,0
+Sarawak,Subis,District,secondary_lower,2021,01/01/2021,95.4,OK,No,0,0,0,0,0
+Sarawak,Subis,District,secondary_lower,2022,01/01/2022,97.8,OK,No,0,0,0,0,0
+Sarawak,Subis,District,secondary_lower,2023,01/01/2023,97.2,OK,No,0,0,0,0,0
+Sarawak,Subis,District,secondary_lower,2024,01/01/2024,94.2,OK,No,0,0,0,0,0
+Sarawak,Subis,District,secondary_lower,2025,01/01/2025,93.7,OK,No,0,0,0,0,0
+Sarawak,Subis,District,secondary_upper,2021,01/01/2021,96.5,OK,No,0,0,0,0,0
+Sarawak,Subis,District,secondary_upper,2022,01/01/2022,97.7,OK,No,0,0,0,0,0
+Sarawak,Subis,District,secondary_upper,2023,01/01/2023,98.2,OK,No,0,0,0,0,0
+Sarawak,Subis,District,secondary_upper,2024,01/01/2024,96,OK,No,0,0,0,0,0
+Sarawak,Subis,District,secondary_upper,2025,01/01/2025,93.2,OK,No,0,0,0,0,0
+Sarawak,Tatau/Sebauh,District,primary,2021,01/01/2021,99.7,OK,No,0,0,0,0,0
+Sarawak,Tatau/Sebauh,District,primary,2022,01/01/2022,98.9,OK,No,0,0,0,0,0
+Sarawak,Tatau/Sebauh,District,primary,2023,01/01/2023,100.6,Above 100 (retained),No,0,0,1,0,0
+Sarawak,Tatau/Sebauh,District,primary,2024,01/01/2024,98.9,OK,No,0,0,0,0,0
+Sarawak,Tatau/Sebauh,District,primary,2025,01/01/2025,101.6,Above 100 (retained),No,0,0,1,0,0
+Sarawak,Tatau/Sebauh,District,secondary_lower,2021,01/01/2021,96.9,OK,No,0,0,0,0,0
+Sarawak,Tatau/Sebauh,District,secondary_lower,2022,01/01/2022,99.2,OK,No,0,0,0,0,0
+Sarawak,Tatau/Sebauh,District,secondary_lower,2023,01/01/2023,95.2,OK,No,0,0,0,0,0
+Sarawak,Tatau/Sebauh,District,secondary_lower,2024,01/01/2024,95.4,OK,No,0,0,0,0,0
+Sarawak,Tatau/Sebauh,District,secondary_lower,2025,01/01/2025,94.6,OK,No,0,0,0,0,0
+Sarawak,Tatau/Sebauh,District,secondary_upper,2021,01/01/2021,100,OK,No,0,0,0,0,0
+Sarawak,Tatau/Sebauh,District,secondary_upper,2022,01/01/2022,97.7,OK,No,0,0,0,0,0
+Sarawak,Tatau/Sebauh,District,secondary_upper,2023,01/01/2023,93.4,OK,No,0,0,0,0,0
+Sarawak,Tatau/Sebauh,District,secondary_upper,2024,01/01/2024,94.2,OK,No,0,0,0,0,0
+Sarawak,Tatau/Sebauh,District,secondary_upper,2025,01/01/2025,93.5,OK,No,0,0,0,0,0
+Selangor,All Districts,State total,primary,2021,01/01/2021,97.6,OK,No,1,0,0,0,0
+Selangor,All Districts,State total,primary,2022,01/01/2022,93.4,OK,No,1,0,0,0,0
+Selangor,All Districts,State total,primary,2023,01/01/2023,97.1,OK,No,1,0,0,0,0
+Selangor,All Districts,State total,primary,2024,01/01/2024,96.6,OK,No,1,0,0,0,0
+Selangor,All Districts,State total,primary,2025,01/01/2025,93.8,OK,No,1,0,0,0,0
+Selangor,All Districts,State total,secondary_lower,2021,01/01/2021,99.3,OK,No,1,0,0,0,0
+Selangor,All Districts,State total,secondary_lower,2022,01/01/2022,99.6,OK,No,1,0,0,0,0
+Selangor,All Districts,State total,secondary_lower,2023,01/01/2023,97.8,OK,No,1,0,0,0,0
+Selangor,All Districts,State total,secondary_lower,2024,01/01/2024,98.2,OK,No,1,0,0,0,0
+Selangor,All Districts,State total,secondary_lower,2025,01/01/2025,98.6,OK,No,1,0,0,0,0
+Selangor,All Districts,State total,secondary_upper,2021,01/01/2021,99.5,OK,No,1,0,0,0,0
+Selangor,All Districts,State total,secondary_upper,2022,01/01/2022,99.3,OK,No,1,0,0,0,0
+Selangor,All Districts,State total,secondary_upper,2023,01/01/2023,97.7,OK,No,1,0,0,0,0
+Selangor,All Districts,State total,secondary_upper,2024,01/01/2024,98.2,OK,No,1,0,0,0,0
+Selangor,All Districts,State total,secondary_upper,2025,01/01/2025,97.9,OK,No,1,0,0,0,0
+Selangor,Gombak,District,primary,2021,01/01/2021,95.8,OK,No,0,0,0,0,0
+Selangor,Gombak,District,primary,2022,01/01/2022,92.6,OK,No,0,0,0,0,0
+Selangor,Gombak,District,primary,2023,01/01/2023,93.7,OK,No,0,0,0,0,0
+Selangor,Gombak,District,primary,2024,01/01/2024,96.2,OK,No,0,0,0,0,0
+Selangor,Gombak,District,primary,2025,01/01/2025,95.9,OK,No,0,0,0,0,0
+Selangor,Gombak,District,secondary_lower,2021,01/01/2021,99.1,OK,No,0,0,0,0,0
+Selangor,Gombak,District,secondary_lower,2022,01/01/2022,99.6,OK,No,0,0,0,0,0
+Selangor,Gombak,District,secondary_lower,2023,01/01/2023,97.3,OK,No,0,0,0,0,0
+Selangor,Gombak,District,secondary_lower,2024,01/01/2024,98.5,OK,No,0,0,0,0,0
+Selangor,Gombak,District,secondary_lower,2025,01/01/2025,98.9,OK,No,0,0,0,0,0
+Selangor,Gombak,District,secondary_upper,2021,01/01/2021,98.9,OK,No,0,0,0,0,0
+Selangor,Gombak,District,secondary_upper,2022,01/01/2022,99.5,OK,No,0,0,0,0,0
+Selangor,Gombak,District,secondary_upper,2023,01/01/2023,96.5,OK,No,0,0,0,0,0
+Selangor,Gombak,District,secondary_upper,2024,01/01/2024,98.8,OK,No,0,0,0,0,0
+Selangor,Gombak,District,secondary_upper,2025,01/01/2025,98.3,OK,No,0,0,0,0,0
+Selangor,Klang,District,primary,2021,01/01/2021,98.1,OK,No,0,0,0,0,0
+Selangor,Klang,District,primary,2022,01/01/2022,92.3,OK,No,0,0,0,0,0
+Selangor,Klang,District,primary,2023,01/01/2023,96,OK,No,0,0,0,0,0
+Selangor,Klang,District,primary,2024,01/01/2024,96.7,OK,No,0,0,0,0,0
+Selangor,Klang,District,primary,2025,01/01/2025,93,OK,No,0,0,0,0,0
+Selangor,Klang,District,secondary_lower,2021,01/01/2021,98.8,OK,No,0,0,0,0,0
+Selangor,Klang,District,secondary_lower,2022,01/01/2022,99.7,OK,No,0,0,0,0,0
+Selangor,Klang,District,secondary_lower,2023,01/01/2023,97.6,OK,No,0,0,0,0,0
+Selangor,Klang,District,secondary_lower,2024,01/01/2024,98.5,OK,No,0,0,0,0,0
+Selangor,Klang,District,secondary_lower,2025,01/01/2025,98,OK,No,0,0,0,0,0
+Selangor,Klang,District,secondary_upper,2021,01/01/2021,99.1,OK,No,0,0,0,0,0
+Selangor,Klang,District,secondary_upper,2022,01/01/2022,98.5,OK,No,0,0,0,0,0
+Selangor,Klang,District,secondary_upper,2023,01/01/2023,95.7,OK,No,0,0,0,0,0
+Selangor,Klang,District,secondary_upper,2024,01/01/2024,97.2,OK,No,0,0,0,0,0
+Selangor,Klang,District,secondary_upper,2025,01/01/2025,97.5,OK,No,0,0,0,0,0
+Selangor,Kuala Langat,District,primary,2021,01/01/2021,104.7,Above 100 (retained),No,0,0,1,0,0
+Selangor,Kuala Langat,District,primary,2022,01/01/2022,98.6,OK,No,0,0,0,0,0
+Selangor,Kuala Langat,District,primary,2023,01/01/2023,97.2,OK,No,0,0,0,0,0
+Selangor,Kuala Langat,District,primary,2024,01/01/2024,110.9,Above 100 (retained),Yes,0,0,1,0,1
+Selangor,Kuala Langat,District,primary,2025,01/01/2025,108.1,Above 100 (retained),No,0,0,1,0,0
+Selangor,Kuala Langat,District,secondary_lower,2021,01/01/2021,99.7,OK,No,0,0,0,0,0
+Selangor,Kuala Langat,District,secondary_lower,2022,01/01/2022,107.8,Above 100 (retained),Yes,0,0,1,0,1
+Selangor,Kuala Langat,District,secondary_lower,2023,01/01/2023,107.8,Above 100 (retained),Yes,0,0,1,0,1
+Selangor,Kuala Langat,District,secondary_lower,2024,01/01/2024,101.3,Above 100 (retained),No,0,0,1,0,0
+Selangor,Kuala Langat,District,secondary_lower,2025,01/01/2025,100.6,Above 100 (retained),No,0,0,1,0,0
+Selangor,Kuala Langat,District,secondary_upper,2021,01/01/2021,99.6,OK,No,0,0,0,0,0
+Selangor,Kuala Langat,District,secondary_upper,2022,01/01/2022,98.6,OK,No,0,0,0,0,0
+Selangor,Kuala Langat,District,secondary_upper,2023,01/01/2023,97.6,OK,No,0,0,0,0,0
+Selangor,Kuala Langat,District,secondary_upper,2024,01/01/2024,98,OK,No,0,0,0,0,0
+Selangor,Kuala Langat,District,secondary_upper,2025,01/01/2025,96.8,OK,No,0,0,0,0,0
+Selangor,Kuala Selangor,District,primary,2021,01/01/2021,105.7,Above 100 (retained),No,0,0,1,0,0
+Selangor,Kuala Selangor,District,primary,2022,01/01/2022,98.3,OK,No,0,0,0,0,0
+Selangor,Kuala Selangor,District,primary,2023,01/01/2023,100.6,Above 100 (retained),No,0,0,1,0,0
+Selangor,Kuala Selangor,District,primary,2024,01/01/2024,108.6,Above 100 (retained),No,0,0,1,0,0
+Selangor,Kuala Selangor,District,primary,2025,01/01/2025,105.4,Above 100 (retained),No,0,0,1,0,0
+Selangor,Kuala Selangor,District,secondary_lower,2021,01/01/2021,100.8,Above 100 (retained),No,0,0,1,0,0
+Selangor,Kuala Selangor,District,secondary_lower,2022,01/01/2022,102.4,Above 100 (retained),No,0,0,1,0,0
+Selangor,Kuala Selangor,District,secondary_lower,2023,01/01/2023,100.5,Above 100 (retained),No,0,0,1,0,0
+Selangor,Kuala Selangor,District,secondary_lower,2024,01/01/2024,99.3,OK,No,0,0,0,0,0
+Selangor,Kuala Selangor,District,secondary_lower,2025,01/01/2025,100.9,Above 100 (retained),No,0,0,1,0,0
+Selangor,Kuala Selangor,District,secondary_upper,2021,01/01/2021,101,Above 100 (retained),No,0,0,1,0,0
+Selangor,Kuala Selangor,District,secondary_upper,2022,01/01/2022,100,OK,No,0,0,0,0,0
+Selangor,Kuala Selangor,District,secondary_upper,2023,01/01/2023,97.7,OK,No,0,0,0,0,0
+Selangor,Kuala Selangor,District,secondary_upper,2024,01/01/2024,97.4,OK,No,0,0,0,0,0
+Selangor,Kuala Selangor,District,secondary_upper,2025,01/01/2025,97,OK,No,0,0,0,0,0
+Selangor,Petaling Perdana,District,primary,2021,01/01/2021,94.8,OK,No,0,0,0,0,0
+Selangor,Petaling Perdana,District,primary,2022,01/01/2022,90.3,OK,No,0,0,0,0,0
+Selangor,Petaling Perdana,District,primary,2023,01/01/2023,99.4,OK,No,0,0,0,0,0
+Selangor,Petaling Perdana,District,primary,2024,01/01/2024,91.1,OK,No,0,0,0,0,0
+Selangor,Petaling Perdana,District,primary,2025,01/01/2025,88.1,OK,No,0,0,0,0,0
+Selangor,Petaling Perdana,District,secondary_lower,2021,01/01/2021,99.2,OK,No,0,0,0,0,0
+Selangor,Petaling Perdana,District,secondary_lower,2022,01/01/2022,97,OK,No,0,0,0,0,0
+Selangor,Petaling Perdana,District,secondary_lower,2023,01/01/2023,95.4,OK,No,0,0,0,0,0
+Selangor,Petaling Perdana,District,secondary_lower,2024,01/01/2024,97.5,OK,No,0,0,0,0,0
+Selangor,Petaling Perdana,District,secondary_lower,2025,01/01/2025,98.2,OK,No,0,0,0,0,0
+Selangor,Petaling Perdana,District,secondary_upper,2021,01/01/2021,99.5,OK,No,0,0,0,0,0
+Selangor,Petaling Perdana,District,secondary_upper,2022,01/01/2022,99.3,OK,No,0,0,0,0,0
+Selangor,Petaling Perdana,District,secondary_upper,2023,01/01/2023,97.4,OK,No,0,0,0,0,0
+Selangor,Petaling Perdana,District,secondary_upper,2024,01/01/2024,99,OK,No,0,0,0,0,0
+Selangor,Petaling Perdana,District,secondary_upper,2025,01/01/2025,98.8,OK,No,0,0,0,0,0
+Selangor,Petaling Utama,District,primary,2021,01/01/2021,90.7,OK,No,0,0,0,0,0
+Selangor,Petaling Utama,District,primary,2022,01/01/2022,89.6,OK,No,0,0,0,0,0
+Selangor,Petaling Utama,District,primary,2023,01/01/2023,104.6,Above 100 (retained),No,0,0,1,0,0
+Selangor,Petaling Utama,District,primary,2024,01/01/2024,87.9,OK,No,0,0,0,0,0
+Selangor,Petaling Utama,District,primary,2025,01/01/2025,82.2,Low outlier (IQR),Yes,0,0,0,0,1
+Selangor,Petaling Utama,District,secondary_lower,2021,01/01/2021,97.4,OK,No,0,0,0,0,0
+Selangor,Petaling Utama,District,secondary_lower,2022,01/01/2022,96.1,OK,No,0,0,0,0,0
+Selangor,Petaling Utama,District,secondary_lower,2023,01/01/2023,95.7,OK,No,0,0,0,0,0
+Selangor,Petaling Utama,District,secondary_lower,2024,01/01/2024,96.7,OK,No,0,0,0,0,0
+Selangor,Petaling Utama,District,secondary_lower,2025,01/01/2025,97,OK,No,0,0,0,0,0
+Selangor,Petaling Utama,District,secondary_upper,2021,01/01/2021,99,OK,No,0,0,0,0,0
+Selangor,Petaling Utama,District,secondary_upper,2022,01/01/2022,98.8,OK,No,0,0,0,0,0
+Selangor,Petaling Utama,District,secondary_upper,2023,01/01/2023,95.6,OK,No,0,0,0,0,0
+Selangor,Petaling Utama,District,secondary_upper,2024,01/01/2024,98.1,OK,No,0,0,0,0,0
+Selangor,Petaling Utama,District,secondary_upper,2025,01/01/2025,97.2,OK,No,0,0,0,0,0
+Selangor,Sabak Bernam,District,primary,2021,01/01/2021,98.9,OK,No,0,0,0,0,0
+Selangor,Sabak Bernam,District,primary,2022,01/01/2022,107.1,Above 100 (retained),No,0,0,1,0,0
+Selangor,Sabak Bernam,District,primary,2023,01/01/2023,107.9,Above 100 (retained),No,0,0,1,0,0
+Selangor,Sabak Bernam,District,primary,2024,01/01/2024,99.5,OK,No,0,0,0,0,0
+Selangor,Sabak Bernam,District,primary,2025,01/01/2025,91.9,OK,No,0,0,0,0,0
+Selangor,Sabak Bernam,District,secondary_lower,2021,01/01/2021,97.8,OK,No,0,0,0,0,0
+Selangor,Sabak Bernam,District,secondary_lower,2022,01/01/2022,99.8,OK,No,0,0,0,0,0
+Selangor,Sabak Bernam,District,secondary_lower,2023,01/01/2023,97.1,OK,No,0,0,0,0,0
+Selangor,Sabak Bernam,District,secondary_lower,2024,01/01/2024,97.6,OK,No,0,0,0,0,0
+Selangor,Sabak Bernam,District,secondary_lower,2025,01/01/2025,97.2,OK,No,0,0,0,0,0
+Selangor,Sabak Bernam,District,secondary_upper,2021,01/01/2021,98.8,OK,No,0,0,0,0,0
+Selangor,Sabak Bernam,District,secondary_upper,2022,01/01/2022,99.2,OK,No,0,0,0,0,0
+Selangor,Sabak Bernam,District,secondary_upper,2023,01/01/2023,98.6,OK,No,0,0,0,0,0
+Selangor,Sabak Bernam,District,secondary_upper,2024,01/01/2024,97.5,OK,No,0,0,0,0,0
+Selangor,Sabak Bernam,District,secondary_upper,2025,01/01/2025,97.1,OK,No,0,0,0,0,0
+Selangor,Sepang,District,primary,2021,01/01/2021,100.6,Above 100 (retained),No,0,0,1,0,0
+Selangor,Sepang,District,primary,2022,01/01/2022,94.2,OK,No,0,0,0,0,0
+Selangor,Sepang,District,primary,2023,01/01/2023,88.9,OK,No,0,0,0,0,0
+Selangor,Sepang,District,primary,2024,01/01/2024,101.8,Above 100 (retained),No,0,0,1,0,0
+Selangor,Sepang,District,primary,2025,01/01/2025,102.7,Above 100 (retained),No,0,0,1,0,0
+Selangor,Sepang,District,secondary_lower,2021,01/01/2021,101.5,Above 100 (retained),No,0,0,1,0,0
+Selangor,Sepang,District,secondary_lower,2022,01/01/2022,102.3,Above 100 (retained),No,0,0,1,0,0
+Selangor,Sepang,District,secondary_lower,2023,01/01/2023,101.2,Above 100 (retained),No,0,0,1,0,0
+Selangor,Sepang,District,secondary_lower,2024,01/01/2024,100.9,Above 100 (retained),No,0,0,1,0,0
+Selangor,Sepang,District,secondary_lower,2025,01/01/2025,101.6,Above 100 (retained),No,0,0,1,0,0
+Selangor,Sepang,District,secondary_upper,2021,01/01/2021,100.1,Above 100 (retained),No,0,0,1,0,0
+Selangor,Sepang,District,secondary_upper,2022,01/01/2022,100.3,Above 100 (retained),No,0,0,1,0,0
+Selangor,Sepang,District,secondary_upper,2023,01/01/2023,98.7,OK,No,0,0,0,0,0
+Selangor,Sepang,District,secondary_upper,2024,01/01/2024,99.9,OK,No,0,0,0,0,0
+Selangor,Sepang,District,secondary_upper,2025,01/01/2025,99.2,OK,No,0,0,0,0,0
+Selangor,Ulu Langat,District,primary,2021,01/01/2021,98.8,OK,No,0,0,0,0,0
+Selangor,Ulu Langat,District,primary,2022,01/01/2022,93.9,OK,No,0,0,0,0,0
+Selangor,Ulu Langat,District,primary,2023,01/01/2023,97.7,OK,No,0,0,0,0,0
+Selangor,Ulu Langat,District,primary,2024,01/01/2024,97.1,OK,No,0,0,0,0,0
+Selangor,Ulu Langat,District,primary,2025,01/01/2025,94.1,OK,No,0,0,0,0,0
+Selangor,Ulu Langat,District,secondary_lower,2021,01/01/2021,100.1,Above 100 (retained),No,0,0,1,0,0
+Selangor,Ulu Langat,District,secondary_lower,2022,01/01/2022,99.7,OK,No,0,0,0,0,0
+Selangor,Ulu Langat,District,secondary_lower,2023,01/01/2023,97.7,OK,No,0,0,0,0,0
+Selangor,Ulu Langat,District,secondary_lower,2024,01/01/2024,97.5,OK,No,0,0,0,0,0
+Selangor,Ulu Langat,District,secondary_lower,2025,01/01/2025,98,OK,No,0,0,0,0,0
+Selangor,Ulu Langat,District,secondary_upper,2021,01/01/2021,100,OK,No,0,0,0,0,0
+Selangor,Ulu Langat,District,secondary_upper,2022,01/01/2022,99.6,OK,No,0,0,0,0,0
+Selangor,Ulu Langat,District,secondary_upper,2023,01/01/2023,95.8,OK,No,0,0,0,0,0
+Selangor,Ulu Langat,District,secondary_upper,2024,01/01/2024,97.8,OK,No,0,0,0,0,0
+Selangor,Ulu Langat,District,secondary_upper,2025,01/01/2025,97.8,OK,No,0,0,0,0,0
+Selangor,Ulu Selangor,District,primary,2021,01/01/2021,100.6,Above 100 (retained),No,0,0,1,0,0
+Selangor,Ulu Selangor,District,primary,2022,01/01/2022,99.9,OK,No,0,0,0,0,0
+Selangor,Ulu Selangor,District,primary,2023,01/01/2023,104.4,Above 100 (retained),No,0,0,1,0,0
+Selangor,Ulu Selangor,District,primary,2024,01/01/2024,99.6,OK,No,0,0,0,0,0
+Selangor,Ulu Selangor,District,primary,2025,01/01/2025,99.4,OK,No,0,0,0,0,0
+Selangor,Ulu Selangor,District,secondary_lower,2021,01/01/2021,99.6,OK,No,0,0,0,0,0
+Selangor,Ulu Selangor,District,secondary_lower,2022,01/01/2022,100.5,Above 100 (retained),No,0,0,1,0,0
+Selangor,Ulu Selangor,District,secondary_lower,2023,01/01/2023,96.2,OK,No,0,0,0,0,0
+Selangor,Ulu Selangor,District,secondary_lower,2024,01/01/2024,96.5,OK,No,0,0,0,0,0
+Selangor,Ulu Selangor,District,secondary_lower,2025,01/01/2025,97.9,OK,No,0,0,0,0,0
+Selangor,Ulu Selangor,District,secondary_upper,2021,01/01/2021,99.4,OK,No,0,0,0,0,0
+Selangor,Ulu Selangor,District,secondary_upper,2022,01/01/2022,100.1,Above 100 (retained),No,0,0,1,0,0
+Selangor,Ulu Selangor,District,secondary_upper,2023,01/01/2023,97.1,OK,No,0,0,0,0,0
+Selangor,Ulu Selangor,District,secondary_upper,2024,01/01/2024,97.9,OK,No,0,0,0,0,0
+Selangor,Ulu Selangor,District,secondary_upper,2025,01/01/2025,97.1,OK,No,0,0,0,0,0
+Terengganu,All Districts,State total,primary,2021,01/01/2021,101.2,Above 100 (retained),No,1,0,1,0,0
+Terengganu,All Districts,State total,primary,2022,01/01/2022,98.9,OK,No,1,0,0,0,0
+Terengganu,All Districts,State total,primary,2023,01/01/2023,101.2,Above 100 (retained),No,1,0,1,0,0
+Terengganu,All Districts,State total,primary,2024,01/01/2024,101.4,Above 100 (retained),No,1,0,1,0,0
+Terengganu,All Districts,State total,primary,2025,01/01/2025,100.7,Above 100 (retained),No,1,0,1,0,0
+Terengganu,All Districts,State total,secondary_lower,2021,01/01/2021,100.1,Above 100 (retained),No,1,0,1,0,0
+Terengganu,All Districts,State total,secondary_lower,2022,01/01/2022,101.2,Above 100 (retained),No,1,0,1,0,0
+Terengganu,All Districts,State total,secondary_lower,2023,01/01/2023,98.5,OK,No,1,0,0,0,0
+Terengganu,All Districts,State total,secondary_lower,2024,01/01/2024,98.1,OK,No,1,0,0,0,0
+Terengganu,All Districts,State total,secondary_lower,2025,01/01/2025,98.3,OK,No,1,0,0,0,0
+Terengganu,All Districts,State total,secondary_upper,2021,01/01/2021,100,OK,No,1,0,0,0,0
+Terengganu,All Districts,State total,secondary_upper,2022,01/01/2022,98.5,OK,No,1,0,0,0,0
+Terengganu,All Districts,State total,secondary_upper,2023,01/01/2023,95.9,OK,No,1,0,0,0,0
+Terengganu,All Districts,State total,secondary_upper,2024,01/01/2024,96.4,OK,No,1,0,0,0,0
+Terengganu,All Districts,State total,secondary_upper,2025,01/01/2025,97.3,OK,No,1,0,0,0,0
+Terengganu,Besut,District,primary,2021,01/01/2021,101,Above 100 (retained),No,0,0,1,0,0
+Terengganu,Besut,District,primary,2022,01/01/2022,105.9,Above 100 (retained),No,0,0,1,0,0
+Terengganu,Besut,District,primary,2023,01/01/2023,100.1,Above 100 (retained),No,0,0,1,0,0
+Terengganu,Besut,District,primary,2024,01/01/2024,101.3,Above 100 (retained),No,0,0,1,0,0
+Terengganu,Besut,District,primary,2025,01/01/2025,97.6,OK,No,0,0,0,0,0
+Terengganu,Besut,District,secondary_lower,2021,01/01/2021,99.3,OK,No,0,0,0,0,0
+Terengganu,Besut,District,secondary_lower,2022,01/01/2022,102.7,Above 100 (retained),No,0,0,1,0,0
+Terengganu,Besut,District,secondary_lower,2023,01/01/2023,99.2,OK,No,0,0,0,0,0
+Terengganu,Besut,District,secondary_lower,2024,01/01/2024,97.7,OK,No,0,0,0,0,0
+Terengganu,Besut,District,secondary_lower,2025,01/01/2025,98.1,OK,No,0,0,0,0,0
+Terengganu,Besut,District,secondary_upper,2021,01/01/2021,99.8,OK,No,0,0,0,0,0
+Terengganu,Besut,District,secondary_upper,2022,01/01/2022,97.7,OK,No,0,0,0,0,0
+Terengganu,Besut,District,secondary_upper,2023,01/01/2023,94,OK,No,0,0,0,0,0
+Terengganu,Besut,District,secondary_upper,2024,01/01/2024,91.9,Low outlier (IQR),Yes,0,0,0,0,1
+Terengganu,Besut,District,secondary_upper,2025,01/01/2025,95.9,OK,No,0,0,0,0,0
+Terengganu,Dungun,District,primary,2021,01/01/2021,100,OK,No,0,0,0,0,0
+Terengganu,Dungun,District,primary,2022,01/01/2022,91.5,OK,No,0,0,0,0,0
+Terengganu,Dungun,District,primary,2023,01/01/2023,102.4,Above 100 (retained),No,0,0,1,0,0
+Terengganu,Dungun,District,primary,2024,01/01/2024,99.9,OK,No,0,0,0,0,0
+Terengganu,Dungun,District,primary,2025,01/01/2025,101.4,Above 100 (retained),No,0,0,1,0,0
+Terengganu,Dungun,District,secondary_lower,2021,01/01/2021,100.2,Above 100 (retained),No,0,0,1,0,0
+Terengganu,Dungun,District,secondary_lower,2022,01/01/2022,100.8,Above 100 (retained),No,0,0,1,0,0
+Terengganu,Dungun,District,secondary_lower,2023,01/01/2023,98.6,OK,No,0,0,0,0,0
+Terengganu,Dungun,District,secondary_lower,2024,01/01/2024,97.9,OK,No,0,0,0,0,0
+Terengganu,Dungun,District,secondary_lower,2025,01/01/2025,98.5,OK,No,0,0,0,0,0
+Terengganu,Dungun,District,secondary_upper,2021,01/01/2021,99.9,OK,No,0,0,0,0,0
+Terengganu,Dungun,District,secondary_upper,2022,01/01/2022,98.5,OK,No,0,0,0,0,0
+Terengganu,Dungun,District,secondary_upper,2023,01/01/2023,99.7,OK,No,0,0,0,0,0
+Terengganu,Dungun,District,secondary_upper,2024,01/01/2024,96.5,OK,No,0,0,0,0,0
+Terengganu,Dungun,District,secondary_upper,2025,01/01/2025,97,OK,No,0,0,0,0,0
+Terengganu,Hulu Terengganu,District,primary,2021,01/01/2021,99.4,OK,No,0,0,0,0,0
+Terengganu,Hulu Terengganu,District,primary,2022,01/01/2022,101.9,Above 100 (retained),No,0,0,1,0,0
+Terengganu,Hulu Terengganu,District,primary,2023,01/01/2023,105.6,Above 100 (retained),No,0,0,1,0,0
+Terengganu,Hulu Terengganu,District,primary,2024,01/01/2024,100.8,Above 100 (retained),No,0,0,1,0,0
+Terengganu,Hulu Terengganu,District,primary,2025,01/01/2025,102.1,Above 100 (retained),No,0,0,1,0,0
+Terengganu,Hulu Terengganu,District,secondary_lower,2021,01/01/2021,100.2,Above 100 (retained),No,0,0,1,0,0
+Terengganu,Hulu Terengganu,District,secondary_lower,2022,01/01/2022,101.4,Above 100 (retained),No,0,0,1,0,0
+Terengganu,Hulu Terengganu,District,secondary_lower,2023,01/01/2023,99.6,OK,No,0,0,0,0,0
+Terengganu,Hulu Terengganu,District,secondary_lower,2024,01/01/2024,99.5,OK,No,0,0,0,0,0
+Terengganu,Hulu Terengganu,District,secondary_lower,2025,01/01/2025,99.2,OK,No,0,0,0,0,0
+Terengganu,Hulu Terengganu,District,secondary_upper,2021,01/01/2021,99.6,OK,No,0,0,0,0,0
+Terengganu,Hulu Terengganu,District,secondary_upper,2022,01/01/2022,98.9,OK,No,0,0,0,0,0
+Terengganu,Hulu Terengganu,District,secondary_upper,2023,01/01/2023,98,OK,No,0,0,0,0,0
+Terengganu,Hulu Terengganu,District,secondary_upper,2024,01/01/2024,95.3,OK,No,0,0,0,0,0
+Terengganu,Hulu Terengganu,District,secondary_upper,2025,01/01/2025,97.7,OK,No,0,0,0,0,0
+Terengganu,Kemaman,District,primary,2021,01/01/2021,98.5,OK,No,0,0,0,0,0
+Terengganu,Kemaman,District,primary,2022,01/01/2022,93.3,OK,No,0,0,0,0,0
+Terengganu,Kemaman,District,primary,2023,01/01/2023,100.6,Above 100 (retained),No,0,0,1,0,0
+Terengganu,Kemaman,District,primary,2024,01/01/2024,97.5,OK,No,0,0,0,0,0
+Terengganu,Kemaman,District,primary,2025,01/01/2025,96.6,OK,No,0,0,0,0,0
+Terengganu,Kemaman,District,secondary_lower,2021,01/01/2021,98.2,OK,No,0,0,0,0,0
+Terengganu,Kemaman,District,secondary_lower,2022,01/01/2022,99,OK,No,0,0,0,0,0
+Terengganu,Kemaman,District,secondary_lower,2023,01/01/2023,97.1,OK,No,0,0,0,0,0
+Terengganu,Kemaman,District,secondary_lower,2024,01/01/2024,98,OK,No,0,0,0,0,0
+Terengganu,Kemaman,District,secondary_lower,2025,01/01/2025,97.2,OK,No,0,0,0,0,0
+Terengganu,Kemaman,District,secondary_upper,2021,01/01/2021,100.1,Above 100 (retained),No,0,0,1,0,0
+Terengganu,Kemaman,District,secondary_upper,2022,01/01/2022,98.3,OK,No,0,0,0,0,0
+Terengganu,Kemaman,District,secondary_upper,2023,01/01/2023,95.8,OK,No,0,0,0,0,0
+Terengganu,Kemaman,District,secondary_upper,2024,01/01/2024,98.1,OK,No,0,0,0,0,0
+Terengganu,Kemaman,District,secondary_upper,2025,01/01/2025,98.4,OK,No,0,0,0,0,0
+Terengganu,Kuala Nerus,District,primary,2022,01/01/2022,105.1,Above 100 (retained),No,0,0,1,0,0
+Terengganu,Kuala Nerus,District,primary,2023,01/01/2023,97.1,OK,No,0,0,0,0,0
+Terengganu,Kuala Nerus,District,primary,2024,01/01/2024,103.7,Above 100 (retained),No,0,0,1,0,0
+Terengganu,Kuala Nerus,District,primary,2025,01/01/2025,103.4,Above 100 (retained),No,0,0,1,0,0
+Terengganu,Kuala Nerus,District,secondary_lower,2021,01/01/2021,102,Above 100 (retained),No,0,0,1,0,0
+Terengganu,Kuala Nerus,District,secondary_lower,2022,01/01/2022,102.2,Above 100 (retained),No,0,0,1,0,0
+Terengganu,Kuala Nerus,District,secondary_lower,2023,01/01/2023,99,OK,No,0,0,0,0,0
+Terengganu,Kuala Nerus,District,secondary_lower,2024,01/01/2024,99.7,OK,No,0,0,0,0,0
+Terengganu,Kuala Nerus,District,secondary_lower,2025,01/01/2025,101,Above 100 (retained),No,0,0,1,0,0
+Terengganu,Kuala Nerus,District,secondary_upper,2021,01/01/2021,100,OK,No,0,0,0,0,0
+Terengganu,Kuala Nerus,District,secondary_upper,2022,01/01/2022,98.4,OK,No,0,0,0,0,0
+Terengganu,Kuala Nerus,District,secondary_upper,2023,01/01/2023,93.6,OK,No,0,0,0,0,0
+Terengganu,Kuala Nerus,District,secondary_upper,2024,01/01/2024,96.7,OK,No,0,0,0,0,0
+Terengganu,Kuala Nerus,District,secondary_upper,2025,01/01/2025,95.8,OK,No,0,0,0,0,0
+Terengganu,Kuala Terengganu,District,primary,2021,01/01/2021,103.1,Above 100 (retained),No,0,0,1,0,0
+Terengganu,Kuala Terengganu,District,primary,2022,01/01/2022,96.3,OK,No,0,0,0,0,0
+Terengganu,Kuala Terengganu,District,primary,2023,01/01/2023,96.4,OK,No,0,0,0,0,0
+Terengganu,Kuala Terengganu,District,primary,2024,01/01/2024,103.6,Above 100 (retained),No,0,0,1,0,0
+Terengganu,Kuala Terengganu,District,primary,2025,01/01/2025,106.7,Above 100 (retained),No,0,0,1,0,0
+Terengganu,Kuala Terengganu,District,secondary_lower,2021,01/01/2021,100,OK,No,0,0,0,0,0
+Terengganu,Kuala Terengganu,District,secondary_lower,2022,01/01/2022,100.3,Above 100 (retained),No,0,0,1,0,0
+Terengganu,Kuala Terengganu,District,secondary_lower,2023,01/01/2023,98,OK,No,0,0,0,0,0
+Terengganu,Kuala Terengganu,District,secondary_lower,2024,01/01/2024,98.5,OK,No,0,0,0,0,0
+Terengganu,Kuala Terengganu,District,secondary_lower,2025,01/01/2025,97.8,OK,No,0,0,0,0,0
+Terengganu,Kuala Terengganu,District,secondary_upper,2021,01/01/2021,99.4,OK,No,0,0,0,0,0
+Terengganu,Kuala Terengganu,District,secondary_upper,2022,01/01/2022,99.2,OK,No,0,0,0,0,0
+Terengganu,Kuala Terengganu,District,secondary_upper,2023,01/01/2023,96.5,OK,No,0,0,0,0,0
+Terengganu,Kuala Terengganu,District,secondary_upper,2024,01/01/2024,98.2,OK,No,0,0,0,0,0
+Terengganu,Kuala Terengganu,District,secondary_upper,2025,01/01/2025,98.4,OK,No,0,0,0,0,0
+Terengganu,Marang,District,primary,2021,01/01/2021,103.9,Above 100 (retained),No,0,0,1,0,0
+Terengganu,Marang,District,primary,2022,01/01/2022,104.5,Above 100 (retained),No,0,0,1,0,0
+Terengganu,Marang,District,primary,2023,01/01/2023,103.2,Above 100 (retained),No,0,0,1,0,0
+Terengganu,Marang,District,primary,2024,01/01/2024,106.7,Above 100 (retained),No,0,0,1,0,0
+Terengganu,Marang,District,primary,2025,01/01/2025,100.7,Above 100 (retained),No,0,0,1,0,0
+Terengganu,Marang,District,secondary_lower,2021,01/01/2021,100.9,Above 100 (retained),No,0,0,1,0,0
+Terengganu,Marang,District,secondary_lower,2022,01/01/2022,102.2,Above 100 (retained),No,0,0,1,0,0
+Terengganu,Marang,District,secondary_lower,2023,01/01/2023,101,Above 100 (retained),No,0,0,1,0,0
+Terengganu,Marang,District,secondary_lower,2024,01/01/2024,99.7,OK,No,0,0,0,0,0
+Terengganu,Marang,District,secondary_lower,2025,01/01/2025,100.3,Above 100 (retained),No,0,0,1,0,0
+Terengganu,Marang,District,secondary_upper,2021,01/01/2021,100.6,Above 100 (retained),No,0,0,1,0,0
+Terengganu,Marang,District,secondary_upper,2022,01/01/2022,98.3,OK,No,0,0,0,0,0
+Terengganu,Marang,District,secondary_upper,2023,01/01/2023,97.3,OK,No,0,0,0,0,0
+Terengganu,Marang,District,secondary_upper,2024,01/01/2024,98.5,OK,No,0,0,0,0,0
+Terengganu,Marang,District,secondary_upper,2025,01/01/2025,98.8,OK,No,0,0,0,0,0
+Terengganu,Setiu,District,primary,2021,01/01/2021,100.2,Above 100 (retained),No,0,0,1,0,0
+Terengganu,Setiu,District,primary,2022,01/01/2022,104.7,Above 100 (retained),No,0,0,1,0,0
+Terengganu,Setiu,District,primary,2023,01/01/2023,103.6,Above 100 (retained),No,0,0,1,0,0
+Terengganu,Setiu,District,primary,2024,01/01/2024,98.2,OK,No,0,0,0,0,0
+Terengganu,Setiu,District,primary,2025,01/01/2025,91.9,OK,No,0,0,0,0,0
+Terengganu,Setiu,District,secondary_lower,2021,01/01/2021,102.4,Above 100 (retained),No,0,0,1,0,0
+Terengganu,Setiu,District,secondary_lower,2022,01/01/2022,104,Above 100 (retained),Yes,0,0,1,0,1
+Terengganu,Setiu,District,secondary_lower,2023,01/01/2023,96.7,OK,No,0,0,0,0,0
+Terengganu,Setiu,District,secondary_lower,2024,01/01/2024,92.9,OK,No,0,0,0,0,0
+Terengganu,Setiu,District,secondary_lower,2025,01/01/2025,94.1,OK,No,0,0,0,0,0
+Terengganu,Setiu,District,secondary_upper,2021,01/01/2021,101.6,Above 100 (retained),No,0,0,1,0,0
+Terengganu,Setiu,District,secondary_upper,2022,01/01/2022,99.3,OK,No,0,0,0,0,0
+Terengganu,Setiu,District,secondary_upper,2023,01/01/2023,96.9,OK,No,0,0,0,0,0
+Terengganu,Setiu,District,secondary_upper,2024,01/01/2024,94.4,OK,No,0,0,0,0,0
+Terengganu,Setiu,District,secondary_upper,2025,01/01/2025,95.5,OK,No,0,0,0,0,0
+W.P. Kuala Lumpur,All Districts,State total,primary,2021,01/01/2021,93,OK,No,1,0,0,0,0
+W.P. Kuala Lumpur,All Districts,State total,primary,2022,01/01/2022,87.9,OK,No,1,0,0,0,0
+W.P. Kuala Lumpur,All Districts,State total,primary,2023,01/01/2023,92.9,OK,No,1,0,0,0,0
+W.P. Kuala Lumpur,All Districts,State total,primary,2024,01/01/2024,92.2,OK,No,1,0,0,0,0
+W.P. Kuala Lumpur,All Districts,State total,primary,2025,01/01/2025,87.9,OK,No,1,0,0,0,0
+W.P. Kuala Lumpur,All Districts,State total,secondary_lower,2021,01/01/2021,98.5,OK,No,1,0,0,0,0
+W.P. Kuala Lumpur,All Districts,State total,secondary_lower,2022,01/01/2022,98.5,OK,No,1,0,0,0,0
+W.P. Kuala Lumpur,All Districts,State total,secondary_lower,2023,01/01/2023,97,OK,No,1,0,0,0,0
+W.P. Kuala Lumpur,All Districts,State total,secondary_lower,2024,01/01/2024,98.6,OK,No,1,0,0,0,0
+W.P. Kuala Lumpur,All Districts,State total,secondary_lower,2025,01/01/2025,97.8,OK,No,1,0,0,0,0
+W.P. Kuala Lumpur,All Districts,State total,secondary_upper,2021,01/01/2021,99.3,OK,No,1,0,0,0,0
+W.P. Kuala Lumpur,All Districts,State total,secondary_upper,2022,01/01/2022,98.6,OK,No,1,0,0,0,0
+W.P. Kuala Lumpur,All Districts,State total,secondary_upper,2023,01/01/2023,98.1,OK,No,1,0,0,0,0
+W.P. Kuala Lumpur,All Districts,State total,secondary_upper,2024,01/01/2024,98.3,OK,No,1,0,0,0,0
+W.P. Kuala Lumpur,All Districts,State total,secondary_upper,2025,01/01/2025,97.6,OK,No,1,0,0,0,0
+W.P. Kuala Lumpur,Bangsar/Pudu,District,primary,2021,01/01/2021,92.9,OK,No,0,0,0,0,0
+W.P. Kuala Lumpur,Bangsar/Pudu,District,primary,2022,01/01/2022,87.1,Low outlier (IQR),Yes,0,0,0,0,1
+W.P. Kuala Lumpur,Bangsar/Pudu,District,primary,2023,01/01/2023,92.3,OK,No,0,0,0,0,0
+W.P. Kuala Lumpur,Bangsar/Pudu,District,primary,2024,01/01/2024,90.9,OK,No,0,0,0,0,0
+W.P. Kuala Lumpur,Bangsar/Pudu,District,primary,2025,01/01/2025,87.6,Low outlier (IQR),Yes,0,0,0,0,1
+W.P. Kuala Lumpur,Bangsar/Pudu,District,secondary_lower,2021,01/01/2021,98.7,OK,No,0,0,0,0,0
+W.P. Kuala Lumpur,Bangsar/Pudu,District,secondary_lower,2022,01/01/2022,98.8,OK,No,0,0,0,0,0
+W.P. Kuala Lumpur,Bangsar/Pudu,District,secondary_lower,2023,01/01/2023,97.1,OK,No,0,0,0,0,0
+W.P. Kuala Lumpur,Bangsar/Pudu,District,secondary_lower,2024,01/01/2024,98.7,OK,No,0,0,0,0,0
+W.P. Kuala Lumpur,Bangsar/Pudu,District,secondary_lower,2025,01/01/2025,97.9,OK,No,0,0,0,0,0
+W.P. Kuala Lumpur,Bangsar/Pudu,District,secondary_upper,2021,01/01/2021,99.3,OK,No,0,0,0,0,0
+W.P. Kuala Lumpur,Bangsar/Pudu,District,secondary_upper,2022,01/01/2022,98.7,OK,No,0,0,0,0,0
+W.P. Kuala Lumpur,Bangsar/Pudu,District,secondary_upper,2023,01/01/2023,91.7,Low outlier (IQR),Yes,0,0,0,0,1
+W.P. Kuala Lumpur,Bangsar/Pudu,District,secondary_upper,2024,01/01/2024,98.2,OK,No,0,0,0,0,0
+W.P. Kuala Lumpur,Bangsar/Pudu,District,secondary_upper,2025,01/01/2025,98.2,OK,No,0,0,0,0,0
+W.P. Kuala Lumpur,Keramat,District,primary,2021,01/01/2021,91.9,OK,No,0,0,0,0,0
+W.P. Kuala Lumpur,Keramat,District,primary,2022,01/01/2022,84.7,Low outlier (IQR),Yes,0,0,0,0,1
+W.P. Kuala Lumpur,Keramat,District,primary,2023,01/01/2023,92.6,OK,No,0,0,0,0,0
+W.P. Kuala Lumpur,Keramat,District,primary,2024,01/01/2024,91.6,OK,No,0,0,0,0,0
+W.P. Kuala Lumpur,Keramat,District,primary,2025,01/01/2025,89.8,OK,No,0,0,0,0,0
+W.P. Kuala Lumpur,Keramat,District,secondary_lower,2021,01/01/2021,97.8,OK,No,0,0,0,0,0
+W.P. Kuala Lumpur,Keramat,District,secondary_lower,2022,01/01/2022,96.9,OK,No,0,0,0,0,0
+W.P. Kuala Lumpur,Keramat,District,secondary_lower,2023,01/01/2023,97.6,OK,No,0,0,0,0,0
+W.P. Kuala Lumpur,Keramat,District,secondary_lower,2024,01/01/2024,98.3,OK,No,0,0,0,0,0
+W.P. Kuala Lumpur,Keramat,District,secondary_lower,2025,01/01/2025,96.8,OK,No,0,0,0,0,0
+W.P. Kuala Lumpur,Keramat,District,secondary_upper,2021,01/01/2021,99.4,OK,No,0,0,0,0,0
+W.P. Kuala Lumpur,Keramat,District,secondary_upper,2022,01/01/2022,98.4,OK,No,0,0,0,0,0
+W.P. Kuala Lumpur,Keramat,District,secondary_upper,2023,01/01/2023,98.4,OK,No,0,0,0,0,0
+W.P. Kuala Lumpur,Keramat,District,secondary_upper,2024,01/01/2024,98.8,OK,No,0,0,0,0,0
+W.P. Kuala Lumpur,Keramat,District,secondary_upper,2025,01/01/2025,98,OK,No,0,0,0,0,0
+W.P. Kuala Lumpur,Sentul,District,primary,2021,01/01/2021,94,OK,No,0,0,0,0,0
+W.P. Kuala Lumpur,Sentul,District,primary,2022,01/01/2022,92.8,OK,No,0,0,0,0,0
+W.P. Kuala Lumpur,Sentul,District,primary,2023,01/01/2023,94.3,OK,No,0,0,0,0,0
+W.P. Kuala Lumpur,Sentul,District,primary,2024,01/01/2024,95.3,OK,No,0,0,0,0,0
+W.P. Kuala Lumpur,Sentul,District,primary,2025,01/01/2025,86.7,Low outlier (IQR),Yes,0,0,0,0,1
+W.P. Kuala Lumpur,Sentul,District,secondary_lower,2021,01/01/2021,98.5,OK,No,0,0,0,0,0
+W.P. Kuala Lumpur,Sentul,District,secondary_lower,2022,01/01/2022,99,OK,No,0,0,0,0,0
+W.P. Kuala Lumpur,Sentul,District,secondary_lower,2023,01/01/2023,96.4,OK,No,0,0,0,0,0
+W.P. Kuala Lumpur,Sentul,District,secondary_lower,2024,01/01/2024,98.5,OK,No,0,0,0,0,0
+W.P. Kuala Lumpur,Sentul,District,secondary_lower,2025,01/01/2025,98.5,OK,No,0,0,0,0,0
+W.P. Kuala Lumpur,Sentul,District,secondary_upper,2021,01/01/2021,99.4,OK,No,0,0,0,0,0
+W.P. Kuala Lumpur,Sentul,District,secondary_upper,2022,01/01/2022,98.7,OK,No,0,0,0,0,0
+W.P. Kuala Lumpur,Sentul,District,secondary_upper,2023,01/01/2023,97.9,OK,No,0,0,0,0,0
+W.P. Kuala Lumpur,Sentul,District,secondary_upper,2024,01/01/2024,98,OK,No,0,0,0,0,0
+W.P. Kuala Lumpur,Sentul,District,secondary_upper,2025,01/01/2025,96.3,OK,No,0,0,0,0,0
+W.P. Labuan,All Districts,State total,primary,2021,01/01/2021,90.9,OK,No,1,0,0,0,0
+W.P. Labuan,All Districts,State total,primary,2022,01/01/2022,87,Low outlier (IQR),Yes,1,0,0,0,1
+W.P. Labuan,All Districts,State total,primary,2023,01/01/2023,92.9,OK,No,1,0,0,0,0
+W.P. Labuan,All Districts,State total,primary,2024,01/01/2024,92.2,OK,No,1,0,0,0,0
+W.P. Labuan,All Districts,State total,primary,2025,01/01/2025,92.6,OK,No,1,0,0,0,0
+W.P. Labuan,All Districts,State total,secondary_lower,2021,01/01/2021,99.5,OK,No,1,0,0,0,0
+W.P. Labuan,All Districts,State total,secondary_lower,2022,01/01/2022,102.8,Above 100 (retained),No,1,0,1,0,0
+W.P. Labuan,All Districts,State total,secondary_lower,2023,01/01/2023,99.9,OK,No,1,0,0,0,0
+W.P. Labuan,All Districts,State total,secondary_lower,2024,01/01/2024,96,OK,No,1,0,0,0,0
+W.P. Labuan,All Districts,State total,secondary_lower,2025,01/01/2025,97.7,OK,No,1,0,0,0,0
+W.P. Labuan,All Districts,State total,secondary_upper,2021,01/01/2021,98.6,OK,No,1,0,0,0,0
+W.P. Labuan,All Districts,State total,secondary_upper,2022,01/01/2022,103.1,Above 100 (retained),Yes,1,0,1,0,1
+W.P. Labuan,All Districts,State total,secondary_upper,2023,01/01/2023,95.3,OK,No,1,0,0,0,0
+W.P. Labuan,All Districts,State total,secondary_upper,2024,01/01/2024,96.5,OK,No,1,0,0,0,0
+W.P. Labuan,All Districts,State total,secondary_upper,2025,01/01/2025,96.6,OK,No,1,0,0,0,0
+W.P. Putrajaya,All Districts,State total,primary,2021,01/01/2021,102.1,Above 100 (retained),No,1,0,1,0,0
+W.P. Putrajaya,All Districts,State total,primary,2022,01/01/2022,106.4,Above 100 (retained),No,1,0,1,0,0
+W.P. Putrajaya,All Districts,State total,primary,2023,01/01/2023,103.1,Above 100 (retained),No,1,0,1,0,0
+W.P. Putrajaya,All Districts,State total,primary,2024,01/01/2024,105.7,Above 100 (retained),No,1,0,1,0,0
+W.P. Putrajaya,All Districts,State total,primary,2025,01/01/2025,110.4,Above 100 (retained),Yes,1,0,1,0,1
+W.P. Putrajaya,All Districts,State total,secondary_lower,2021,01/01/2021,100.9,Above 100 (retained),No,1,0,1,0,0
+W.P. Putrajaya,All Districts,State total,secondary_lower,2022,01/01/2022,102.2,Above 100 (retained),No,1,0,1,0,0
+W.P. Putrajaya,All Districts,State total,secondary_lower,2023,01/01/2023,100.4,Above 100 (retained),No,1,0,1,0,0
+W.P. Putrajaya,All Districts,State total,secondary_lower,2024,01/01/2024,100.6,Above 100 (retained),No,1,0,1,0,0
+W.P. Putrajaya,All Districts,State total,secondary_lower,2025,01/01/2025,100.6,Above 100 (retained),No,1,0,1,0,0
+W.P. Putrajaya,All Districts,State total,secondary_upper,2021,01/01/2021,101.4,Above 100 (retained),No,1,0,1,0,0
+W.P. Putrajaya,All Districts,State total,secondary_upper,2022,01/01/2022,101.3,Above 100 (retained),No,1,0,1,0,0
+W.P. Putrajaya,All Districts,State total,secondary_upper,2023,01/01/2023,101.7,Above 100 (retained),No,1,0,1,0,0
+W.P. Putrajaya,All Districts,State total,secondary_upper,2024,01/01/2024,100.9,Above 100 (retained),No,1,0,1,0,0
+W.P. Putrajaya,All Districts,State total,secondary_upper,2025,01/01/2025,100.5,Above 100 (retained),No,1,0,1,0,0
