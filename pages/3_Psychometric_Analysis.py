@@ -48,7 +48,7 @@ else:
     # 4. Raw Data Preview
     st.subheader("Raw Data Preview")
     preview_cols = ["Respondent_ID", "TEST MARK", "Positive view", "Mindset", "Q1", "Q2", "Q3"]
-    st.dataframe(filtered_df[preview_cols].head(10), use_container_width=True)
+    st.dataframe(filtered_df[preview_cols].head(5), use_container_width=True)
 
     # 5. Interactive Visualizations (Correlation Heatmap & Scatter Plot)
     st.subheader("Correlation Matrix & Psychometric Relationship")
