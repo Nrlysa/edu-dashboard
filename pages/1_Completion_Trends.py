@@ -79,7 +79,7 @@ else:
     # 4. Raw Data Preview
     st.subheader("Raw Data Preview")
     preview_cols = ["state", "district", "Stage_Label", "year", "completion", "quality_flag"]
-    st.dataframe(filtered_df[preview_cols].head(10), use_container_width=True)
+    st.dataframe(filtered_df[preview_cols].head(5), use_container_width=True)
 
     # 5. Interactive Visualization
     st.subheader("School Completion Rate Trends by Stage")
