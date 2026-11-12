@@ -3,17 +3,22 @@ import pandas as pd
 import plotly.express as px
 
 st.set_page_config(page_title="School Density", layout="wide")
-st.title("2. Institutional Density & Sector Reliance")
+st.title("2. Institutional Density & Public vs. Private Reliance")
 
-df_schools = pd.read_excel("dataset_schools_cleaned (1).xlsx")
+@st.cache_data
+def load_schools_data():
+    return pd.read_excel("dataset_schools_cleaned (1).xlsx")
 
-selected_area = st.multiselect(
-    "Filter by Area:",
-    options=sorted(df_schools["Area"].dropna().unique()),
-    default=sorted(df_schools["Area"].dropna().unique())[:5]
+df_schools = load_schools_data()
+all_areas = sorted(df_schools["Area"].dropna().unique())
+
+selected_areas = st.multiselect(
+    "Tapis Mengikut Kawasan (Area):",
+    options=all_areas,
+    default=all_areas[:5]
 )
 
-filtered_schools = df_schools[df_schools["Area"].isin(selected_area)]
+filtered_schools = df_schools[df_schools["Area"].isin(selected_areas)]
 grouped = filtered_schools.groupby(["Level", "Status"]).size().reset_index(name="School Count")
 
 fig = px.bar(
@@ -22,6 +27,7 @@ fig = px.bar(
     y="School Count",
     color="Status",
     barmode="group",
-    title="Public vs. Private School Distribution by Education Level"
+    labels={"Level": "School Level", "School Count": "Number of Schools", "Status": "Sector"},
+    title="Distribution of Public vs. Private Schools by Level of Education"
 )
 st.plotly_chart(fig, use_container_width=True)
