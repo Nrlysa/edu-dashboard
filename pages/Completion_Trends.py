@@ -3,15 +3,22 @@ import pandas as pd
 import plotly.express as px
 
 st.set_page_config(page_title="Completion Trends", layout="wide")
-st.title("1. District School Completion Trends")
+st.title("1. District School Completion Trends (2021–2025)")
 
-df_comp = pd.read_csv("completion_school_district_cleaned_final.csv")
-df_district = df_comp[df_comp["area_level"] == "District"]
+@st.cache_data
+def load_completion_data():
+    df = pd.read_csv("completion_school_district_cleaned_final.csv")
+    return df[df["area_level"] == "District"]
 
-selected_state = st.selectbox("Select State:", sorted(df_district["state"].unique()))
+df_district = load_completion_data()
+
+selected_state = st.selectbox(
+    "Pilih Negeri (State):",
+    options=sorted(df_district["state"].dropna().unique())
+)
+
 filtered_df = df_district[df_district["state"] == selected_state]
-
-trend_df = filtered_df.groupby(["year", "stage"])["completion"].mean().reset_index()
+trend_df = filtered_df.groupby(["year", "stage"], as_index=False)["completion"].mean()
 
 fig = px.line(
     trend_df,
@@ -19,7 +26,8 @@ fig = px.line(
     y="completion",
     color="stage",
     markers=True,
-    title=f"Average Completion Rate by Stage in {selected_state}"
+    labels={"year": "Tahun", "completion": "Kadar Penyiapan (%)", "stage": "Peringkat"},
+    title=f"Purata Kadar Penyiapan Sekolah Mengikut Peringkat di {selected_state}"
 )
 fig.update_xaxes(dtick=1)
 st.plotly_chart(fig, use_container_width=True)
