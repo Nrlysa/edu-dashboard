@@ -59,7 +59,7 @@ if filtered_df.empty:
 else:
     # 4. Raw Data Preview
     st.subheader("Raw Data Preview")
-    st.dataframe(filtered_df.head(10), use_container_width=True)
+    st.dataframe(filtered_df.head(5), use_container_width=True)
 
     # 5. Interactive Visualization
     st.subheader("Public vs. Private School Distribution by Education Level")
